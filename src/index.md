@@ -7,7 +7,7 @@ title: Command Post
 
 <p class="text">Independent operator. Strategic perception. Applied influence.</p>
 
-Clarity. Leverage. Movement.
+Clarity. Leverage. Movement.  
 
 I work with people navigating real stakes — relationships, money, work, power dynamics, turning points. The tools vary: psychological, strategic, sometimes symbolic. The aim is always the same:
 
