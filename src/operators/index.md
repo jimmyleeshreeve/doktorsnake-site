@@ -8,7 +8,7 @@ noindex: true
 
 `\>> edge.cult / operator.lexicon / signal.edition`
 
-### Operator Lexicon — Signal Edition
+## Operator Lexicon — Signal Edition
 
 A quiet page for those who notice things.
 
