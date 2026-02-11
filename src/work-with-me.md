@@ -41,11 +41,36 @@ I work with individuals who want **clarity, leverage, and movement** in real sit
 
 ## Levels of Influence Working
 
-| Tier | Best For | Style |
-|------|---------|-------|
-| **EtherBlast** | One focused situation | Precise, fast, direct |
-| **MegaBlast** | Interlinked issues | Layered, multi-vector |
-| **GigaBlast** | Major life pivot | Deep, strategic field shift |
+<table class="ds-table">
+  <thead>
+    <tr>
+      <th>Tier</th>
+      <th>Best For</th>
+      <th>Style</th>
+      <th>Investment</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>EtherBlast</strong></td>
+      <td>One focused situation</td>
+      <td>Precise, fast, direct</td>
+      <td><strong>$375</strong></td>
+    </tr>
+    <tr>
+      <td><strong>MegaBlast</strong></td>
+      <td>Interlinked issues</td>
+      <td>Layered, multi-vector</td>
+      <td><strong>$667</strong></td>
+    </tr>
+    <tr>
+      <td><strong>GigaBlast</strong></td>
+      <td>Major life pivot</td>
+      <td>Deep, strategic field shift</td>
+      <td><strong>$1,200</strong></td>
+    </tr>
+  </tbody>
+</table>
 
 > If you’re unsure which tier fits, describe the situation and I’ll advise.
 
