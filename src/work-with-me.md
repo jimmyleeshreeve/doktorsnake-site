@@ -1,133 +1,94 @@
----
-layout: layout.njk
-title: Work With Me
----
-
 # Work With Me
 
-If you’ve come via Substack, podcasts, or video, you already know the tone of my work.
+I work with individuals who want **clarity, leverage, and movement** in real situations — career, money, decisions, direction, and complex life transitions.
 
-This site is where it becomes operational: clarity, leverage, and movement in real situations — without theatre.
+> You don’t need to believe in anything. You need a situation that needs shifting.
 
 ---
 
-<p class="text"><strong>Different situations require different levels of involvement. Choose the depth of influence that matches what you are facing.</strong></p>
+## Two Ways We Work Together
 
-<div class="card">
+### Influence Workings  
+**When something external needs to move**
 
-  <div style="overflow-x:auto;">
-    <table style="width:100%; border-collapse:collapse; min-width:700px;">
+- Career blocks and stalled opportunities  
+- Financial stagnation or pressure  
+- Relationship tension or interference  
+- Hostile or draining environments  
+- Situations with deadlines and high stakes  
 
-      <thead>
-        <tr>
-          <th></th>
-          <th style="text-align:left; padding:10px;">EtherBlast</th>
-          <th style="text-align:left; padding:10px;">MegaBlast</th>
-          <th style="text-align:left; padding:10px;">GigaBlast</th>
-        </tr>
-      </thead>
+<a class="btn" href="/etherblast/">See Influence Workings →</a>
 
-      <tbody>
+---
 
-        <tr>
-          <td style="padding:8px; color:var(--muted);">Focus</td>
-          <td style="padding:8px;">One key pressure point</td>
-          <td style="padding:8px;">Several linked factors</td>
-          <td style="padding:8px;">Entire situation pattern</td>
-        </tr>
+### Dokology  
+**When *you* need sharper perception, control, and strategic thinking**
 
-        <tr>
-          <td style="padding:8px; color:var(--muted);">Best For</td>
-          <td style="padding:8px;">A single blockage or decision</td>
-          <td style="padding:8px;">Interconnected problems</td>
-          <td style="padding:8px;">Major life or career turning points</td>
-        </tr>
+- Recurring life patterns that keep repeating  
+- Emotional turbulence or mental overwhelm  
+- Overthinking, internal noise, or indecision  
+- Leadership under pressure  
+- High-stakes decision environments  
 
-        <tr>
-          <td style="padding:8px; color:var(--muted);">Scope</td>
-          <td style="padding:8px;">Precision adjustment</td>
-          <td style="padding:8px;">Coordinated multi-point shift</td>
-          <td style="padding:8px;">Full-field realignment</td>
-        </tr>
+<a class="btn" href="/dokology/">Explore Dokology →</a>
 
-        <tr>
-          <td style="padding:8px; color:var(--muted);">Intentions</td>
-          <td style="padding:8px;">One clear outcome</td>
-          <td style="padding:8px;">Up to three related outcomes</td>
-          <td style="padding:8px;">Broad situation influence</td>
-        </tr>
+---
 
-        <tr>
-          <td style="padding:8px; color:var(--muted);">Engagement Depth</td>
-          <td style="padding:8px;">Focused working</td>
-          <td style="padding:8px;">Deeper layered working</td>
-          <td style="padding:8px;">Extended full-field operation</td>
-        </tr>
+## Levels of Influence Working
 
-        <tr>
-          <td style="padding:8px; color:var(--muted);">Outcome Style</td>
-          <td style="padding:8px;">Targeted movement</td>
-          <td style="padding:8px;">Momentum across areas</td>
-          <td style="padding:8px;">Shift in overall trajectory</td>
-        </tr>
+| Tier | Best For | Style |
+|------|---------|-------|
+| **EtherBlast** | One focused situation | Precise, fast, direct |
+| **MegaBlast** | Interlinked issues | Layered, multi-vector |
+| **GigaBlast** | Major life pivot | Deep, strategic field shift |
 
-        <tr>
-          <td style="padding:8px; color:var(--muted);">Report Included</td>
-          <td style="padding:8px;">✔</td>
-          <td style="padding:8px;">✔</td>
-          <td style="padding:8px;">✔ (more detailed)</td>
-        </tr>
+> If you’re unsure which tier fits, describe the situation and I’ll advise.
 
-        <tr>
-          <td style="padding:8px; color:var(--muted);">Investment</td>
-          <td style="padding:8px;"><strong>$375</strong></td>
-          <td style="padding:8px;"><strong>$667</strong></td>
-          <td style="padding:8px;"><strong>$1,200</strong></td>
-        </tr>
+---
 
-        <tr>
-          <td></td>
-          <td style="padding:12px 8px;">
-            <a class="btn" href="/etherblast/">Choose EtherBlast →</a>
-          </td>
-          <td style="padding:12px 8px;">
-            <a class="btn" href="/megablast/">Choose MegaBlast →</a>
-          </td>
-          <td style="padding:12px 8px;">
-            <a class="btn" href="/gigablast/">Choose GigaBlast →</a>
-          </td>
-        </tr>
+## Dokology — The Internal Advantage
 
-      </tbody>
-    </table>
-  </div>
+Dokology is not a one-off reading.  
+It is a structured way of developing perception, composure, and decision-making clarity over time.
 
-</div>
+It helps you:
 
-<p>If you are unsure which level fits your situation, use the contact page and describe what is happening. I will advise on the most appropriate approach.</p>
+- Interrupt mental loops  
+- Regain emotional control under pressure  
+- Think clearly in complex environments  
+- Make high-stakes decisions with less noise  
+- Shift from reaction to strategy  
 
-<hr>
+<a class="btn" href="/dokology/">Apply for Dokology →</a>
 
-## Readings and Dokology
+---
 
-<div class="card">
-  <h3>Readings</h3>
-  <p>High-signal interpretation: what’s really going on, where leverage is, and the simplest next move.</p>
-  <p><a class="btn" href="/readings/">Readings →</a></p>
-</div>
+## Best Fit Clients
 
-<div class="card" style="margin-top:20px">
-  <h3>Dokology</h3>
-  <p>Applied mind-tech for operators: attention control, emotional calibration, strategic perception.</p>
-  <p><strong>Investment:</strong> $2,400 / year (best value) or $250 / month</p>
-  <p><a class="btn" href="/dokology/">Dokology →</a></p>
-</div>
+This work is best suited to:
 
-<hr>
+- Entrepreneurs and independent professionals  
+- People navigating complex life transitions  
+- Individuals with high responsibility or decision pressure  
+- Those open to unconventional frameworks  
+- People who want **results**, not comfort stories  
 
-## Not Sure Where You Fit?
+> This is not entertainment. This is applied work.
 
-Send a short description of your situation, your desired outcome, and any deadline.
+---
 
-<p><a class="btn" href="/contact/">Contact →</a></p>
+## Entry Point
+
+If you’re unsure whether you need Dokology or an influence working first, send:
+
+- what’s happening  
+- what outcome you want  
+- any deadline  
+
+I’ll recommend the cleanest starting point.
+
+<!-- Formspree form goes directly below this section -->
+
+> Clarity is a performance advantage.  
+> Attention is a strategic asset.
 
