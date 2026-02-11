@@ -1,3 +1,8 @@
+---
+layout: layout.njk
+title: GigaBlast
+---
+
 # Work With Me
 
 I work with individuals who want **clarity, leverage, and movement** in real situations — career, money, decisions, direction, and complex life transitions.
