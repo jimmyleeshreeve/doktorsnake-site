@@ -1,9 +1,9 @@
 ---
 layout: layout.njk
-title: GigaBlast
+title: Work With Me
 ---
 
-# Work With Me
+# Work With Doktor Snake
 
 I work with individuals who want **clarity, leverage, and movement** in real situations — career, money, decisions, direction, and complex life transitions.
 
@@ -11,7 +11,7 @@ I work with individuals who want **clarity, leverage, and movement** in real sit
 
 ---
 
-## Two Ways We Work Together
+## Two Engagement Paths
 
 ### Influence Workings  
 **When something external needs to move**
@@ -22,24 +22,11 @@ I work with individuals who want **clarity, leverage, and movement** in real sit
 - Hostile or draining environments  
 - Situations with deadlines and high stakes  
 
-<a class="btn" href="/etherblast/">See Influence Workings →</a>
+<a class="btn" href="/etherblast/">View Influence Options →</a>
 
 ---
 
-### Dokology  
-**When *you* need sharper perception, control, and strategic thinking**
-
-- Recurring life patterns that keep repeating  
-- Emotional turbulence or mental overwhelm  
-- Overthinking, internal noise, or indecision  
-- Leadership under pressure  
-- High-stakes decision environments  
-
-<a class="btn" href="/dokology/">Explore Dokology →</a>
-
----
-
-## Levels of Influence Working
+## Influence Tiers
 
 <table class="ds-table">
   <thead>
@@ -48,38 +35,70 @@ I work with individuals who want **clarity, leverage, and movement** in real sit
       <th>Best For</th>
       <th>Style</th>
       <th>Investment</th>
+      <th></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><strong>EtherBlast</strong></td>
-      <td>One focused situation</td>
-      <td>Precise, fast, direct</td>
-      <td><strong>$375</strong></td>
+      <td data-label="Tier"><strong>EtherBlast</strong></td>
+      <td data-label="Best For">One focused situation</td>
+      <td data-label="Style">Precise, fast, direct</td>
+      <td data-label="Investment"><strong>$375</strong></td>
+      <td><a class="btn" href="/etherblast/">Enter EtherBlast →</a></td>
     </tr>
     <tr>
-      <td><strong>MegaBlast</strong></td>
-      <td>Interlinked issues</td>
-      <td>Layered, multi-vector</td>
-      <td><strong>$667</strong></td>
+      <td data-label="Tier"><strong>MegaBlast</strong></td>
+      <td data-label="Best For">Interlinked issues</td>
+      <td data-label="Style">Layered, multi-vector</td>
+      <td data-label="Investment"><strong>$667</strong></td>
+      <td><a class="btn" href="/megablast/">Enter MegaBlast →</a></td>
     </tr>
     <tr>
-      <td><strong>GigaBlast</strong></td>
-      <td>Major life pivot</td>
-      <td>Deep, strategic field shift</td>
-      <td><strong>$1,200</strong></td>
+      <td data-label="Tier"><strong>GigaBlast</strong></td>
+      <td data-label="Best For">Major life pivot</td>
+      <td data-label="Style">Deep, strategic field shift</td>
+      <td data-label="Investment"><strong>$1,200</strong></td>
+      <td><a class="btn" href="/gigablast/">Enter GigaBlast →</a></td>
     </tr>
   </tbody>
 </table>
 
-> If you’re unsure which tier fits, describe the situation and I’ll advise.
+<p class="note">Not sure which tier fits? Send the situation and I’ll advise.</p>
+
+---
+
+## Tier Selection Guide
+
+Use this as a quick orientation:
+
+### Choose **EtherBlast** if…
+- There’s **one clear outcome** that matters most  
+- The situation is focused, not tangled  
+- You need a **direct shift** rather than a strategic overhaul  
+
+### Choose **MegaBlast** if…
+- Several factors are interacting (money + career + pressure, etc.)  
+- One person or situation is creating **multiple problems**  
+- You need **coordinated movement** rather than a single lever  
+
+### Choose **GigaBlast** if…
+- You’re at a **major life pivot**  
+- The situation is long-standing or deeply entrenched  
+- Institutions, systems, or layered constraints are involved  
+- A smaller intervention has already failed  
+
+> If you’re unsure, describe the situation. I’ll recommend the cleanest and most efficient level before anything proceeds.
+
+<a class="btn" href="/contact/">Send Situation Brief →</a>
 
 ---
 
 ## Dokology — The Internal Advantage
 
-Dokology is not a one-off reading.  
-It is a structured way of developing perception, composure, and decision-making clarity over time.
+Influence work shifts external conditions.  
+**Dokology shifts your operating state.**
+
+This is structured perceptual training and strategic calibration over time.
 
 It helps you:
 
@@ -89,11 +108,30 @@ It helps you:
 - Make high-stakes decisions with less noise  
 - Shift from reaction to strategy  
 
-<a class="btn" href="/dokology/">Apply for Dokology →</a>
+<a class="btn" href="/dokology/">Begin Dokology Briefing →</a>
 
 ---
 
-## Best Fit Clients
+## Who This Work Tends to Attract
+
+Most people who come here are not curious browsers.
+
+They’re already carrying responsibility, navigating pressure, or making decisions that affect more than just themselves.
+
+They tend to be:
+
+- People whose choices have real consequences  
+- Individuals operating in complex environments  
+- Those used to solving problems — but facing something that won’t yield to effort alone  
+- Quiet operators who prefer discretion over display  
+
+This is not about belief systems or identity.
+
+It’s about **leverage**, **timing**, and **clarity** when something important is at stake.
+
+---
+
+### Best Fit Profile
 
 This work is best suited to:
 
@@ -117,7 +155,7 @@ If you’re unsure whether you need Dokology or an influence working first, send
 
 I’ll recommend the cleanest starting point.
 
-<!-- Formspree form goes directly below this section -->
+<p class="note">Most clients arrive through referrals, quiet recommendation, or after following the work for some time.</p>
 
 > Clarity is a performance advantage.  
 > Attention is a strategic asset.

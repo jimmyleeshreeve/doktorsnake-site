@@ -221,6 +221,175 @@ blockquote::before{
   .ds-table th, .ds-table td{ white-space: nowrap; }
 }
 
+/* ===== Influence Tier Table ===== */
+.ds-table{
+  width:100%;
+  border-collapse:collapse;
+  margin:24px 0;
+  font-size:0.95rem;
+}
+
+.ds-table th,
+.ds-table td{
+  padding:14px 12px;
+  border-bottom:1px solid var(--border);
+  text-align:left;
+  vertical-align:middle;
+}
+
+.ds-table thead th{
+  font-family:var(--mono);
+  text-transform:uppercase;
+  letter-spacing:.08em;
+  font-size:0.78rem;
+  color:var(--matrix);
+}
+
+/* Make last column (buttons) tighter */
+.ds-table td:last-child{
+  text-align:right;
+  white-space:nowrap;
+}
+
+/* Table buttons smaller than normal CTAs */
+.ds-table .btn{
+  padding:6px 14px;
+  font-size:0.72rem;
+  letter-spacing:.14em;
+}
+
+/* Subtle hover lift */
+.ds-table .btn:hover{
+  transform:translateY(-1px);
+}
+
+/* Mobile stacking */
+@media (max-width: 720px){
+
+  .ds-table thead{
+    display:none;
+  }
+
+  .ds-table tr{
+    display:block;
+    border:1px solid var(--border);
+    border-radius:14px;
+    margin-bottom:14px;
+    padding:10px 12px;
+    background:linear-gradient(180deg,#0c0c0c,#070707);
+  }
+
+  .ds-table td{
+    display:flex;
+    justify-content:space-between;
+    padding:6px 0;
+    border:none;
+    font-size:0.9rem;
+  }
+
+  .ds-table td:last-child{
+    justify-content:flex-end;
+    margin-top:8px;
+  }
+
+  .ds-table td::before{
+    content:attr(data-label);
+    color:var(--muted);
+    font-size:0.72rem;
+    text-transform:uppercase;
+    letter-spacing:.08em;
+  }
+}
+
+/* ===== Dokology Pricing Card ===== */
+.ds-price-card{
+  margin: 28px 0 12px;
+  padding: 2px;
+  border-radius: 20px;
+  background: linear-gradient(
+    135deg,
+    rgba(33,245,106,0.35),
+    rgba(33,245,106,0.05)
+  );
+}
+
+.ds-price-card-inner{
+  background: linear-gradient(180deg, #0f0f0f, #070707);
+  border-radius: 18px;
+  padding: 26px 24px;
+  border: 1px solid var(--border);
+  box-shadow: 0 0 24px rgba(0,0,0,0.8);
+}
+
+.ds-price-card h3{
+  margin-top: 0;
+  margin-bottom: 6px;
+}
+
+.ds-price-sub{
+  margin: 0 0 18px;
+  color: var(--muted);
+}
+
+.ds-price-options{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 18px;
+  align-items: stretch;
+  margin-bottom: 14px;
+}
+
+.ds-price-option{
+  flex: 1 1 180px;
+  padding: 16px 14px;
+  border-radius: 14px;
+  background: rgba(33,245,106,0.05);
+  border: 1px solid rgba(33,245,106,0.18);
+  text-align: center;
+}
+
+.ds-price-label{
+  display: block;
+  font-family: var(--mono);
+  font-size: 0.75rem;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  color: var(--matrix);
+  margin-bottom: 6px;
+}
+
+.ds-price-amount{
+  display: block;
+  font-size: 1.6rem;
+  font-weight: 600;
+  margin-bottom: 4px;
+}
+
+.ds-price-note{
+  display: block;
+  font-size: 0.85rem;
+  color: var(--muted);
+}
+
+.ds-price-divider{
+  width: 1px;
+  background: linear-gradient(
+    to bottom,
+    transparent,
+    rgba(33,245,106,0.3),
+    transparent
+  );
+}
+
+@media (max-width: 640px){
+  .ds-price-options{
+    flex-direction: column;
+  }
+  .ds-price-divider{
+    display: none;
+  }
+}
+
 /* ===== Operator Terms (inline code / commands / jargon) ===== */
 code{
   font-family: var(--mono);
@@ -464,4 +633,72 @@ body::after{
   );
   box-shadow: 0 0 8px rgba(33,245,106,0.2);
 }
+
+.footer-about{
+  margin-bottom:28px;
+  max-width:620px;
+}
+
+.footer-about h3{
+  margin-top:0;
+  font-size:0.85rem;
+  color:var(--matrix);
+  letter-spacing:.08em;
+  text-transform:uppercase;
+}
+
+.footer-about p{
+  font-size:0.85rem;
+  color:var(--muted);
+  margin:6px 0;
+}
+
+/* ===== HR: Matrix dots ===== */
+.ds-hr{
+  border:0;
+  margin: 40px 0 26px;
+  height:1px;
+}
+
+.ds-hr--dots{
+  height: 10px;
+  background:
+    radial-gradient(circle, rgba(33,245,106,0.45) 1px, transparent 2px) 0 50% / 14px 10px repeat-x;
+  opacity: 0.55;
+  filter: drop-shadow(0 0 6px rgba(33,245,106,0.15));
+}
+
+/* ===== Footer divider ===== */
+.footer-divider{
+  height:1px;
+  margin: 18px 0 16px;
+  background: linear-gradient(
+    to right,
+    transparent,
+    rgba(33,245,106,0.22),
+    transparent
+  );
+  box-shadow: 0 0 10px rgba(33,245,106,0.10);
+  opacity: 0.9;
+}
+
+.copy-note{
+  display:block;
+  font-size:0.78rem;
+  color:var(--muted);
+  line-height:1.45;
+  letter-spacing:.02em;
+}
+
+.copy-note br{
+  display:block;
+  margin-top:4px;
+}
+
+.copy-note em,
+.copy-note span{
+  color:rgba(242,242,242,0.65);
+  font-style:italic;
+}
+
 

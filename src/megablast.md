@@ -5,60 +5,149 @@ title: MegaBlast
 
 # MegaBlast
 
-<p class="text"><strong>Multi-vector influence. Coordinated movement. Structural change.</strong></p>
+## Multi-Vector Influence
 
-Some situations don’t shift because several elements are locked together — people, pressure, money, timing, emotional charge. Adjusting just one factor isn’t enough.
+Three intentions. One coordinated operation.
 
-**MegaBlast works across multiple pressure points at once**, creating movement where a single intervention would stall.
+MegaBlast is for situations where **everything is connected**: money + career + interference, love + pressure + timing, or “one person causes three problems.”
 
-This is a coordinated operation, not a single strike.
+EtherBlast is a single strike.  
+MegaBlast is a **multi-vector push**.
 
----
-
-### When MegaBlast Is the Right Tool
-
-MegaBlast is suited to situations where problems are *interconnected*, for example:
-
-* Career blockage tied to rivalry, confidence, and stalled opportunity
-* Relationship strain combined with outside interference and miscommunication
-* Financial pressure linked to work conditions and hidden resistance
-* Legal or institutional stress with multiple moving parts
-* Long-running stagnation where energy feels “held in place”
-
-Here, change requires **shifting the pattern**, not just nudging one event.
+> If the situation has more than one moving part, you don’t want a single lever. You want a coordinated set.
 
 ---
 
-### How the Working Is Done
+## Best For
 
-MegaBlast involves deeper trance engagement and broader field work than EtherBlast. Instead of focusing on one thread, multiple connected threads are held and influenced together.
-
-The aim is to create **momentum across the situation as a whole**, so movement in one area supports movement in the others.
-
-Workings are carried out at quiet, power-ground locations, where sustained focus and layered intention can be applied without distraction.
+- Three linked outcomes (example: *money flow* + *career opening* + *protection*)  
+- Complex relationship dynamics (third-party interference, destabilising influence)  
+- Multiple pressures converging (work, legal, family, health stress)  
+- A “messy field” where clarity and momentum must be restored  
 
 ---
 
-### After You Book
+## What Gets Done
 
-1. You outline the situation and up to **three linked outcomes** you want to influence
-2. The working is scheduled and carried out as a single coordinated operation
-3. You receive a detailed report covering:
+### The Working
 
-   * How the threads of the situation appeared in the field
-   * What adjustments were made
-   * Practical guidance to help you work with the shifting momentum
+I build a three-intention structure and run it as a coordinated operation: stabilise, clear resistance, push movement.
 
-If your situation calls for full life-pattern realignment, GigaBlast may be more appropriate.
+You receive:
+
+- confirmed timing window  
+- a post-working report (what was done + what surfaced)  
+- follow-through instruction (simple reinforcement action)  
+
+<p class="note">MegaBlast is built for situations with cross-talk — where one change affects the others.</p>
+
+---
+
+## Operational Sequence
+
+1. **You send a concise briefing**  
+   Situation, desired outcome, and any timing pressure.
+
+2. **I confirm fit and timing**  
+   If the tier isn’t right, I’ll recommend the correct level before payment.
+
+3. **The working is carried out**  
+   Quietly, privately, and without ongoing demands on your time.
+
+4. **You receive a short report**  
+   What was done, what surfaced, and one follow-through instruction if needed.
+
+<p class="note">This work is practical. It does not require belief, ritual participation, or lifestyle changes.</p>
+
+---
+
+## Operational Notes
+
+### How fast do results show?
+Some shifts happen quickly. Others unfold as obstacles clear and new pathways open. Think in terms of **movement**, not spectacle.
+
+### Do you need personal details or photos?
+No. A clear description of the situation is enough. Only share what feels relevant and appropriate.
+
+### What if I’m unsure which tier fits?
+Send the situation anyway. I’ll recommend the cleanest and most efficient level before anything proceeds.
+
+### Is this therapy, coaching, or fortune-telling?
+No. This is applied influence work focused on shifting real-world conditions.
 
 ---
 
 ## Investment
 
-**$667 USD**
+<div class="card">
+  <h3>MegaBlast</h3>
+  <p><strong>$667</strong> — three intentions</p>
+  <p class="note">Payment is handled by invoice/secure link after we confirm fit and timing.</p>
+  <a class="btn" href="#megablast-enquiry">Begin MegaBlast →</a>
+</div>
 
-<p class="text">Discreet. Remote. Structured influence across your situation.</p>
+---
 
-<div class="card"> <h3>Begin Your MegaBlast</h3> <p>Use the contact form to describe your situation and the key areas that need to shift.</p> <p><a class="btn" href="/contact/">Start Here →</a></p> </div>
+<h2 id="megablast-enquiry">Begin MegaBlast</h2>
 
+<div class="card">
+  <h3>Open MegaBlast Briefing</h3>
+  <p>Describe the situation and list up to three outcomes you want moved.</p>
+
+  <form action="https://formspree.io/f/xjgeveba" method="POST">
+    <input type="hidden" name="_subject" value="MegaBlast enquiry — DoktorSnake.com">
+    <input type="hidden" name="service" value="MegaBlast">
+    <input type="hidden" name="_redirect" value="https://doktorsnake.com/thanks/">
+
+    <p>
+      <label>Your Name<br>
+        <input type="text" name="name" autocomplete="name" required>
+      </label>
+    </p>
+
+    <p>
+      <label>Email Address<br>
+        <input type="email" name="email" autocomplete="email" required>
+      </label>
+    </p>
+
+    <p>
+      <label>Situation overview<br>
+        <textarea name="situation" rows="6" required placeholder="What’s happening? What’s entangled?"></textarea>
+      </label>
+    </p>
+
+    <p>
+      <label>Outcome 1<br>
+        <input type="text" name="outcome_1" required placeholder="e.g. secure role / unblock cash / restore calm">
+      </label>
+    </p>
+
+    <p>
+      <label>Outcome 2<br>
+        <input type="text" name="outcome_2" placeholder="Optional (up to three total)">
+      </label>
+    </p>
+
+    <p>
+      <label>Outcome 3<br>
+        <input type="text" name="outcome_3" placeholder="Optional (up to three total)">
+      </label>
+    </p>
+
+    <p>
+      <label>Deadline / timing pressure (if any)<br>
+        <input type="text" name="deadline" placeholder="e.g. court date / interview / no deadline">
+      </label>
+    </p>
+
+    <input type="text" name="_gotcha" style="display:none">
+
+    <p style="margin-top:14px">
+      <button class="btn" type="submit">Send Briefing →</button>
+    </p>
+
+    <p style="margin-top:10px"><em>Payment begins after we confirm fit and timing.</em></p>
+  </form>
+</div>
 

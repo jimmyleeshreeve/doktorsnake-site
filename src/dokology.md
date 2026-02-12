@@ -5,100 +5,80 @@ title: Dokology
 
 # Dokology
 
-<p class="text"><strong>Ongoing advisory for clarity, control, and execution.</strong></p>
+## Dokology — The Internal Advantage
 
-<p class="text"><em>Clarity is a performance advantage. Attention is a strategic asset.</em></p>
+Influence work shifts external conditions.
 
-Dokology is applied mind-tech and strategic perception — built for people operating in real conditions: pressure, noise, ambiguity, adversarial social dynamics, and high-stakes decision cycles.
+Dokology shifts **your operating state**: attention, composure, perception, and decision-making under pressure.
 
-This is not motivational coaching.  
-It’s an operator-style engagement designed to help you **see cleanly, move correctly, and maintain internal sovereignty** while the world tries to hijack your attention.
+This is for moments where the problem isn’t “lack of information” — it’s **too much noise**:
+overthinking, emotional turbulence, fragmented attention, or a situation that keeps repeating in different disguises.
 
----
+### Core Capacities
 
-## What Dokology Delivers
+- **Clarity under pressure** (less noise, cleaner decisions)
+- **Emotional control without suppression** (calm as a skill)
+- **Attention discipline** (stop compulsive thought loops)
+- **Strategic framing** (see the real game faster)
+- **Consistent execution** (less start-stop, more movement)
 
-<div class="card">
-  <h3>Outcomes</h3>
+> Clarity is a performance advantage. Attention is a strategic asset.
 
-  - Clean decision-making under pressure  
-  - Stronger attention control (you choose the focus, not the feed)  
-  - Reduced reactivity without suppression  
-  - Better timing and execution: the right move at the right moment  
-  - A practical method-set you can run instantly in daily life
-
-  <h3 style="margin-top:16px">Methods (Practical, Not Theoretical)</h3>
-
-  - Attention discipline + perception training  
-  - Emotional calibration + nervous-system stabilisation  
-  - Situation analysis (signal vs noise, leverage points, adversarial dynamics)  
-  - Repeatable “protocols” for resetting state and restoring control  
-  - Optional symbolic/mythic framing when it reveals pattern faster than logic alone
-
-</div>
-
----
-
-## Format
-
-<div class="card">
-  <h3>How It Works</h3>
-
-  This is a long-term, real-world engagement.
-
-  - We work by direct calls (audio/voice) and practical follow-ups  
-  - You bring real situations; we extract leverage and design the next moves  
-  - You receive clear protocols: what to do, what to stop doing, and what to watch
-
-  <p><em>Discreet. Direct. Tailored to your reality.</em></p>
-</div>
-
----
-
-## Who It’s For
-
-- Entrepreneurs, founders, and professionals with real stakes  
-- Creators building under pressure and visibility  
-- People navigating complex power dynamics  
-- Anyone tired of being emotionally “played” by circumstances
-
-## Who It’s Not For
-
-If you want comfort stories, constant reassurance, or spiritual theatre, this won’t be a fit.
-
-Dokology is for people who want **agency**.
+Below is the structure and investment for Dokology access:
 
 ---
 
 ## Investment
 
-<div class="card">
-  <h3>Pricing</h3>
+<div class="ds-price-card">
+  <div class="ds-price-card-inner">
 
-  - <strong>$2,400 / year</strong> (best value)  
-  - <strong>$250 / month</strong> (monthly plan)
+    <h3>Dokology Access</h3>
+    <p class="ds-price-sub">
+      Ongoing perceptual training, strategic calibration, and applied clarity work.
+    </p>
 
-  <p style="margin-top:14px">
-    <a class="btn" href="/contact/">Enquire about Dokology →</a>
-  </p>
+    <div class="ds-price-options">
 
-  <p><em>We confirm fit and timing by message before payment. Payment is via invoice/link.</em></p>
+      <div class="ds-price-option">
+        <span class="ds-price-label">Annual</span>
+        <span class="ds-price-amount">$2,400</span>
+        <span class="ds-price-note">Best value · Deep continuity</span>
+      </div>
+
+      <div class="ds-price-divider"></div>
+
+      <div class="ds-price-option">
+        <span class="ds-price-label">Monthly</span>
+        <span class="ds-price-amount">$250</span>
+        <span class="ds-price-note">Flexible entry</span>
+      </div>
+
+    </div>
+
+    <p class="note">
+      Payment is handled by invoice or secure link after we confirm fit and timing.
+    </p>
+
+    <a class="btn" href="#dokology-enquiry">Open Dokology Briefing →</a>
+
+  </div>
 </div>
 
 ---
 
-## Entry Point
+<h2 id="dokology-enquiry">Entry Point</h2>
 
-If you’re unsure whether you need Dokology or an influence working first, send:
+If you’re considering Dokology, send a concise briefing:
 
 - what’s happening  
 - what outcome you want  
-- any deadline
+- any deadline  
 
-I’ll recommend the cleanest entry point.
-
+I’ll reply personally and advise on fit and next steps.
 
 <div class="card">
+   
   <h3>Dokology Enquiry</h3>
   <p>Send a concise briefing. I’ll reply personally.</p>
 
@@ -183,7 +163,7 @@ I’ll recommend the cleanest entry point.
     </p>
 
     <p style="margin-top:10px">
-      <em>Payment is handled by invoice/link after we confirm fit and timing.</em>
+      <em>Dokology begins after we confirm fit and timing. Payment is handled by invoice or secure link.</em>
     </p>
   </form>
 </div>
