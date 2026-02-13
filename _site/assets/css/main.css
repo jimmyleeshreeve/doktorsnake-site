@@ -701,4 +701,63 @@ body::after{
   font-style:italic;
 }
 
+.about-hero{
+  width:100%;
+  max-width:680px;
+  margin:24px 0 28px;
+  border-radius:18px;
+  border:1px solid var(--border);
+  box-shadow:0 0 40px rgba(0,0,0,0.6);
+}
+
+.about-hero{
+  ...
+  box-shadow:
+    0 0 40px rgba(0,0,0,0.6),
+    0 0 18px rgba(33,245,106,0.08);
+}
+
+.book-grid{
+  display:grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap:18px;
+  margin:28px 0 36px;
+}
+
+.book-grid img{
+  width:100%;
+  border-radius:12px;
+  border:1px solid var(--border);
+  box-shadow: 0 0 20px rgba(0,0,0,0.5);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.book-grid img:hover{
+  transform: translateY(-4px);
+  box-shadow:
+    0 0 20px rgba(0,0,0,0.6),
+    0 0 16px rgba(33,245,106,0.12);
+}
+
+.press-grid{
+  display:grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap:22px;
+  margin:28px 0 40px;
+}
+
+.press-grid img{
+  width:100%;
+  border-radius:8px;
+  border:1px solid var(--border);
+  box-shadow: 0 0 14px rgba(0,0,0,0.4);
+  background:#000;
+  padding:6px;
+}
+
+.press-grid img{
+  filter: contrast(1.02) brightness(0.98);
+}
+
+
 

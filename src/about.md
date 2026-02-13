@@ -5,6 +5,9 @@ title: About Doktor Snake
 
 # About Doktor Snake
 
+<img class="about-hero" src="/assets/img/og-doktorsnake.jpg"
+     alt="Doktor Snake — strategic influence and perceptual systems">
+
 Doktor Snake is the working identity of Jimmy Lee Shreeve — a British author and former investigative journalist.
 
 His work has appeared in:
@@ -92,5 +95,18 @@ No spectacle.
 No display culture.
 
 Serious situations require controlled handling.
+
+---
+
+## Selected Books
+
+<div class="book-grid">
+  <img src="/assets/img/blood-rites.jpg" alt="Blood Rites — Jimmy Lee Shreeve">
+  <img src="/assets/img/cannibals.jpg" alt="Cannibals — Jimmy Lee Shreeve">
+  <img src="/assets/img/how-to-be-famous.jpg" alt="How To Be Famous — Jimmy Lee Shreeve">
+  <img src="/assets/img/hash-brownies.jpg" alt="Hash Brownies — Dr Hash">
+  <img src="/assets/img/voodoo-spellbook.jpg" alt="Doktor Snake’s Voodoo Spellbook">
+</div>
+
 
 

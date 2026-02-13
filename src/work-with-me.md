@@ -145,7 +145,7 @@ This work is best suited to:
 
 ---
 
-## Entry Point
+## Initial Briefing
 
 If you’re unsure whether you need Dokology or an influence working first, send:
 

@@ -22,3 +22,15 @@ Selected titles:
 
 Media enquiries can be directed via the Contact page.
 
+---
+
+## Selected Press Coverage
+
+<div class="press-grid">
+  <img src="/assets/img/press-daily-express.jpg" alt="Daily Express coverage">
+  <img src="/assets/img/press-independent.jpg" alt="The Independent coverage">
+  <img src="/assets/img/press-classic-cars.jpg" alt="Classic Cars magazine feature">
+  <img src="/assets/img/press-telegraph.jpg" alt="Daily Telegraph feature">
+  <img src="/assets/img/press-financial-times.jpg" alt="Financial Times mention">
+</div>
+
