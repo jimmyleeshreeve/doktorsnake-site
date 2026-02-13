@@ -106,6 +106,7 @@ Serious situations require controlled handling.
   <img src="/assets/img/how-to-be-famous.jpg" alt="How To Be Famous — Jimmy Lee Shreeve">
   <img src="/assets/img/hash-brownies.jpg" alt="Hash Brownies — Dr Hash">
   <img src="/assets/img/voodoo-spellbook.jpg" alt="Doktor Snake’s Voodoo Spellbook">
+  <img src="/assets/img/voodoo-spellbook-new-edition.jpg" alt="Doktor Snake’s Voodoo Spellbook (New Edition)">
 </div>
 
 
