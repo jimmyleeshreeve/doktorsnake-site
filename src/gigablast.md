@@ -1,6 +1,7 @@
 ---
 layout: layout.njk
 title: GigaBlast
+description: Focused influence working for high-stakes situations.
 ---
 
 # GigaBlast

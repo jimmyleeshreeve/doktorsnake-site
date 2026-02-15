@@ -52,14 +52,6 @@
 
   
   <url>
-    <loc>https://www.doktorsnake.com/gigablast/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  
-
-  
-  <url>
     <loc>https://www.doktorsnake.com/dokology/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -93,6 +85,14 @@
   
   <url>
     <loc>https://www.doktorsnake.com/thanks/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+
+  
+  <url>
+    <loc>https://www.doktorsnake.com/gigablast/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
