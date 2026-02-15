@@ -14,7 +14,7 @@ I work with people navigating real stakes — relationships, money, work, power 
 **Change the trajectory.**
 
 <div class="card">
-  <h3>Start Here</h3>
+  <h2>Start Here</h2>
 
   <p>If you want to engage directly, this is where to begin.</p>
 
