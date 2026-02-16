@@ -9,6 +9,7 @@ Send a short description of what’s happening and what outcome you want. I’ll
 
 <div class="card">
   <form action="https://formspree.io/f/xjgeveba" method="POST">
+  <input type="hidden" name="_redirect" value="https://www.doktorsnake.com/thanks/">
     <p>
       <label>Your name<br>
       <input type="text" name="name" required></label>

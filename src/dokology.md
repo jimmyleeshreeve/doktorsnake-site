@@ -84,7 +84,7 @@ I’ll reply personally and advise on fit and next steps.
 
   <!-- Replace XXXXYYYY with your Formspree form ID -->
   <form action="https://formspree.io/f/xjgeveba" method="POST">
-  <input type="hidden" name="_redirect" value="https://doktorsnake.com/thanks/">
+  <input type="hidden" name="_redirect" value="https://www.doktorsnake.com/thanks/">
 
     <p>
       <label>Your Name<br>
