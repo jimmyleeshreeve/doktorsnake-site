@@ -73,7 +73,7 @@ It requires a situation that needs movement.
 
 ## Timeline
 
-Journalism → Books → Applied Work → Dokology & Influence
+Journalism → Books → Applied Work → Dokology & Influence 
 
 ---
 
