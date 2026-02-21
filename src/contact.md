@@ -5,7 +5,7 @@ title: Contact
 
 # Contact
 
-Send a short description of what’s happening and what outcome you want. I’ll reply personally.
+Send a message. I’ll reply personally.
 
 <div class="card">
   <form action="https://formspree.io/f/xjgeveba" method="POST">
@@ -21,25 +21,8 @@ Send a short description of what’s happening and what outcome you want. I’ll
     </p>
 
     <p>
-      <label>What do you want to shift?<br>
+      <label>Your Message<br>
       <textarea name="message" rows="8" required></textarea></label>
-    </p>
-
-    <p>
-      <label>Deadline (if any)<br>
-      <input type="text" name="deadline" placeholder="e.g. next Friday / no deadline"></label>
-    </p>
-
-    <p>
-      <label>Preferred entry point<br>
-      <select name="service">
-        <option value="Not sure">Not sure (recommend)</option>
-        <option value="Reading">Reading</option>
-        <option value="Dokology">Dokology</option>
-        <option value="EtherBlast">EtherBlast</option>
-        <option value="MegaBlast">MegaBlast</option>
-        <option value="GigaBlast">GigaBlast</option>
-      </select></label>
     </p>
 
     <!-- Honeypot (spam trap) -->
@@ -84,6 +67,4 @@ Send a short description of what’s happening and what outcome you want. I’ll
 </script>
 
 
-  <p style="margin-top:12px"><em>Payment is handled by invoice/link after we confirm the right tier and timeline.</em></p>
-</div>
 
