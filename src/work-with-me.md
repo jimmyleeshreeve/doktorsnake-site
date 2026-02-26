@@ -157,6 +157,15 @@ I’ll recommend the cleanest starting point.
 
 <p class="note--inline">Most clients arrive through referrals, quiet recommendation, or after following the work for some time.</p>
 
+<div class="card">
+  <h3>DOKOLOGY 001 — Tactical Mind System</h3>
+  <p class="text">
+    Entry-level cognitive control. Standalone. Immediately deployable.
+    Built for professionals operating in a world of noise.
+  </p>
+  <p><a class="btn" href="/dokology-001/">View Dokology 001 →</a></p>
+</div>
+
 > Clarity is a performance advantage.  
 > Attention is a strategic asset.
 
