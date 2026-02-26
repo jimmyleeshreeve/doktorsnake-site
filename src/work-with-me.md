@@ -28,7 +28,7 @@ I work with individuals who want **clarity, leverage, and movement** in real sit
 
 ## Influence Tiers
 
-<table class="ds-table">
+<table class="ds-table ds-table--tiers">
   <thead>
     <tr>
       <th>Tier</th>
@@ -63,7 +63,7 @@ I work with individuals who want **clarity, leverage, and movement** in real sit
   </tbody>
 </table>
 
-<p class="note">Not sure which tier fits? Send the situation and I’ll advise.</p>
+<p class="note--inline">Not sure which tier fits? Send the situation and I’ll advise.</p>
 
 ---
 
@@ -155,7 +155,7 @@ If you’re unsure whether you need Dokology or an influence working first, send
 
 I’ll recommend the cleanest starting point.
 
-<p class="note">Most clients arrive through referrals, quiet recommendation, or after following the work for some time.</p>
+<p class="note--inline">Most clients arrive through referrals, quiet recommendation, or after following the work for some time.</p>
 
 > Clarity is a performance advantage.  
 > Attention is a strategic asset.

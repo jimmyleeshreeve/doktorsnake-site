@@ -1,7 +1,10 @@
 module.exports = function (eleventyConfig) {
-  eleventyConfig.addPassthroughCopy({ "src/assets": "assets" });
-  eleventyConfig.addPassthroughCopy({ "src/assets/img/favicon.ico": "favicon.ico" });
 
+  // Copy entire assets folder (img, audio, etc.)
+  eleventyConfig.addPassthroughCopy({ "src/assets": "assets" });
+
+  // Copy favicon directly to root
+  eleventyConfig.addPassthroughCopy({ "src/assets/img/favicon.ico": "favicon.ico" });
 
   return {
     dir: {
@@ -11,4 +14,3 @@ module.exports = function (eleventyConfig) {
     }
   };
 };
-
