@@ -157,6 +157,9 @@ I’ll recommend the cleanest starting point.
 
 <p class="note--inline">Most clients arrive through referrals, quiet recommendation, or after following the work for some time.</p>
 
+> Clarity is a performance advantage.  
+> Attention is a strategic asset.
+
 <div class="card">
   <h3>DOKOLOGY 001 — Tactical Mind System</h3>
   <p class="text">
@@ -165,7 +168,4 @@ I’ll recommend the cleanest starting point.
   </p>
   <p><a class="btn" href="/dokology-001/">View Dokology 001 →</a></p>
 </div>
-
-> Clarity is a performance advantage.  
-> Attention is a strategic asset.
 
