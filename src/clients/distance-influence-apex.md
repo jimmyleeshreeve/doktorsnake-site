@@ -69,14 +69,14 @@ Five intentions. One orchestrated working. Full-spectrum movement.
  
 > *The Black Rite hit like thunder. My legal case dissolved. Enemies scattered. Two job offers in the same week. I’ll never use anything else.*<br>
 — **Ravi T., London**
- 
+
 > *I had five situations going wrong at once. The Black Rite handled them like dominos falling in my favor.*<br>
 — **Janelle H., New York**
  
  
 ### 🕯️ Origins: The Story Behind the Black Rite
 
-This working is rooted in a real-life case documented in the second edition of *Doktor Snake’s Voodoo Spellbook* (SnakeStone Publishing, originally St. Martin’s Press, NYC). It draws on the same deep-field ritual technology and spirit negotiation developed in that infamous case.
+This working is rooted in a real-life case documented in the second edition of my *Doktor Snake’s Voodoo Spellbook*. It draws on the same deep-field ritual technology and spirit negotiation developed in that infamous case.
 
 You can read an abridged version of the story here:
 [Grimoire of the Seven Obsidian Kings →](https://www.doktorsnake.io/p/grimoire-of-the-seven-obsidian-kings-e9d)

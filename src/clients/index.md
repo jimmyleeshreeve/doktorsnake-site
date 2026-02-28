@@ -6,14 +6,19 @@ noindex: true
 
 # Strategic Spellwork + Readings
 
+<img class="about-hero" src="/assets/img/distance-influence-dok.jpg"
+     alt="Doktor Snake — Strategic Spellwork + Readings">
+
 The work is now structured into defined operational tiers.
 
 All Distance Influence engagements are conducted from physical field locations in East Anglia and followed by a written operational summary.
 
+*Distance Influence = Psi workings conducted via the astral.*
+
 ## Distance Influence
 
 <div class="card">
-  <h3>Distance Influence TIER I — VECTOR</h3>
+  <h3>TIER I — VECTOR</h3>
   <p class="text">
   Single objective. Focused directional influence.
   </p>
