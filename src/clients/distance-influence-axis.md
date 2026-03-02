@@ -6,9 +6,9 @@ noindex: true
 
 # Distance Influence — Axis
 
-<p class="text">Three-Intention Psi Working</p>
+<p class="text">Up to three objectives. Multi-point correction.</p>
 
-TIER 2 — AXIS
+TIER II — AXIS
 
 `\>> Three.Objectives / Focused.Directional.Influence`
 
