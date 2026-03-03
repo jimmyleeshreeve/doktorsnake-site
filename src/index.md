@@ -1,9 +1,10 @@
 ---
 layout: layout.njk
-title: Command Post
+title: Doktor Snake
+description: Occult Fixer. Remote Influence. Magick That Works.
 ---
 
-# DoktorSnake
+# Doktor Snake
 
 <p class="text"><b>Occult Fixer. Remote Influence. Magick That Works.</b></p>
 
