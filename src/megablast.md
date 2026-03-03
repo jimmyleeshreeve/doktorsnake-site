@@ -1,153 +1,67 @@
 ---
-layout: layout.njk
 title: MegaBlast
+layout: layout.njk
 ---
 
 # MegaBlast
 
-## Multi-Vector Influence
+<p class="text">TIER II: Three-Intention Psi Working.</p>
 
-Three intentions. One coordinated operation.
+`\>> Three.Objectives / Focused.Directional.Influence`
 
-MegaBlast is for situations where **everything is connected**: money + career + interference, love + pressure + timing, or “one person causes three problems.”
+<img class="about-hero" src="/assets/img/distance-influence.jpg"
+     alt="MegaBlast">
 
-EtherBlast is a single strike.  
-MegaBlast is a **multi-vector push**.
+Choose three intentions. I orchestrate them into one unified field.
 
-> If the situation has more than one moving part, you don’t want a single lever. You want a coordinated set.
+The MegaBlast is a bespoke, three-vector working: you choose **three distinct intentions** — whether that means Prosperity, Protection, Vitality, Love, Legal Edge, Luck Shift, or any combination that fits your situation.
 
----
+The three intentions are woven together into a single, coherent field, calibrated for your unique circumstances.
 
-## Best For
+It’s deeper than a single-intention working — designed for those who need to move multiple levers, shift several areas at once, or create broader life-stream momentum.
 
-- Three linked outcomes (example: *money flow* + *career opening* + *protection*)  
-- Complex relationship dynamics (third-party interference, destabilising influence)  
-- Multiple pressures converging (work, legal, family, health stress)  
-- A “messy field” where clarity and momentum must be restored  
+## Possible Intentions (you choose 3)
 
----
+- Financial flow / opportunity / stability
+- Health, vitality, energy, clarity
+- Protection — psychic, spiritual, social, legal
+- Love, relationships, attraction, fidelity
+- Luck enhancement — gambling, risk, timing
+- Legal edge / justice / reclaiming rights
+- Career or academic success / breakthrough
+- Clearing negativity, curses, psychic interference, stagnation
+- Or a custom, tailored intention unique to your needs
 
-## What Gets Done
+Once you define the three intentions, I take over: the ritual is entirely personalised — no cookie-cutter formulas.
 
-### The Working
+## How the Working Operates
 
-I build a three-intention structure and run it as a coordinated operation: stabilise, clear resistance, push movement.
+I journey to a power-site in Suffolk — where ancestral charge and modern ether meet. There, I conduct a three-phase trance working, aligning the three intentions into a unified energy field.
 
-You receive:
+Through field-manipulation, spirit petition, and distance influence, your three chosen vectors converge and pulse outward — reshaping your reality-stream on multiple levels simultaneously.
 
-- confirmed timing window  
-- a post-working report (what was done + what surfaced)  
-- follow-through instruction (simple reinforcement action)  
+## After You Order
 
-<p class="note">MegaBlast is built for situations with cross-talk — where one change affects the others.</p>
+- You share the three intentions (and any relevant background/context)
+- I schedule and perform the ritual
+- After completion, you receive a full report: what was done, what energies were invoked and stirred, and any follow-up guidance
 
----
+**INVESTMENT: $667 USD**<br>
+Your three intentions. One orchestrated field. Custom-tuned for you.
 
-## Operational Sequence
+## ORDER NOW
 
-1. **You send a concise briefing**  
-   Situation, desired outcome, and any timing pressure.
+ <a href='https://www.fatfreecartpro.com/ecom/gb.php?&c=cart&ejc=2&cl=434879&i=1896023' onclick='return EJEJC_lc(this);' style='display:inline-block;background: #26a269 url(https://www.e-junkie.com/ej/images/newaddtocart.png) center/100px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);text-decoration: none;' target='ej_ejc' class='ec_ejc_thkbx'>&nbsp;</a>
+ 
+ <a href="https://www.fatfreecartpro.com/ecom/gb.php?c=cart&ejc=2&cl=434879" target="ej_ejc" class="ec_ejc_thkbx" onclick="return EJEJC_lc(this);" style="display:inline-block;background: #26a269 url(https://www.e-junkie.com/ej/images/newviewcart.png) center/90px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);cursor: pointer;text-decoration: none;">&nbsp;</a>
+ 
+ <script type="text/javascript">function EJEJC_lc(th) { return false; }; </script>
+<script src="https://www.fatfreecartpro.com/ecom/box_fb_n.js" type="text/javascript"></script>
+ 
+## ✨ Testimonials
+ 
+> *I asked for love, money, and peace of mind. Two weeks later, a new job offer, unexpected check, and my ex left me alone. 10/10.*<br>
+— **Brian S., Toronto**
 
-2. **I confirm fit and timing**  
-   If the tier isn’t right, I’ll recommend the correct level before payment.
-
-3. **The working is carried out**  
-   Quietly, privately, and without ongoing demands on your time.
-
-4. **You receive a short report**  
-   What was done, what surfaced, and one follow-through instruction if needed.
-
-<p class="note">This work is practical. It does not require belief, ritual participation, or lifestyle changes.</p>
-
----
-
-## Operational Notes
-
-### How fast do results show?
-Some shifts happen quickly. Others unfold as obstacles clear and new pathways open. Think in terms of **movement**, not spectacle.
-
-### Do you need personal details or photos?
-No. A clear description of the situation is enough. Only share what feels relevant and appropriate.
-
-### What if I’m unsure which tier fits?
-Send the situation anyway. I’ll recommend the cleanest and most efficient level before anything proceeds.
-
-### Is this therapy, coaching, or fortune-telling?
-No. This is applied influence work focused on shifting real-world conditions.
-
----
-
-## Investment
-
-<div class="card">
-  <h3>MegaBlast</h3>
-  <p><strong>$667</strong> — three intentions</p>
-  <p class="note">Payment is handled by invoice/secure link after we confirm fit and timing.</p>
-  <a class="btn" href="#megablast-enquiry">Begin MegaBlast →</a>
-</div>
-
----
-
-<h2 id="megablast-enquiry">Begin MegaBlast</h2>
-
-<div class="card">
-  <h3>Open MegaBlast Briefing</h3>
-  <p>Describe the situation and list up to three outcomes you want moved.</p>
-
-  <form action="https://formspree.io/f/xjgeveba" method="POST">
-    <input type="hidden" name="_subject" value="MegaBlast enquiry — DoktorSnake.com">
-    <input type="hidden" name="service" value="MegaBlast">
-    <input type="hidden" name="_redirect" value="https://doktorsnake.com/thanks/">
-
-    <p>
-      <label>Your Name<br>
-        <input type="text" name="name" autocomplete="name" required>
-      </label>
-    </p>
-
-    <p>
-      <label>Email Address<br>
-        <input type="email" name="email" autocomplete="email" required>
-      </label>
-    </p>
-
-    <p>
-      <label>Situation overview<br>
-        <textarea name="situation" rows="6" required placeholder="What’s happening? What’s entangled?"></textarea>
-      </label>
-    </p>
-
-    <p>
-      <label>Outcome 1<br>
-        <input type="text" name="outcome_1" required placeholder="e.g. secure role / unblock cash / restore calm">
-      </label>
-    </p>
-
-    <p>
-      <label>Outcome 2<br>
-        <input type="text" name="outcome_2" placeholder="Optional (up to three total)">
-      </label>
-    </p>
-
-    <p>
-      <label>Outcome 3<br>
-        <input type="text" name="outcome_3" placeholder="Optional (up to three total)">
-      </label>
-    </p>
-
-    <p>
-      <label>Deadline / timing pressure (if any)<br>
-        <input type="text" name="deadline" placeholder="e.g. court date / interview / no deadline">
-      </label>
-    </p>
-
-    <input type="text" name="_gotcha" style="display:none">
-
-    <p style="margin-top:14px">
-      <button class="btn" type="submit">Send Briefing →</button>
-    </p>
-
-    <p style="margin-top:10px"><em>Payment begins after we confirm fit and timing.</em></p>
-  </form>
-</div>
-
+> *My request was complicated, but Doktor Snake handled it. Results began within days.*<br>
+— **Elena J., Manchester**

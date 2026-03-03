@@ -1,7 +1,6 @@
 ---
 title: Petition to Lord Satan
 layout: layout.njk
-noindex: true
 ---
 
 # Petition to Lord Satan

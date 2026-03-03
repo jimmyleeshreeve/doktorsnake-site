@@ -5,44 +5,45 @@ title: Readings
 
 # Readings
 
-A reading is a focused look at your situation — what’s really going on, what matters, what doesn’t, and what move changes the game.
+`Real.Insight / No.Fluff`
 
-This isn’t fortune-telling, and it isn’t emotional reassurance.
+<img class="about-hero" src="/assets/img/hacker-readings.jpg"
+     alt="Doktor Snake Readings">
 
-Think of it more like a high-signal briefing: pattern recognition, hidden dynamics, timing, and the simplest next action that produces maximum effect.
+A reading from me cuts through confusion, exposes hidden motives, and shows what’s real enough to act on. Expect truth you can use — not vague predictions — and calm clarity in chaotic crossroads.
 
-<div class="card">
-  <h3>What a Reading Is Good For</h3>
+Every response is written personally by me, drawn from decades of work in occult psychology, magick, and English folklore.
 
-  - Relationship dynamics and mixed signals  
-  - Work, power politics, rivals, and leverage  
-  - Money flow, blockages, and opportunity windows  
-  - Situations that feel “off” but you can’t quite see why  
-  - Decision points where the stakes feel real  
+## After You Order
 
-  <p style="margin-top:14px">
-    <a class="btn" href="/contact/">Request a Reading →</a>
-  </p>
-</div>
+- Send your questions — or describe the situation fully.
+- I'll conduct the reading within 72-hours.
+- After completion, I'll deliver your reading by email.
 
-<hr>
 
-## How I Work
+**INVESTMENT: $112**<br>
+Real world insight.
 
-You describe the situation in plain language.  
-I step back, look at the patterns, and give you a clear interpretation of what’s happening and where the real pressure points are.
+<a href='https://www.fatfreecartpro.com/ecom/gb.php?&c=cart&ejc=2&cl=434879&i=1896027' onclick='return EJEJC_lc(this);' style='display:inline-block;background: #26a269 url(https://www.e-junkie.com/ej/images/newaddtocart.png) center/100px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);text-decoration: none;' target='ej_ejc' class='ec_ejc_thkbx'>&nbsp;</a>
 
-Sometimes the framing is psychological.  
-Sometimes strategic.  
-Sometimes symbolic or mythic — if that lens reveals more than straight logic alone.
+<a href="https://www.fatfreecartpro.com/ecom/gb.php?c=cart&ejc=2&cl=434879" target="ej_ejc" class="ec_ejc_thkbx" onclick="return EJEJC_lc(this);" style="display:inline-block;background: #26a269 url(https://www.e-junkie.com/ej/images/newviewcart.png) center/90px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);cursor: pointer;text-decoration: none;">&nbsp;</a>
 
-The aim is always the same: **clarity you can act on.**
+<script type="text/javascript">function EJEJC_lc(th) { return false; }; </script>
+<script src="https://www.fatfreecartpro.com/ecom/box_fb_n.js" type="text/javascript"></script>
+ 
+## 💬 What Clients Say
+ 
+> It wasn’t sugar-coated. It was clear, eerie, and exactly what I needed to hear.<br>
+— Client feedback (2025)
+
+> Like being read by an old-world oracle who knows the modern world inside out.<br>
+— Private client testimonial
 
 <hr>
 
 ## A Note on “Divination”
 
-The only so-called divining tool I ever genuinely liked was the I Ching — not because it predicts the future, but because its meanings are deliberately open enough to behave like Schrödinger’s Cat: possibilities exist until the right mind engages and collapses them into relevance.
+The only divining tool I ever genuinely liked was the I Ching — not because it predicts the future, but because its meanings are deliberately open enough to behave like Schrödinger’s Cat: possibilities exist until the right mind engages and collapses them into relevance.
 
 That’s the spirit of these readings.
 

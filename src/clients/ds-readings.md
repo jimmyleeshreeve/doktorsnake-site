@@ -8,7 +8,7 @@ noindex: true
 
 `Real.Insight / No.Fluff`
 
-<img class="about-hero" src="/assets/img/readings.jpg"
+<img class="about-hero" src="/assets/img/hacker-readings.jpg"
      alt="Doktor Snake Readings">
 
 A reading from Doktor Snake cuts through confusion, exposes hidden motives, and shows what’s real enough to act on. Expect truth you can use — not vague predictions — and calm clarity in chaotic crossroads.

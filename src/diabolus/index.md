@@ -1,10 +1,10 @@
 ---
-title: The Diablos Files
+title: The Diabolus Files
 layout: layout.njk
 noindex: true
 ---
 
-# The Diablos Files
+# The Diabolus Files
 
 <img class="about-hero" src="/assets/img/desolate-church-suffolk.jpg"
      alt="Desolate church in Suffolk">
@@ -18,7 +18,7 @@ These Faustian workings are conducted in the wilds of Suffolk. Often at a desola
   <p class="text">
   Old Nick Still Grants Wishes… If You Know Where to Ask.
   </p>
-  <p><a class="btn" href="/diablos/petition">View Petition →</a></p>
+  <p><a class="btn" href="/diabolus/petition">View Petition →</a></p>
 </div>
 
 <div class="card">
@@ -26,7 +26,7 @@ These Faustian workings are conducted in the wilds of Suffolk. Often at a desola
   <p class="text">
   Harnesses the world-shattering power of the infernal spirits.
   </p>
-  <p><a class="btn" href="/diablos/summoning">View Summoning →</a></p>
+  <p><a class="btn" href="/diabolus/summoning">View Summoning →</a></p>
 </div>
 
 <div class="card">
@@ -34,15 +34,15 @@ These Faustian workings are conducted in the wilds of Suffolk. Often at a desola
   <p class="text">
   Gain wealth, power and dominance (and any other damn thing you desire).
   </p>
-  <p><a class="btn" href="/diablos/pact">View Pact →</a></p>
+  <p><a class="btn" href="/diabolus/pact">View Pact →</a></p>
 </div>
 
 <div class="card">
   <h3>Satan's Money Covenant</h3>
   <p class="text">
-  Strategic clarity session. Direct assessment of your situation with practical next steps.
+  Powerful working to draw revenue even in the shot-up economy.
   </p>
-  <p><a class="btn" href="/diablos/covenant">View Covenant →</a></p>
+  <p><a class="btn" href="/diabolus/covenant">View Covenant →</a></p>
 </div>
 
 

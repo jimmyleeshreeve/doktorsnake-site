@@ -2,80 +2,68 @@
 layout: layout.njk
 title: Dokology
 ---
-
+ 
 # Dokology
 
-## Dokology — The Internal Advantage
+`Mind-Tech . Strategy . Psionics`
 
-Influence work shifts external conditions.
+<img class="about-hero" src="/assets/img/dokology-operator.jpg"
+     alt="Dokology Operator">
 
-Dokology shifts **your operating state**: attention, composure, perception, and decision-making under pressure.
+Dokology is the strategic, high-performance framework behind all of my work. It's apex-level consultation conducted monthly on a 1-1 basis, tailored to your goals, challenges, and evolution.
 
-This is for moments where the problem isn’t “lack of information” — it’s **too much noise**:
-overthinking, emotional turbulence, fragmented attention, or a situation that keeps repeating in different disguises.
+It blends deep-focus awareness training, trance-state cognition, emotional regulation, field-reading, and decision-making under pressure.
 
-### Core Capacities
+This is where ancient mind-tech meets cybernetic thinking: functional, grounded, and built for the world we live in now.
 
-- **Clarity under pressure** (less noise, cleaner decisions)
-- **Emotional control without suppression** (calm as a skill)
-- **Attention discipline** (stop compulsive thought loops)
-- **Strategic framing** (see the real game faster)
-- **Consistent execution** (less start-stop, more movement)
+> **Dokology is the technology of empowerment:** strategic influence, visionary trance, psychological calibration, and reality engineering working in unison.
 
-> Clarity is a performance advantage. Attention is a strategic asset.
+## Core Elements of Dokology
 
-Below is the structure and investment for Dokology access:
+- **Stopping internal dialogue** — command of mind-noise for clarity when you need it
+- **Emotional regulation** without suppression — you at the helm of your life, not your emotions
+- **Situational field-mapping** — greater perception of the world (and people) around you.
+- **Decision engineering** & strategic timing — ensuring you are in the right place at the right time.
+- **Modern psionics** — for ideas, insight and signal detection
+- **Application of 5GW thinking** and the OODA Loop for personal advantage
 
----
+Clients enter Dokology for clarity, timing, emotional sovereignty, and the ability to navigate complex situations without being ruled by internal noise or external chaos.
 
-## Investment
+It’s a partnership: part consulting, part tactical guidance, part energetic alignment.
 
-<div class="ds-price-card">
-  <div class="ds-price-card-inner">
+Dokology gets you where you want to be: in command of your field, aligned with opportunity, shielded from interference, and moving with strategic precision rather than reaction.
 
-    <h3>Dokology Access</h3>
-    <p class="ds-price-sub">
-      Ongoing perceptual training, strategic calibration, and applied clarity work.
-    </p>
+## **How It Works**
 
-    <div class="ds-price-options">
+Dokology runs on an annual retainer.
+Each client receives **one-to-one guidance**, tactical mind-tech, and practical tools for navigating modern life with clarity and power.
+Everything is bespoke — shaped around your goals, challenges, and evolution.
 
-      <div class="ds-price-option">
-        <span class="ds-price-label">Annual</span>
-        <span class="ds-price-amount">$2,400</span>
-        <span class="ds-price-note">Best value · Deep continuity</span>
-      </div>
+## What You Receive
 
-      <div class="ds-price-divider"></div>
+- Monthly 1-to-1 sessions (voice or video) with Doktor Snake
+- Personalised protocols and tactical frameworks (PDFs and audios) delivered securely
+- Ongoing support and field analysis through secure channels
+- Access to the Edge Cult Inner Council Tier (Substack)
+- Priority in special workings and consultations
 
-      <div class="ds-price-option">
-        <span class="ds-price-label">Monthly</span>
-        <span class="ds-price-amount">$250</span>
-        <span class="ds-price-note">Flexible entry</span>
-      </div>
+## Ready to Begin?
 
-    </div>
+**INVESTMENT: $2,400 / year**<br>
+Best value. Paid in full.
 
-    <p class="note">
-      Payment is handled by invoice or secure link after we confirm fit and timing.
-    </p>
+<a href='https://www.fatfreecartpro.com/ecom/gb.php?&c=cart&ejc=2&cl=434879&i=1896102' onclick='return EJEJC_lc(this);' style='display:inline-block;background: #26a269 url(https://www.e-junkie.com/ej/images/newaddtocart.png) center/100px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);text-decoration: none;' target='ej_ejc' class='ec_ejc_thkbx'>&nbsp;</a>
 
-    <a class="btn" href="#dokology-enquiry">Open Dokology Briefing →</a>
+<a href="https://www.fatfreecartpro.com/ecom/gb.php?c=cart&ejc=2&cl=434879" target="ej_ejc" class="ec_ejc_thkbx" onclick="return EJEJC_lc(this);" style="display:inline-block;background: #26a269 url(https://www.e-junkie.com/ej/images/newviewcart.png) center/90px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);cursor: pointer;text-decoration: none;">&nbsp;</a>
 
-  </div>
-</div>
+<script type="text/javascript">function EJEJC_lc(th) { return false; }; </script>
+<script src="https://www.fatfreecartpro.com/ecom/box_fb_n.js" type="text/javascript"></script>
+
+<p class="note">Once payment is complete, your onboarding message will arrive within 24 hours.</p>
+
+→ Monthly payment plans available on request — <a href="/contact/">email me.</a>
 
 ---
-
-<h2 id="dokology-enquiry">Entry Point</h2>
-
-If you’re considering Dokology, send a concise briefing:
-
-- what’s happening  
-- what outcome you want  
-- any deadline  
-
-I’ll reply personally and advise on fit and next steps.
 
 <div class="card">
    
@@ -113,40 +101,6 @@ I’ll reply personally and advise on fit and next steps.
     </p>
 
     <p>
-      <label>Timing pressure / deadline (if any)<br>
-        <input type="text" name="deadline" placeholder="e.g. decision in 6 weeks / no deadline">
-      </label>
-    </p>
-
-    <p>
-      <label>Primary area of focus<br>
-        <select name="focus_area" required>
-          <option value="" selected disabled>Select one…</option>
-          <option>Career / Business</option>
-          <option>Financial / Resource pressure</option>
-          <option>Relationship dynamics</option>
-          <option>Legal / Institutional situation</option>
-          <option>Life direction / transition phase</option>
-          <option>Mixed / Complex</option>
-        </select>
-      </label>
-    </p>
-
-    <p>
-      <label>
-        <input type="checkbox" name="ongoing_support" value="Yes" required>
-        Yes — I’m interested in ongoing strategic support
-      </label>
-    </p>
-
-    <p>
-      <label>
-        <input type="checkbox" name="expectations" value="Understood" required>
-        I understand Dokology is practical strategic work, not therapy or fortune-telling
-      </label>
-    </p>
-
-    <p>
       <label>Anything else important to know? (optional)<br>
         <textarea name="notes" rows="3"></textarea>
       </label>
@@ -168,6 +122,16 @@ I’ll reply personally and advise on fit and next steps.
   </form>
 </div>
 
+---
+
+<div class="card">
+  <h3>DOKOLOGY 001 — Tactical Mind System</h3>
+  <p class="text">
+    Entry-level cognitive control. Standalone. Immediately deployable.
+    Built for professionals operating in a world of noise.
+  </p>
+  <p><a class="btn" href="/dokology-001/">View Dokology 001 →</a></p>
+</div>
 
 
 
