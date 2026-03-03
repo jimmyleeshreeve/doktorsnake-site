@@ -10,14 +10,16 @@ title: Command Post
 <img class="about-hero" src="/assets/img/ds-logo.jpg"
      alt="Doktor Snake">
 
-**Power That Wins**<br>
+## Power That Wins
+
 The system’s rigged. You weren’t meant to make it. They built the system to keep you compliant.
 
 That’s why I’m here.
 
 I’m Doktor Snake — magician, philosopher, fixer. For the outsiders who see too much, feel too deep, and refuse to quit.
 
-**Change the trajectory**<br>
+## Change the trajectory
+
 I work with people navigating real stakes — money, work, relationships, power dynamics, turning points.
 
 The tools vary: psychological, strategic, magick.
