@@ -1,6 +1,6 @@
 ---
 layout: layout.njk
-title: Doktor Snake
+title: Command Post
 description: Occult Fixer. Remote Influence. Magick That Works.
 ---
 
