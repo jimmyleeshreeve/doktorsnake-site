@@ -1,20 +1,24 @@
 ---
-title: Strategic Spellwork + Readings
+title: Influence + Readings
 layout: layout.njk
 ---
 
-# Strategic Spellwork + Readings
+# Influence + Readings
 
-`Distance.Influence — Remote.Viewing`
+`Strategic.Influence — Modern.Magick`
 
 <img class="about-hero" src="/assets/img/distance-influence-dok.jpg"
      alt="Doktor Snake — Strategic Spellwork + Readings">
 
 The workings are now structured into defined operational tiers - I-III.
 
-All Strategic Spellwork engagements utilise Distance Influence methodologies, and are conducted from physical field locations in East Anglia and followed by a written operational summary.
+All Influence engagements utilise modern magick that works in the real world, and are conducted from physical field locations in East Anglia and followed by a written operational summary.
 
-## Strategic Spellwork
+## Strategic Influence
+
+Most people contact me when the stakes are real and the situation matters.
+
+The work is designed to shift the pattern around that situation as effectively as possible.
 
 <div class="card">
   <h3>TIER I — ETHERBLAST</h3>
