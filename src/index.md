@@ -1,38 +1,118 @@
 ---
 layout: layout.njk
 title: Command Post
-description: Occult Fixer. Remote Influence. Magick That Works.
+description: Pattern Fixer. Strategic Influence. Magick That Works.
 ---
 
 # Doktor Snake
 
-<p class="text"><b>Occult Fixer. Remote Influence. Magick That Works.</b></p>
+<p class="text"><b>Pattern Fixer · Strategic Influence · Magick That Works.</b></p>
 
-<img class="about-hero" src="/assets/img/ds-logo.jpg"
-     alt="Doktor Snake">
+<img class="about-hero" src="/assets/img/ds-logo.jpg" alt="Doktor Snake">
 
 ## Power That Wins
 
-The system’s rigged. You weren’t meant to make it. They built the system to keep you compliant.
+The system’s rigged.
 
-That’s why I’m here.
+You were never meant to win easily. Every system — whether you call it society, bureaucracy, or the Simulation — is designed to keep most people predictable and compliant.
 
-I’m Doktor Snake — magician, philosopher, fixer. For the outsiders who see too much, feel too deep, and refuse to quit.
+But sometimes a person begins to see the pattern.
 
-## Change the trajectory
+That’s where I come in.
 
-I work with people navigating real stakes — money, work, relationships, power dynamics, turning points.
+I’m Doktor Snake — magician, philosopher, fixer.
 
-The tools vary: psychological, strategic, magick.
+I work with outsiders, professionals, and operators who refuse to accept that the game is fixed.
+
+* * *
+
+## Change The Trajectory
+
+People usually contact me when something in their life or environment stops responding to normal logic.
+
+A situation stalls.
+
+Opposition appears.
+
+Opportunities close just as they begin to open.
+
+At that point we look at the situation from a different angle.
+
+The tools vary:
+
+-   psychological insight
+-   strategic thinking
+-   influence work
+-   magick
 
 The aim is always the same:
 
-> I help you break the code.
+> **Break the pattern. Change the trajectory.**
+
+
+## Situations I Often Work With
+
+Often when people contact me, they are dealing with a situation where logic alone has stopped resolving the pattern.
+
+These situations vary widely, but certain patterns appear again and again.
+
+* * *
+
+### Professional and Organisational Dynamics
+
+-   A professional dealing with subtle internal opposition in an organisation.
+-   A capable person whose progress has begun attracting quiet resistance.
+-   Someone navigating a negotiation where unseen dynamics seem to be influencing the outcome.
+-   Someone who suspects personality dynamics around them are quietly shaping opportunities behind the scenes.
+
+These situations often arise in environments where decisions, reputations, and timing matter.
+
+* * *
+
+### Business, Opportunity, and Momentum
+
+-   A business owner facing an unusual run of setbacks.
+-   An entrepreneur or investor sensing that momentum around a project has become unpredictable.
+-   A person approaching an important turning point who wants the odds aligned as strongly as possible.
+
+Moments like these often call for calm strategic thinking and occasionally a different approach to influence.
+
+* * *
+
+### Personal and Family Situations
+
+Not every situation is professional. Many people contact me about complex personal dynamics.
+
+-   A capable person navigating family tensions that refuse to settle.
+-   Someone facing repeated emotional entanglements that seem to follow a pattern.
+
+These situations can be just as demanding as professional ones.
+
+* * *
+
+### When Something Feels “Off”
+
+Occasionally a person simply senses that the pattern of events around them has shifted.
+
+-   An individual who feels circumstances have become strangely resistant to change.
+-   Someone who senses a pattern in events that others around them dismiss.
+
+In such cases, stepping back and looking at the situation from a different perspective can often reveal useful insights.
+
+* * *
+
+### Every situation is different.
+
+Most people contact me privately with a short outline of what is happening, and we take it from there.
+
+Most of the people I work with prefer to keep these matters discreet.
+
+***
 
 <div class="card">
   <h2>Get In Touch</h2>
 
-  <p>If you'd like to engage directly with me, this is where to begin.</p>
+  <p>If you'd like me to look into your situation, send a brief outline.</p>
 
   <p style="margin-top:14px">
     <a class="btn" href="/contact/">Send An Email →</a>
@@ -43,19 +123,19 @@ The aim is always the same:
 
 ## Explore
 
-Discover my strategic spellcasting and readings —  along with remote influence and elite diabolus workings.
+Discover my strategic influence work and readings.
 
 <p style="margin-top:14px">
   <a class="btn" href="/readings/">Readings</a>
   <a class="btn" href="/influence/">Influence</a>
-  <a class="btn" href="/diabolus/">Diabolus Files</a>
+  <a class="btn" href="/diabolus/">Diabolus</a>
 </p>
 
----
+***
 
 ## Elsewhere
 
-Head over to my Substack for articles, podcasts, and videos. And my Youtube Shorts for simulation glitches and liminal places.
+Visit my Substack for articles, podcasts, and videos. Youtube Shorts for simulation glitches and liminal places.
 
 <p style="margin-top:14px">
   <a class="btn" href="https://doktorsnake.io" target="_blank" rel="noopener noreferrer">Substack</a>
