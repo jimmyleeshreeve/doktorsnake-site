@@ -106,15 +106,11 @@ In such cases, stepping back and looking at the situation from a different persp
 
 ## Every Situation is Different
 
-Most people contact me privately with a short outline of what is happening, and we take it from there.
+Every situation is different. But people usually reach out when the stakes are real and the situation requires careful handling.
 
-Most of the people I work with prefer to keep these matters discreet.
+Most contact me privately with a short outline of what is happening, and we take it from there.
 
-***
-
-## Send An Email
-
-Most people begin by sending a short outline of the situation they're dealing with. If it looks like something I can help with, we take it from there.
+### Get In Touch
 
 <div class="card">
   <form action="https://formspree.io/f/xjgeveba" method="POST">
