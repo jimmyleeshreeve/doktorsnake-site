@@ -1,12 +1,16 @@
 ---
 layout: layout.njk
 title: Command Post
-description: Pattern Fixer. Strategic Influence. Magick That Works.
+description: Pattern Fixer. Strategic Influence. Magick That Works in the Real World.
 ---
 
 # Doktor Snake
 
-<p class="text"><b>Pattern Fixer · Strategic Influence · Magick That Works.</b></p>
+<p class="text">Pattern Fixer · Strategic Influence<br>
+Magick That Works In The Real World</p>
+
+A practitioner for people navigating complex situations<br>
+where normal solutions have stopped working.
 
 <img class="about-hero" src="/assets/img/ds-logo.jpg" alt="Doktor Snake">
 
@@ -101,7 +105,7 @@ In such cases, stepping back and looking at the situation from a different persp
 
 * * *
 
-### Every situation is different.
+## Every Situation is Different
 
 Most people contact me privately with a short outline of what is happening, and we take it from there.
 
@@ -126,8 +130,8 @@ Most of the people I work with prefer to keep these matters discreet.
 Discover my strategic influence work and readings.
 
 <p style="margin-top:14px">
-  <a class="btn" href="/readings/">Readings</a>
   <a class="btn" href="/influence/">Influence</a>
+  <a class="btn" href="/readings/">Readings</a>
   <a class="btn" href="/diabolus/">Diabolus</a>
 </p>
 
