@@ -9,8 +9,7 @@ description: Pattern Fixer. Strategic Influence. Magick That Works in the Real W
 <p class="text">Pattern Fixer · Strategic Influence<br>
 Magick That Works In The Real World</p>
 
-A practitioner for people navigating complex situations<br>
-where normal solutions have stopped working.
+A practitioner for people navigating complex situations where normal solutions have stopped working.
 
 <img class="about-hero" src="/assets/img/ds-logo.jpg" alt="Doktor Snake">
 
@@ -113,17 +112,71 @@ Most of the people I work with prefer to keep these matters discreet.
 
 ***
 
+## Send An Email
+
+Most people begin by sending a short outline of the situation they're dealing with. If it looks like something I can help with, we take it from there.
+
 <div class="card">
-  <h2>Get In Touch</h2>
+  <form action="https://formspree.io/f/xjgeveba" method="POST">
+  <input type="hidden" name="_redirect" value="https://www.doktorsnake.com/thanks/">
+    <p>
+      <label>Your name<br>
+      <input type="text" name="name" id="ds_name" required>
+    </p>
 
-  <p>If you'd like me to look into your situation, send a brief outline.</p>
+    <p>
+      <label>Your email<br>
+      <input type="email" name="email" required></label>
+    </p>
 
-  <p style="margin-top:14px">
-    <a class="btn" href="/contact/">Send An Email →</a>
-  </p>
+    <p>
+      <label>Your Message<br>
+      <textarea name="message" rows="8" required></textarea></label>
+    </p>
+
+    <!-- Honeypot (spam trap) -->
+    <input type="text" name="_gotcha" style="display:none">
+
+    <!-- Optional: subject line -->
+    <input name="subject" id="ds_subject" type="hidden" value="DS Contact" />
+    <p style="margin-top:14px">
+      <button class="btn" type="submit">Send →</button>
+    </p>
+  </form>
+  
+  <script>
+(function () {
+  const form = document.querySelector('form[action="https://formspree.io/f/xjgeveba"]');
+  if (!form) return;
+
+  const name = form.querySelector('#ds_name');
+  const service = form.querySelector('select[name="service"]');
+  const subject = form.querySelector('#ds_subject');
+
+  function updateSubject() {
+    const n = (name?.value || '').trim();
+    const s = (service?.value || '').trim();
+
+    const bits = [];
+    bits.push('DS Contact');
+    if (s) bits.push(s);
+    if (n) bits.push(n);
+
+    subject.value = bits.join(' — ');
+  }
+
+  // Update live + just before submit
+  name?.addEventListener('input', updateSubject);
+  service?.addEventListener('change', updateSubject);
+  form.addEventListener('submit', updateSubject);
+
+  // Set initial value
+  updateSubject();
+})();
+</script>
 </div>
 
-<hr>
+***
 
 ## Explore
 

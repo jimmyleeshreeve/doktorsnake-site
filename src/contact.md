@@ -5,7 +5,7 @@ title: Contact
 
 # Contact
 
-Send a message. I’ll reply personally.
+Most people begin by sending a short outline of the situation they're dealing with. If it looks like something I can help with, we take it from there.
 
 <div class="card">
   <form action="https://formspree.io/f/xjgeveba" method="POST">
@@ -66,5 +66,5 @@ Send a message. I’ll reply personally.
 })();
 </script>
 
-
+</div>
 
