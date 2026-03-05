@@ -5,9 +5,11 @@ layout: layout.njk
 
 # GigaBlast
 
-<p class="text">TIER III: Five-Intention Psi Working.</p>
+<p class="text">TIER III: Five-Intention Influence Working.</p>
 
-`\>> Multi.Objectives / Focused.Directional.Influence`
+Recommended when the situation carries significant consequences.
+
+`\>> Multi.Objectives / Focused.Strategic.Influence`
 
 <img class="about-hero" src="/assets/img/distance-influence.jpg"
      alt="GigaBlast">

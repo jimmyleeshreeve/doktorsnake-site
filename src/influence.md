@@ -39,7 +39,7 @@ The work is designed to shift the pattern around that situation as effectively a
 <div class="card">
   <h3>TIER III — GIGABLAST</h3>
   <p class="text">
-  Five-intention ritual. Maximum force. No mercy.
+  Five-intention ritual. Recommended when the situation carries significant consequences.
   </p>
   <p><a class="btn" href="/gigablast/">View GigaBlast →</a></p>
 </div>

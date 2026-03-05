@@ -8,6 +8,18 @@ title: About Doktor Snake
 <img class="about-hero" src="/assets/img/og-doktorsnake.jpg"
      alt="Doktor Snake — strategic influence and perceptual systems">
 
+<p class="text">Pattern Fixer for Complex Human Situations</p>
+
+>I approach unusual situations the way an investigator approaches a case.<br>
+Patterns, personalities, timing, hidden dynamics.<br><br>
+Sometimes insight alone is enough to shift a situation.<br>
+Sometimes a stronger intervention is needed.<br><br>
+That’s where the work of Doktor Snake begins.
+
+***
+
+## The Doktor
+
 Doktor Snake is the working identity of Jimmy Lee Shreeve — a British author and former investigative journalist.
 
 His work has appeared in:
@@ -27,7 +39,7 @@ Not theory.
 Not narrative.  
 Direct strategic work.
 
----
+***
 
 ## Books
 
@@ -41,7 +53,7 @@ Jimmy Lee Shreeve is the author of:
 
 These works explore true crime, culture, fame psychology, belief systems, and applied consciousness.
 
----
+***
 
 ## Apprenticeship & Influence
 
@@ -54,7 +66,7 @@ That early training combined with journalistic discipline led to a lifelong inte
 - Strategic framing  
 - Influence in complex systems  
 
----
+***
 
 ## Today
 
@@ -69,13 +81,13 @@ The work does not require belief.
 
 It requires a situation that needs movement.
 
----
+***
 
 ## Timeline
 
 Journalism → Books → Applied Work → Dokology & Influence 
 
----
+***
 
 
 ## Operating Principle
@@ -84,7 +96,7 @@ Shift perception.
 Shift leverage.  
 Shift outcome.
 
----
+***
 
 ## Discretion
 
@@ -96,7 +108,7 @@ No display culture.
 
 Serious situations require controlled handling.
 
----
+***
 
 ## Selected Books
 

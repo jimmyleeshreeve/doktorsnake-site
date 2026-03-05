@@ -6,14 +6,14 @@ description: Pattern Fixer. Strategic Influence. Magick That Works in the Real W
 
 # Doktor Snake
 
-> When the game around you stops playing straight…<br>
-When logic alone no longer moves the pieces…<br>
-That’s when people call Doktor Snake.
-
 <p class="text">Pattern Fixer · Strategic Influence<br>
 Magick That Works In The Real World</p>
 
-A practitioner for people navigating complex situations where normal solutions have stopped working.
+`Break the Pattern. Change the Outcome.`
+
+> When the game around you stops playing straight…<br>
+When logic alone no longer moves the pieces…<br>
+That’s when people call Doktor Snake.
 
 <img class="about-hero" src="/assets/img/ds-logo.jpg" alt="Doktor Snake">
 

@@ -5,7 +5,9 @@ layout: layout.njk
 
 # MegaBlast
 
-<p class="text">TIER II: Three-Intention Psi Working.</p>
+<p class="text">TIER II: Three-Intention Influence Working.</p>
+
+Maximum Force. High-potency.
 
 `\>> Three.Objectives / Focused.Directional.Influence`
 

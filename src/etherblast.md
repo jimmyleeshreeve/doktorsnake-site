@@ -7,7 +7,7 @@ layout: layout.njk
 
 <p class="text">TIER I: One-Intention Psi Working</p>
 
-`\>> Single.Objective / Focused.Directional.Influence`
+`\>> Single.Objective / Focused.Strategic.Influence`
 
 <img class="about-hero" src="/assets/img/distance-influence.jpg"
      alt="EtherBlast">
