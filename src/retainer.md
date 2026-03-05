@@ -52,7 +52,7 @@ Includes:
 <script type="text/javascript">function EJEJC_lc(th) { return false; }; </script>
 <script src="https://www.fatfreecartpro.com/ecom/box_fb_n.js" type="text/javascript"></script>
 
-## Your Private Occult Operative
+## Your Private, Rational Occult Operative
 
 Think of this as having a **spiritual strategist in your corner** — working behind the scenes to align probability fields, shift energy, and clear your path.
 

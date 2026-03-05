@@ -5,7 +5,7 @@ title: Contact
 
 # Contact
 
-Most people begin by sending a short outline of the situation they're dealing with. If it looks like something I can help with, we take it from there.
+Send me an e-mail and I'll reply personally.
 
 <div class="card">
   <form action="https://formspree.io/f/xjgeveba" method="POST">
