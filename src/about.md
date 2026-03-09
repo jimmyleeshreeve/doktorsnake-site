@@ -39,6 +39,9 @@ Not theory.
 Not narrative.  
 Direct strategic work.
 
+> My work also continues an old tradition of practical magick — helping people resolve situations where normal approaches have failed.<br>
+— Doktor Snake
+
 ***
 
 ## Books
