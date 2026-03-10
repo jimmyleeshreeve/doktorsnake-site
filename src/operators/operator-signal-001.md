@@ -40,5 +40,5 @@ If the signal resonates, further transmissions may follow.
 <script src="https://www.fatfreecartpro.com/ecom/box_fb_n.js" type="text/javascript"></script>
 
 
-<img src="/assets/img/cyber-occult-glyph.jpg"
+<img class="about-hero" src="/assets/img/cyber-occult-glyph.jpg"
      alt="Operator Signal 001 — Pattern Before Story">
