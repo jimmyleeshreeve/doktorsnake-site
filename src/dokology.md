@@ -128,7 +128,7 @@ Best value. Paid in full.
     Entry-level cognitive control. Standalone. Immediately deployable.
     Built for professionals operating in a world of noise.
   </p>
-  <p><a class="btn" href="/dokology-001/">View Dokology 001 →</a></p>
+  <p><a class="btn" href="/clients/dokology-001/">View Dokology 001 →</a></p>
 </div>
 
 

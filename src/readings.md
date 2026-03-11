@@ -1,18 +1,20 @@
 ---
 layout: layout.njk
-title: Readings
+title: Case Readings
 ---
 
-# Readings
+# Case Readings
 
-`Real.Insight / No.Fluff`
+`Clarity. Pattern. Strategy.`
 
 <img class="about-hero" src="/assets/img/hacker-readings.jpg"
      alt="Doktor Snake Readings">
 
 A reading from me cuts through confusion, exposes hidden motives, and shows what’s real enough to act on. Expect truth you can use — not vague predictions — and calm clarity in chaotic crossroads.
 
-Every response is written personally by me, drawing on decades of work in magick, occult psychology, English folklore, and hard-won observation of how people actually behave.
+Every response is written personally by me — drawing on decades of work in magick, occult psychology, English folklore, and a strategist’s eye for the patterns that shape people and events.
+
+The aim is simple: to look clearly at the situation, the people involved, and the patterns that are unfolding.
 
 ## After You Order
 
