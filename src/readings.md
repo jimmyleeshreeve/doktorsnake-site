@@ -12,7 +12,7 @@ title: Readings
 
 A reading from me cuts through confusion, exposes hidden motives, and shows what’s real enough to act on. Expect truth you can use — not vague predictions — and calm clarity in chaotic crossroads.
 
-Every response is written personally by me, drawn from decades of work in occult psychology, magick, and English folklore.
+Every response is written personally by me, drawing on decades of work in magick, occult psychology, English folklore, and hard-won observation of how people actually behave.
 
 ## After You Order
 
