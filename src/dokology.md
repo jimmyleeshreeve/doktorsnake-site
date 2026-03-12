@@ -122,14 +122,6 @@ Best value. Paid in full.
 
 ---
 
-<div class="card">
-  <h3>DOKOLOGY 001 — Tactical Mind System</h3>
-  <p class="text">
-    Entry-level cognitive control. Standalone. Immediately deployable.
-    Built for professionals operating in a world of noise.
-  </p>
-  <p><a class="btn" href="/clients/dokology-001/">View Dokology 001 →</a></p>
-</div>
 
 
 
