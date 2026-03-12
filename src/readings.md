@@ -16,6 +16,12 @@ Every response is written personally by me — drawing on decades of work in mag
 
 The aim is simple: to look clearly at the situation, the people involved, and the patterns that are unfolding.
 
+<section class="after-order">
+  <h2>After You Order</h2>
+  <p class="after-order-intro">
+    The signal sequence is simple and handled personally.
+  </p>
+
 ## After You Order
 
 - Send your questions — or describe the situation fully.
@@ -23,8 +29,8 @@ The aim is simple: to look clearly at the situation, the people involved, and th
 - After completion, I'll deliver your reading by email.
 
 
-**INVESTMENT: $112**<br>
-Real world insight.
+**INVESTMENT :: $112**<br>
+*Real world insight.*
 
 <a href='https://www.fatfreecartpro.com/ecom/gb.php?&c=cart&ejc=2&cl=434879&i=1896027' onclick='return EJEJC_lc(this);' style='display:inline-block;background: #26a269 url(https://www.e-junkie.com/ej/images/newaddtocart.png) center/100px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);text-decoration: none;' target='ej_ejc' class='ec_ejc_thkbx'>&nbsp;</a>
 
@@ -51,4 +57,34 @@ That’s the spirit of these readings.
 
 We’re not chasing certainty.  
 We’re extracting signal from noise, so you can choose your next move with your eyes open.
+
+<br>
+
+<div class="operator-notice">
+  
+      <div class="operator-header">
+  System Message :: Transaction Conditions
+  </div>
+
+  <p>
+  Readings are a <strong>custom digital service</strong>
+  </p>
+
+  <p>
+  After purchase you will submit your questions via a short form. The reading is then scheduled and conducted personally.
+  </p>
+
+  <p>
+  Because the service is prepared specifically for each client, all sales are final once the reading has been scheduled.
+  </p>
+
+    <p>
+    Please contact support if any issue occurs — most problems can be resolved quickly.
+    </p>
+
+  <p class="operator-small">
+  Fraudulent chargebacks will be disputed using payment and delivery records.
+  </p>
+
+</div>
 

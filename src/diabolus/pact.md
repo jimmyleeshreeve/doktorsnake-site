@@ -87,12 +87,10 @@ After that, if you wish, you can move to Doktor Snake's Retainer Package to keep
 
 > And ye shall be all ye will to be. All shall yield to your dominant will.
 
-**INVESTMENT: $3,000 USD**<br>
-Harness the Earth-shattering power of the Pact.
+### INVESTMENT :: $3,000 USD
+*All workings are conducted personally by Doktor Snake and prepared specifically for the client.*
 
-<a href='https://www.fatfreecartpro.com/ecom/gb.php?&c=cart&ejc=2&cl=434879&i=1896081' onclick='return EJEJC_lc(this);' style='display:inline-block;background: #26a269 url(https://www.e-junkie.com/ej/images/newaddtocart.png) center/100px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);text-decoration: none;' target='ej_ejc' class='ec_ejc_thkbx'>&nbsp;</a>
-
-<a href="https://www.fatfreecartpro.com/ecom/gb.php?c=cart&ejc=2&cl=434879" target="ej_ejc" class="ec_ejc_thkbx" onclick="return EJEJC_lc(this);" style="display:inline-block;background: #26a269 url(https://www.e-junkie.com/ej/images/newviewcart.png) center/90px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);cursor: pointer;text-decoration: none;">&nbsp;</a>
+<a href='https://www.fatfreecartpro.com/ecom/gb.php?&c=cart&ejc=2&cl=434879&i=1896081' onclick='return EJEJC_lc(this);' style='display:inline-block;background: #26a269 url(https://www.e-junkie.com/ej/images/newaddtocart.png) center/100px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);text-decoration: none;' target='ej_ejc' class='ec_ejc_thkbx'>&nbsp;</a>&nbsp;<a href="https://www.fatfreecartpro.com/ecom/gb.php?c=cart&ejc=2&cl=434879" target="ej_ejc" class="ec_ejc_thkbx" onclick="return EJEJC_lc(this);" style="display:inline-block;background: #26a269 url(https://www.e-junkie.com/ej/images/newviewcart.png) center/90px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);cursor: pointer;text-decoration: none;">&nbsp;</a>
 
 <script type="text/javascript">function EJEJC_lc(th) { return false; }; </script>
 <script src="https://www.fatfreecartpro.com/ecom/box_fb_n.js" type="text/javascript"></script>
@@ -193,3 +191,36 @@ As one poetic verse stated:
 
 <img class="about-hero" src="/assets/img/satanic-england.jpg"
      alt="Satanic England">
+     
+     <br>
+     
+     <div class="operator-notice">
+ 
+     <div class="operator-header">
+  System Message :: Transaction Conditions
+  </div>
+
+  <p>
+  This working is a <strong>custom digital service</strong>
+  </p>
+
+  <p>
+  After purchase you will submit your intention via a short form. The working is then scheduled and conducted personally.
+  </p>
+
+  <p>Delivery consists of a written field report and any guidance arising from the working.
+  </p>
+
+  <p>
+  Because the service is prepared specifically for each client, all sales are final once the working has been scheduled.
+  </p>
+
+    <p>
+    Please contact support if any issue occurs — most problems can be resolved quickly.
+    </p>
+
+  <p class="operator-small">
+  Fraudulent chargebacks will be disputed using payment and delivery records.
+  </p>
+
+</div>

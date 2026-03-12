@@ -172,3 +172,27 @@ Dokology 002 is currently in development.
 Created by Jimmy Lee Shreeve<br>
 Author and former national newspaper journalist<br>
 Operating as Doktor Snake
+
+<br><br><br>
+<div class="operator-notice">
+  
+      <div class="operator-header">
+  System Message :: Transaction Conditions
+  </div>
+
+  <p>
+  This transmission is a <strong>digital product</strong> delivered immediately after payment.
+  Once the signal has been received, the transaction is complete.
+  </p>
+
+  <p>
+  All sales are final. Please contact support if any issue occurs —
+  most problems can be resolved quickly.
+  </p>
+
+  <p class="operator-small">
+  Fraudulent chargebacks will be disputed with payment providers using
+  transaction and delivery records.
+  </p>
+
+</div>

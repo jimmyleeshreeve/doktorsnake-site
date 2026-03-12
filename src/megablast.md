@@ -42,16 +42,30 @@ I journey to a power-site in Suffolk — where ancestral charge and modern ether
 
 Through field-manipulation, spirit petition, and distance influence, your three chosen vectors converge and pulse outward — reshaping your reality-stream on multiple levels simultaneously.
 
-## After You Order
+<section class="after-order">
+  <h2>After You Order</h2>
+  <p class="after-order-intro">
+    The signal sequence is simple and handled personally.
+  </p>
 
-- You share the three intentions (and any relevant background/context)
-- I schedule and perform the ritual
-- After completion, you receive a full report: what was done, what energies were invoked and stirred, and any follow-up guidance
+  <ol class="after-order-steps">
+    <li>
+      <strong>01 :: Submit Intention</strong>
+      <span>You complete a short form outlining the situation and desired outcome.</span>
+    </li>
+    <li>
+      <strong>02 :: Working Scheduled</strong>
+      <span>I review the details, schedule the working, and confirm the timing.</span>
+    </li>
+    <li>
+      <strong>03 :: Field Report Delivered</strong>
+      <span>After the working, you receive a written report describing what was done, what arose in the field, and any guidance going forward.</span>
+    </li>
+  </ol>
+</section>
 
-**INVESTMENT: $667 USD**<br>
-Your three intentions. One orchestrated field. Custom-tuned for you.
-
-## ORDER NOW
+### INVESTMENT :: $667 USD
+*All workings are conducted personally by Doktor Snake and prepared specifically for the client.*
 
  <a href='https://www.fatfreecartpro.com/ecom/gb.php?&c=cart&ejc=2&cl=434879&i=1896023' onclick='return EJEJC_lc(this);' style='display:inline-block;background: #26a269 url(https://www.e-junkie.com/ej/images/newaddtocart.png) center/100px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);text-decoration: none;' target='ej_ejc' class='ec_ejc_thkbx'>&nbsp;</a>&nbsp;<a href="https://www.fatfreecartpro.com/ecom/gb.php?c=cart&ejc=2&cl=434879" target="ej_ejc" class="ec_ejc_thkbx" onclick="return EJEJC_lc(this);" style="display:inline-block;background: #26a269 url(https://www.e-junkie.com/ej/images/newviewcart.png) center/90px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);cursor: pointer;text-decoration: none;">&nbsp;</a>
  
@@ -65,3 +79,36 @@ Your three intentions. One orchestrated field. Custom-tuned for you.
 
 > *My request was complicated, but Doktor Snake handled it. Results began within days.*<br>
 — **Elena J., Manchester**
+
+<br>
+
+<div class="operator-notice">
+ 
+     <div class="operator-header">
+  System Message :: Transaction Conditions
+  </div>
+
+  <p>
+  This working is a <strong>custom digital service</strong>
+  </p>
+
+  <p>
+  After purchase you will submit your intention via a short form. The working is then scheduled and conducted personally.
+  </p>
+
+  <p>Delivery consists of a written field report and any guidance arising from the working.
+  </p>
+
+  <p>
+  Because the service is prepared specifically for each client, all sales are final once the working has been scheduled.
+  </p>
+
+    <p>
+    Please contact support if any issue occurs — most problems can be resolved quickly.
+    </p>
+
+  <p class="operator-small">
+  Fraudulent chargebacks will be disputed using payment and delivery records.
+  </p>
+
+</div>

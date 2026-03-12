@@ -30,7 +30,7 @@ This is not just spellwork. It’s **full-spectrum spiritual consulting**, roote
 
 ## How to Join the Retainer Program
 
-💳 **INVESTMENT: $2,400 per year** (payment plans available)
+💳 **INVESTMENT :: $2,400 per year** (payment plans available)
 
 Includes:
 
@@ -60,4 +60,37 @@ Think of this as having a **spiritual strategist in your corner** — working be
 
 <img class="about-hero" src="/assets/img/cyber-altar.jpg"
      alt="Cyber Altar">
+     
+     <br>
+     
+     <div class="operator-notice">
+ 
+     <div class="operator-header">
+  System Message :: Transaction Conditions
+  </div>
+
+  <p>
+  This working is a <strong>custom digital service</strong>
+  </p>
+
+  <p>
+  After purchase you will submit your intention via a short form. The working is then scheduled and conducted personally.
+  </p>
+
+  <p>Delivery consists of a written field report and any guidance arising from the working.
+  </p>
+
+  <p>
+  Because the service is prepared specifically for each client, all sales are final once the working has been scheduled.
+  </p>
+
+    <p>
+    Please contact support if any issue occurs — most problems can be resolved quickly.
+    </p>
+
+  <p class="operator-small">
+  Fraudulent chargebacks will be disputed using payment and delivery records.
+  </p>
+
+</div>
 
