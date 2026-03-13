@@ -71,6 +71,17 @@ Through field-manipulation, spirit petition, and distance influence, your three 
  
  <script type="text/javascript">function EJEJC_lc(th) { return false; }; </script>
 <script src="https://www.fatfreecartpro.com/ecom/box_fb_n.js" type="text/javascript"></script>
+
+<div class="btc-badge">
+  ALTERNATIVE PAYMENT CHANNEL :: ₿ BITCOIN AVAILABLE
+</div>
+
+<div class="note--inline">
+Bitcoin or other crypto accepted.<br>
+<a href="/contact/">Contact</a> Doktor Snake to arrange.
+</div>
+
+---
  
 ## ✨ Testimonials
  

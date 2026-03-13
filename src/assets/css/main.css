@@ -997,3 +997,15 @@ body::after{
   opacity: 0.92;
   line-height: 1.6;
 }
+
+.btc-badge {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 4px 10px;
+  border: 1px solid rgba(0,255,156,0.35);
+  font-size: 0.75rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  opacity: 0.75;
+  box-shadow: 0 0 6px rgba(0,255,156,0.15);
+}

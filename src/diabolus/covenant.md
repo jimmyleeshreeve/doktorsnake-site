@@ -79,9 +79,18 @@ Are you ready to make the Covenant?
 <script type="text/javascript">function EJEJC_lc(th) { return false; }; </script>
 <script src="https://www.fatfreecartpro.com/ecom/box_fb_n.js" type="text/javascript"></script>
 
-Payment plans available on request — <a href="/contact/">email me.</a>
+⇛ Payment plans available on request — <a href="/contact/">email me.</a>
 
-<br>
+<div class="btc-badge">
+  ALTERNATIVE PAYMENT CHANNEL :: ₿ BITCOIN AVAILABLE
+</div>
+
+<div class="note--inline">
+Bitcoin or other crypto accepted.<br>
+<a href="/contact/">Contact</a> Doktor Snake to arrange.
+</div>
+
+---
 
 <div class="operator-notice">
 

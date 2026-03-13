@@ -63,6 +63,17 @@ There I enter trance, tune into the field, call on spirit and ancestral allies, 
 <script type="text/javascript">function EJEJC_lc(th) { return false; }; </script>
 <script src="https://www.fatfreecartpro.com/ecom/box_fb_n.js" type="text/javascript"></script>
 
+<div class="btc-badge">
+  ALTERNATIVE PAYMENT CHANNEL :: ₿ BITCOIN AVAILABLE
+</div>
+
+<div class="note--inline">
+Bitcoin or other crypto accepted.<br>
+<a href="/contact/">Contact</a> Doktor Snake to arrange.
+</div>
+
+---
+
 ## 🗣️ What People Say
  
 > *Within two days I got a call about the job I’d been chasing for six months. It’s spooky how effective Doktor Snake’s work is.*<br>
