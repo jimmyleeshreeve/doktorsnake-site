@@ -1,5 +1,5 @@
 ---
-title: Strategic Spellwork + Readings
+title: Clients
 layout: layout.njk
 noindex: true
 ---

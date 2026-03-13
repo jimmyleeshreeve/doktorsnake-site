@@ -1,6 +1,7 @@
 ---
 title: Key To Riches
 layout: layout.njk
+noindex: true
 ---
 
 # Key To Riches
