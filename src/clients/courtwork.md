@@ -1,10 +1,10 @@
 ---
-title: Courtwork
+title: CourtWork
 layout: layout.njk
 noindex: true
 ---
 
-# Courtwork
+# CourtWork
 
 <p class="text">Sway The Judge :: Get Leniency or Sentence Overturned</p>
 
