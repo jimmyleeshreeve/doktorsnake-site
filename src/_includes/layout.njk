@@ -1,117 +1,123 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+
+{% set metaDescription = description | default("Clarity, leverage, and movement. Readings, Dokology, and influence workings for real situations.") %}
+{% set canonicalUrl = "https://www.doktorsnake.com" + page.url %}
+{% set ogImage = ogImage | default("https://doktorsnake.com/assets/img/og-doktorsnake.jpg") %}
+{% set ogImageAlt = ogImageAlt | default("DoktorSnake — Clarity. Leverage. Movement.") %}
+{% set ogType = ogType | default("website") %}
+
+{% if title %}
+  {% set metaTitle = title + " • DoktorSnake" %}
+{% else %}
+  {% set metaTitle = "DoktorSnake" %}
+{% endif %}
+
   <!-- Primary meta -->
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="theme-color" content="#050505" />
-<link rel="icon" type="image/png" sizes="32x32" href="/assets/img/favicon-32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/assets/img/favicon-16.png">
-<link rel="apple-touch-icon" sizes="180x180" href="/assets/img/apple-touch-icon.png">
-<link rel="icon" href="/assets/img/favicon.ico">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/img/favicon-32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/img/favicon-16.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/img/apple-touch-icon.png">
+  <link rel="icon" href="/assets/img/favicon.ico">
 
-  <meta name="description" content="{{ description | default('Clarity, leverage, and movement. Readings, Dokology, and influence workings for real situations.') }}">
-  <link rel="canonical" href="https://www.doktorsnake.com{{ page.url }}" />
+  <meta name="description" content="{{ metaDescription }}">
+  <link rel="canonical" href="{{ canonicalUrl }}" />
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Person",
-  "name": "Jimmy Lee Shreeve",
-  "alternateName": "Doktor Snake",
-  "url": "https://www.doktorsnake.com",
-  "sameAs": [
-    "https://doktorsnake.io"
-  ]
-}
-</script>
+  {% if noindex %}
+  <meta name="robots" content="noindex, nofollow" />
+  {% endif %}
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Jimmy Lee Shreeve",
+    "alternateName": "Doktor Snake",
+    "url": "https://www.doktorsnake.com",
+    "sameAs": [
+      "https://doktorsnake.io"
+    ]
+  }
+  </script>
 
   <!-- Open Graph -->
   <meta property="og:site_name" content="DoktorSnake" />
-  <meta property="og:type" content="website" />
-  <meta property="og:title" content="{% if title %}{{ title }} • {% endif %}DoktorSnake" />
-  <meta property="og:description" content="Clarity, leverage, and movement. Readings, Dokology, and influence workings for real situations." />
-  <meta property="og:url" content="https://doktorsnake.com{{ page.url }}" />
-  <meta property="og:image" content="https://doktorsnake.com/assets/img/og-doktorsnake.jpg" />
+  <meta property="og:type" content="{{ ogType }}" />
+  <meta property="og:title" content="{{ metaTitle }}" />
+  <meta property="og:description" content="{{ metaDescription }}" />
+  <meta property="og:url" content="{{ canonicalUrl }}" />
+  <meta property="og:image" content="{{ ogImage }}" />
   <meta property="og:image:width" content="1200" />
   <meta property="og:image:height" content="630" />
-  <meta property="og:image:alt" content="DoktorSnake — Clarity. Leverage. Movement." />
+  <meta property="og:image:alt" content="{{ ogImageAlt }}" />
 
   <!-- Twitter / X -->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="{% if title %}{{ title }} • {% endif %}DoktorSnake" />
-  <meta name="twitter:description" content="Clarity, leverage, and movement. Readings, Dokology, and influence workings for real situations." />
-  <meta name="twitter:image" content="https://doktorsnake.com/assets/img/og-doktorsnake.jpg" />
+  <meta name="twitter:title" content="{{ metaTitle }}" />
+  <meta name="twitter:description" content="{{ metaDescription }}" />
+  <meta name="twitter:image" content="{{ ogImage }}" />
   <meta name="twitter:site" content="@DoktorSnakeHQ" />
 
-  <title>{% if title %}{{ title }} • {% endif %}DoktorSnake</title>
+  <title>{{ metaTitle }}</title>
   <link rel="stylesheet" href="/assets/css/main.css">
 
-{% if noindex %}
-<meta name="robots" content="noindex, nofollow" />
-{% endif %}
-
-<script defer data-domain="doktorsnake.com" src="https://plausible.io/js/script.js"></script>
-
+  <script defer data-domain="doktorsnake.com" src="https://plausible.io/js/script.js"></script>
 </head>
 
 <body>
   <header class="wrap top">
     <a class="brand" href="/">DoktorSnake</a>
 
-  <nav class="nav">
-  <a href="/influence/">Influence</a>
-  <a href="/readings/">Readings</a>
-  <a href="/diabolus/">Diabolus</a>
-  <a href="/retainer/">Retainer</a>
-  <a href="/dokology/">Dokology</a>
-  <a href="/operators/">Operators</a>
-  <a href="/contact/">Contact</a>
-  <a href="https://doktorsnake.io" target="_blank" rel="noopener noreferrer">Substack</a>
-  </nav>
-
+    <nav class="nav">
+      <a href="/influence/">Influence</a>
+      <a href="/readings/">Readings</a>
+      <a href="/diabolus/">Diabolus</a>
+      <a href="/retainer/">Retainer</a>
+      <a href="/dokology/">Dokology</a>
+      <a href="/operators/">Operators</a>
+      <a href="/contact/">Contact</a>
+      <a href="https://doktorsnake.io" target="_blank" rel="noopener noreferrer">Substack</a>
+    </nav>
   </header>
 
   <main class="wrap">
     {{ content | safe }}
   </main>
 
-<hr class="ds-hr ds-hr--dots">
+  <hr class="ds-hr ds-hr--dots">
 
-<footer class="wrap footer">
+  <footer class="wrap footer">
+    <div class="footer-about">
+      <h3>About</h3>
+      <p>
+        Doktor Snake is the working identity of Jimmy Lee Shreeve —
+        author and former journalist published in
+        The Independent, Daily Telegraph, Sunday Telegraph,
+        and Financial Times.
+      </p>
 
-  <div class="footer-about">
-    <h3>About</h3>
-    <p>
-      Doktor Snake is the working identity of Jimmy Lee Shreeve —
-      author and former journalist published in
-      The Independent, Daily Telegraph, Sunday Telegraph,
-      and Financial Times.
-    </p>
+      <p class="footer-links">
+        <a href="/about/">Full background →</a>
+        <span aria-hidden="true">·</span>
+        <a href="/press/">Press →</a>
+        <span aria-hidden="true">·</span>
+        <a href="/terms/">Terms / Transaction Policy</a>
+        <span aria-hidden="true">·</span>
+        <a href="/contact/">Contact</a>
+      </p>
+    </div>
 
-    <p class="footer-links">
-  <a href="/about/">Full background →</a>
-  <span aria-hidden="true">·</span>
-  <a href="/press/">Press →</a>
-  <span aria-hidden="true">·</span>
-  <a href="/terms/">Terms / Transaction Policy</a>
-  <span aria-hidden="true">·</span>
-  <a href="/contact/">Contact</a>
-</p>
-  </div>
+    <div class="footer-divider"></div>
 
-  <div class="footer-divider"></div>
-
-  <small class="copy-note">
-  CopyWrong © DoktorSnake.com<br>
-  Files replicate. Leverage does not.
-  </small>
-
-
-</footer>
-
+    <small class="copy-note">
+      CopyWrong © DoktorSnake.com<br>
+      Files replicate. Leverage does not.
+    </small>
+  </footer>
 
   <script src="/assets/js/site.js"></script>
 </body>
 </html>
-

@@ -1009,3 +1009,220 @@ body::after{
   opacity: 0.75;
   box-shadow: 0 0 6px rgba(0,255,156,0.15);
 }
+
+/* =========================
+   DISPATCH
+========================= */
+
+.dispatch-header {
+  margin-bottom: 2.5rem;
+}
+
+.page-intro {
+  max-width: 60ch;
+  opacity: 0.85;
+}
+
+/* LIST */
+
+.dispatch-list {
+  display: grid;
+  gap: 1.5rem;
+}
+
+/* CARD */
+
+.dispatch-card {
+  padding: 1.25rem 0;
+  border-top: 1px solid rgba(255, 255, 255, 0.12);
+}
+
+.dispatch-card:last-child {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.12);
+  padding-bottom: 1.5rem;
+}
+
+/* TITLE */
+
+.dispatch-card-title {
+  margin: 0 0 0.35rem;
+}
+
+.dispatch-card-title a {
+  text-decoration: none;
+  display: inline-block;
+}
+
+/* subtle hover — not flashy */
+.dispatch-card-title a:hover,
+.dispatch-card-title a:focus {
+  text-decoration: underline;
+}
+
+/* META */
+
+.dispatch-card-meta {
+  font-size: 0.9rem;
+  opacity: 0.7;
+  margin-bottom: 0.6rem;
+}
+
+/* DESCRIPTION */
+
+.dispatch-card-desc {
+  margin: 0;
+  max-width: 62ch;
+  opacity: 0.9;
+}
+
+/* =========================
+   POST (INDIVIDUAL)
+========================= */
+
+.dispatch-entry .entry-header {
+  margin-bottom: 2rem;
+}
+
+.entry-description {
+  max-width: 60ch;
+  opacity: 0.9;
+}
+
+.dispatch-entry .entry-content {
+  max-width: 70ch;
+  line-height: 1.65;
+}
+
+/* =========================
+   PAGINATION (FUTURE)
+========================= */
+
+.pagination {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-top: 2.5rem;
+}
+
+.pagination a {
+  text-decoration: none;
+  opacity: 0.85;
+}
+
+.pagination a:hover,
+.pagination a:focus {
+  text-decoration: underline;
+  opacity: 1;
+}
+
+.dispatch-card-title::before {
+  content: ">> ";
+  opacity: 0.4;
+}
+
+/* =========================
+   DISPATCH REFINEMENTS
+========================= */
+
+/* archive header */
+.dispatch-header .eyebrow,
+.dispatch-entry .eyebrow {
+  margin: 0 0 0.5rem;
+  font-family: var(--mono);
+  font-size: 0.78rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--matrix);
+  opacity: 0.9;
+}
+
+/* archive cards should not inherit big H2 treatment */
+.dispatch-card-title {
+  margin: 0 0 0.35rem;
+  padding-bottom: 0;
+  font-size: 1.05rem;
+  letter-spacing: 0.06em;
+}
+
+.dispatch-card-title::after {
+  display: none;
+}
+
+.dispatch-card-title a {
+  text-decoration: none;
+  display: inline-block;
+}
+
+/* slightly more signal-like, still restrained */
+.dispatch-card-title a:hover,
+.dispatch-card-title a:focus {
+  color: var(--matrix);
+  text-shadow: 0 0 6px var(--matrix-soft);
+  text-decoration: none;
+}
+
+/* card separator a touch more on-brand */
+.dispatch-card {
+  padding: 1.15rem 0 1.25rem;
+  border-top: 1px solid rgba(33,245,106,0.14);
+}
+
+.dispatch-card:last-child {
+  border-bottom: 1px solid rgba(33,245,106,0.14);
+  padding-bottom: 1.4rem;
+}
+
+/* metadata */
+.dispatch-card-meta,
+.entry-meta {
+  font-family: var(--mono);
+  font-size: 0.78rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--muted);
+  opacity: 0.8;
+}
+
+/* post page title */
+.dispatch-entry h1 {
+  margin-bottom: 0.75rem;
+}
+
+/* dispatch body copy */
+.dispatch-entry .entry-content p {
+  max-width: 70ch;
+}
+
+/* nicer spacing for content blocks inside posts */
+.dispatch-entry .entry-content > * + * {
+  margin-top: 1rem;
+}
+
+/* keep code blocks and quotes breathing properly inside posts */
+.dispatch-entry .entry-content pre,
+.dispatch-entry .entry-content blockquote,
+.dispatch-entry .entry-content .note,
+.dispatch-entry .entry-content .card {
+  margin-top: 1.4rem;
+  margin-bottom: 1.4rem;
+}
+
+.dispatch-header .page-intro {
+  max-width: 60ch;
+  opacity: 0.85;
+}
+
+.dispatch-follow{
+  margin-top:3rem;
+  padding-top:1.5rem;
+  border-top:1px solid rgba(33,245,106,0.14);
+}
+
+.dispatch-follow-text{
+  font-family:var(--mono);
+  font-size:0.85rem;
+  letter-spacing:0.08em;
+  text-transform:uppercase;
+  color:var(--muted);
+  margin-bottom:0.6rem;
+}

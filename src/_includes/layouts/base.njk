@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>
+    {% if title %}
+      {{ title }} | {{ site.name }}
+    {% else %}
+      {{ site.name }}
+    {% endif %}
+  </title>
+
+  {% if description %}
+    <meta name="description" content="{{ description }}">
+  {% endif %}
+
+  {% if noindex %}
+    <meta name="robots" content="noindex,nofollow">
+  {% endif %}
+
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+  <link rel="stylesheet" href="/assets/css/main.css">
+</head>
+<body>
+  {% include "partials/site-header.njk" %}
+
+  <main id="content">
+    {{ content | safe }}
+  </main>
+
+  {% include "partials/site-footer.njk" %}
+</body>
+</html>

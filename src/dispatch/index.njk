@@ -1,0 +1,42 @@
+---
+layout: layouts/dispatch-index.njk
+title: Dispatch
+tags: []
+permalink: /dispatch/index.html
+eleventyExcludeFromCollections: true
+noindex: true
+---
+
+{% set posts = collections.dispatch | reverse %}
+
+<section class="dispatch-list">
+  {% for post in posts %}
+    <article class="dispatch-card">
+      <h2 class="dispatch-card-title">
+        <a href="{{ post.url }}">{{ post.data.title }}</a>
+      </h2>
+
+      <p class="dispatch-card-meta">
+        <time datetime="{{ post.date | htmlDateString }}">
+          {{ post.date | readableDate }}
+        </time>
+      </p>
+
+      {% if post.data.description %}
+        <p class="dispatch-card-desc">{{ post.data.description }}</p>
+      {% endif %}
+    </article>
+  {% endfor %}
+</section>
+
+<div class="dispatch-follow">
+
+  <p class="dispatch-follow-text">
+    Receive Dispatches by email.
+  </p>
+
+  <a href="https://buttondown.com/doktorsnake" class="btn">
+    Subscribe
+  </a>
+
+</div>

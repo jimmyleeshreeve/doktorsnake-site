@@ -1,0 +1,26 @@
+---
+layout: layout.njk
+---
+
+<article class="entry dispatch-entry">
+  <header class="entry-header">
+    <p class="eyebrow">{{ section or "Dispatch" }}</p>
+
+    <h1>{{ title }}</h1>
+
+<p class="entry-meta">
+  <time datetime="{{ page.date | htmlDateString }}">
+    {{ page.date | readableDate }}
+  </time>
+  {% if author %} · {{ author }}{% endif %}
+</p>
+
+    {% if description %}
+      <p class="entry-description">{{ description }}</p>
+    {% endif %}
+  </header>
+
+  <div class="entry-content">
+    {{ content | safe }}
+  </div>
+</article>

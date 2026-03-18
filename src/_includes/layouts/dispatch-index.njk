@@ -1,0 +1,18 @@
+---
+layout: layout.njk
+---
+
+<section class="page-header dispatch-header">
+  <p class="eyebrow">Signal Archive</p>
+  <h1>{{ title }}</h1>
+
+<p class="page-intro">
+  {{ intro | default("A private running log of transmissions, notes, observations, and field reports.") }}
+</p>
+
+</section>
+
+{{ content | safe }}
+
+
+
