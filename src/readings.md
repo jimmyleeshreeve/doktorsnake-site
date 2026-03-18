@@ -22,8 +22,6 @@ The aim is simple: to look clearly at the situation, the people involved, and th
     The signal sequence is simple and handled personally.
   </p>
 
-## After You Order
-
 - Send your questions — or describe the situation fully.
 - I'll conduct the reading within 72-hours.
 - After completion, I'll deliver your reading by email.
