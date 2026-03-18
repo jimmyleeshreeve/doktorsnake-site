@@ -70,8 +70,8 @@ I typically go into a visionary trance, which takes me onto the etheric plane �
 
 Again, depending on the requirement, I might call upon ancestral spirits or shades, enlisting their help in bring an everyday-world requirement into reality.
 
-**But there's more to it than results magick.**   
-When in visionary you soon realise that what we normally perceive of the world is only a tiny part of what's here and "out there" — the actual substrates of reality, space-time dimensions, are vast, and you have to back away, otherwise the sheer bewilderment could turn to insanity.
+> **But there's more to it than results magick.**   
+> When in visionary you soon realise that what we normally perceive of the world is only a tiny part of what's here and "out there" — the actual substrates of reality, space-time dimensions, are vast, and you have to back away, otherwise the sheer bewilderment could turn to insanity.
 
 ---
 
