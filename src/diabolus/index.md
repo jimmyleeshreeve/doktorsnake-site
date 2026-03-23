@@ -58,6 +58,6 @@ These Faustian workings are conducted in the wilds of Suffolk. Often at a desola
   <p class="text">
   Spiritual cleansing and protection from malevolent forces.
   </p>
-  <p><a class="btn" href="/diabolus/hex">View Archangel →</a></p>
+  <p><a class="btn" href="/diabolus/archangel">View Archangel →</a></p>
 </div>
 
