@@ -29,7 +29,7 @@ Each one is designed to be simple to use and easy to return to.
 
   <article class="card product-card">
     <h2>Money Attractor — Digital Talisman</h2>
-    <p>A short audio-visual talisman designed to shift your state around money, opportunity, receptivity, and material momentum.</p>
+    <p>If your finances are as dry as desert sand, this one is for you.</p>
     <p><a class="button" href="/digital-talismans/money-attractor/">View Talisman</a></p>
   </article>
 
@@ -37,13 +37,11 @@ Each one is designed to be simple to use and easy to return to.
 
 ## How They Work
 
-A talisman does not need to lecture you.
+A talisman works through repetition, atmosphere, association, expectation, and mind-state change.
 
-It works through repetition, atmosphere, association, expectation, and state change.
+Used regularly, these transmissions help interrupt defeat-patterns, reduce psychic drag, and strengthen your sense of movement, possibility, and practical response.
 
-Used regularly, these transmissions can help interrupt defeat-patterns, reduce psychic drag, and strengthen your sense of movement, possibility, and practical response.
-
-In plain English: when you feel blocked, flat, unlucky, or out of rhythm, run the talisman and reset the signal.
+**In plain English: when you feel blocked, flat, unlucky, or out of rhythm, run the talisman and reset the signal.**
 
 ## Important
 
