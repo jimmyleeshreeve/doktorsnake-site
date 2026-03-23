@@ -23,12 +23,6 @@ That is the wrong signal.
 
 **Money Attractor is a short digital talisman designed to help you shift your state around money, opportunity, receptivity, and momentum.**
 
-Not a course.  
-Not coaching.  
-Not a bespoke working.
-
-A talisman.
-
 You run it.  
 You absorb it.  
 You reset the current.
@@ -63,23 +57,13 @@ Self-contained.
 ### Includes the companion field book: *The Money Current*  
 **A Doktor Snake Field Book of Atmosphere, Attention, and Attraction**
 
-The talisman is enough for many people.
-
-Run it.  
-Absorb it.  
-Reset the signal.
-
-But some people want more than the hit.
+The talisman is enough for many people. But some people want more than the hit.
 
 They want the current behind the hit.
 
 That is the Expanded Edition.
 
 You get everything in Standard, plus *The Money Current* — a compact Doktor Snake field book on signal, atmosphere, money movement, practical psionics, and the hidden mechanics of receptivity.
-
-Not a workbook.  
-Not therapy.  
-Not airy-fairy abundance fluff.
 
 A sharp little companion volume for changing the way you think, feel, and move around money.
 

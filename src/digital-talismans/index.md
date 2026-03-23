@@ -9,10 +9,6 @@ permalink: /digital-talismans/
 
 <p class="text">Charged media for the digital age.</p>
 
-Not a course.  
-Not coaching.  
-Not a customised working.
-
 These are self-contained audio-visual talismans designed to shift state, reset attention, and help you move again when the signal has gone weak.
 
 Digital Talismans are self-contained charged media objects: short video-and-audio transmissions designed to shift state, focus attention, and help you re-enter the current with more clarity, steadiness, and momentum.
@@ -23,9 +19,7 @@ Watch them.
 Listen to them.  
 Run them when the signal drops.
 
-Some are built for money.  
-Some for protection.  
-Some for road-opening, morale, or practical influence.
+Some are built for money. Some for protection. Some for road-opening, morale, or practical influence.
 
 Each one is designed to be simple to use and easy to return to.
 
