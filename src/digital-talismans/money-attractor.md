@@ -1,44 +1,41 @@
 ---
 title: Money Attractor — Digital Talisman
 layout: layout.njk
-description: A short audio-visual talisman designed to shift your state around money, opportunity, receptivity, and practical momentum.
+description: A short audio-visual talisman designed to shift your state around money, opportunity, and receptivity, bringing practical momentum.
 permalink: /digital-talismans/money-attractor/
 ---
 
 # Money Attractor — Digital Talisman
 
-<p class="text">A short audio-visual talisman designed to shift your state around money, opportunity, receptivity, and practical momentum.</p>
+<p class="text">If your finances are as dry as desert sand, this one is for you.</p>
 
 <img class="about-hero" src="/assets/img/money-attractor-sigil.png"
      alt="Money Attractor Sigil">
 
-**When money goes strange, people usually make it worse.**
+**When money is tight, people usually make it worse.**
 
-They tighten up.  
-They brood.  
-They chase.  
-They emit lack.
+They brood. They chase. They emit lack.
 
 That is the wrong signal.
 
 **Money Attractor is a short digital talisman designed to help you shift your state around money, opportunity, receptivity, and momentum.**
 
-You run it.  
-You absorb it.  
-You reset the current.
+You run it.   
+You absorb it.   
+Your money current resets.
 
 ## What It Does
 
 This is designed to help you:
 
-- break the feel of stagnation
-- interrupt scarcity mood
+- break stagnation
+- blow apart scarcity
 - reduce psychic drag
-- increase receptivity to openings
-- restore a sense of forward movement
+- increase receptivity to opportunities
+- restore positivity and forward movement
 - get your head back in the game
 
-When things feel blocked, slow, thin, or weird around money — run the talisman.
+When things feel blocked or slow, and money is thin on the ground — run the talisman.
 
 ## Standard Edition — $33
 
@@ -63,18 +60,16 @@ They want the current behind the hit.
 
 That is the Expanded Edition.
 
-You get everything in Standard, plus *The Money Current* — a compact Doktor Snake field book on signal, atmosphere, money movement, practical psionics, and the hidden mechanics of receptivity.
-
-A sharp little companion volume for changing the way you think, feel, and move around money.
+You get everything in Standard, plus *The Money Current* — a compact Doktor Snake field book on signal, making money move, practical psionics, and the hidden mechanics of receptivity.
 
 Inside:
 
-- how lack becomes a broadcast
-- how people train themselves into financial drag
-- why stillness improves signal
+- how lack becomes a broadcast (you shoot yourself in the foot)
+- how people train themselves into financial drag (but don't realise they're doing it)
+- why stillness improves signal (quiet mind = clarity)
 - how to use the talisman properly
-- practical methods for attracting openings
-- how to move without begging or panic
+- practical methods for attracting opportunities
+- how to move forwards without begging or panic
 - why the operator’s stance changes everything
 
 The talisman changes the mood.
@@ -93,7 +88,7 @@ Standard gets you started.
 
 Expanded goes deeper.
 
-## When To Use It
+## When To Use The Money Attractor
 
 Run it:
 
@@ -114,38 +109,16 @@ Let it run in the background.
 
 ## Why This Works
 
-People have always used charged objects.
-
-Coins.  
-Talismans.  
-Seals.  
-Tokens.  
-Curious little objects loaded with intention.
+People have always used charged objects like coins, talismans, seals.
 
 This is the updated form.
 
-A charged media object for the digital age.
+A charged media object for the digital age. One that has image, sound, rhythm, repetition — and above all signal.
 
-Image.  
-Sound.  
-Rhythm.  
-Repetition.  
-Association.  
-Signal.
+Used properly, it helps change the state from which you act. And that matters.
 
-Used properly, it helps change the state from which you act.
-
-And that matters.
-
-## Final Word
-
-You do not always need more theory.
-
-Sometimes you need movement.  
-Sometimes you need a stronger signal.  
-Sometimes you need to stop broadcasting defeat.
-
-That is what this is for.
+Not theory.
+Just getting the job done.
 
 ### Buy Money Attractor — Standard Edition: $33 USD
 <a href='https://www.fatfreecartpro.com/ecom/gb.php?&c=cart&ejc=2&cl=434879&i=1896971' onclick='return EJEJC_lc(this);' style='display:inline-block;background: #26a269 url(https://www.e-junkie.com/ej/images/newaddtocart.png) center/100px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);text-decoration: none;' target='ej_ejc' class='ec_ejc_thkbx'>&nbsp;</a>&nbsp;<a href="https://www.fatfreecartpro.com/ecom/gb.php?c=cart&ejc=2&cl=434879" target="ej_ejc" class="ec_ejc_thkbx" onclick="return EJEJC_lc(this);" style="display:inline-block;background: #26a269 url(https://www.e-junkie.com/ej/images/newviewcart.png) center/90px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);cursor: pointer;text-decoration: none;">&nbsp;</a>
