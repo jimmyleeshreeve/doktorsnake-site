@@ -1,6 +1,8 @@
 ---
 title: Black Work Of Hell
 layout: layout.njk
+description: A curse working that works on evil-doers, troublemakers, and those that endeavour to exploit you.
+permalink: /diabolus/hex/
 ---
 
 # Black Work Of Hell
