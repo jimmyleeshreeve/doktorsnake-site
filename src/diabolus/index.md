@@ -45,4 +45,19 @@ These Faustian workings are conducted in the wilds of Suffolk. Often at a desola
   <p><a class="btn" href="/diabolus/covenant">View Covenant →</a></p>
 </div>
 
+<div class="card">
+  <h3>Black Work of Hell</h3>
+  <p class="text">
+  Dire, desperate, dreadful... when the job seriously needs to be done.
+  </p>
+  <p><a class="btn" href="/diabolus/hex">View Black Work →</a></p>
+</div>
+
+<div class="card">
+  <h3>Archangel</h3>
+  <p class="text">
+  Spiritual cleansing and protection from malevolent forces.
+  </p>
+  <p><a class="btn" href="/diabolus/hex">View Archangel →</a></p>
+</div>
 
