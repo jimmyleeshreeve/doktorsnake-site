@@ -81,13 +81,12 @@ Again, depending on the requirement, I might call upon ancestral spirits or shad
 <div class="dispatch-follow">
 
   <p class="dispatch-follow-text">
-    Receive Dispatches by email.
+    Receive Dispatches (+ more) via Telegram.
   </p>
 
-  <a href="https://buttondown.com/doktorsnake" class="btn">
-    Subscribe
+  <a href="https://t.me/DoktorSnakeHQ" class="btn">
+    Follow
   </a>
-
 </div>
 
 
