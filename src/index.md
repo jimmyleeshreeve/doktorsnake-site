@@ -192,7 +192,7 @@ Discover my strategic influence work and readings.
 
 ## Elsewhere
 
-Visit my Substack for articles, podcasts, and videos. Youtube Shorts for simulation glitches and liminal places. And Telegraph for dispatches and broadcasts from the field.
+Visit my Substack for articles, podcasts, and videos. Youtube Shorts for simulation glitches and liminal places. And Telegram for dispatches and broadcasts from the field.
 
 <p style="margin-top:14px">
   <a class="btn" href="https://doktorsnake.io" target="_blank" rel="noopener noreferrer">Substack</a>
