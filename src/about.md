@@ -3,117 +3,29 @@ layout: layout.njk
 title: About Doktor Snake
 ---
 
-# About Doktor Snake
+# About Doktor Snake / Jimmy Lee Shreeve
+
+` Pattern Fixer · Strategic Influencer`
 
 <img class="about-hero" src="/assets/img/og-doktorsnake.jpg"
-     alt="Doktor Snake — strategic influence and perceptual systems">
+     alt="Doktor Snake — magick, psionics, remote viewing">
 
-<p class="text">Pattern Fixer for Complex Human Situations</p>
+I’m an author and journalist — my byline having appeared in The Independent, Daily Telegraph, Sunday Telegraph, Daily Express, Financial Times, and other international publications. Books-wise I’ve been published by Random House, St Martin’s Press, John Blake, and Orion.
 
->I approach unusual situations the way an investigator approaches a case.<br>
-Patterns, personalities, timing, hidden dynamics.<br><br>
-Sometimes insight alone is enough to shift a situation.<br>
-Sometimes a stronger intervention is needed.<br><br>
-That’s where the work of Doktor Snake begins.
+**I’m now mostly known for my work as Doktor Snake, providing clients with direct influence work (magick and psionics), remote viewing, and mentorship in mind-tech.**
 
-***
+Oh and there’s my involvement in tech, which goes back a long way, working with software firms and high-level enterprises with global reach. I still keep my finger in the pie, especially with AI — and yes I typically code my own websites as it keeps you out of the clutches of endless subscriptions and bloat.
 
-## The Doktor
+Code is an art form. It might be under the hood, but everything comes from it — including, it could be argued, reality itself.
 
-Doktor Snake is the working identity of Jimmy Lee Shreeve — a British author and former investigative journalist.
+* * *
 
-His work has appeared in:
+### 📚 Selected Works
 
-- The Independent  
-- The Daily Telegraph  
-- The Sunday Telegraph  
-- The Financial Times  
-- The Daily Express  
-- And other publications in the UK and United States  
-
-Before operating independently, he wrote on complex subjects where psychology, power, belief systems, and institutional structures intersect.
-
-Over time, commentary evolved into application.
-
-Not theory.  
-Not narrative.  
-Direct strategic work.
-
-> My work also continues an old tradition of practical magick — helping people resolve situations where normal approaches have failed.<br>
-— Doktor Snake
-
-***
-
-## Books
-
-Jimmy Lee Shreeve is the author of:
-
-- *Blood Rites* (Random House)  
-- *Cannibals*  
-- *How To Be Famous*  
-- *Hash Brownies* (as Dr Hash)  
-- *Doktor Snake’s Voodoo Spellbook* (St. Martin’s Press)
-
-These works explore true crime, culture, fame psychology, belief systems, and applied consciousness.
-
-***
-
-## Apprenticeship & Influence
-
-In the 1980s he was mentored by Earl Marlowe — a Trinidadian hoodoo practitioner and world music singer — who framed magic and psychology as two languages describing the same mechanism.
-
-That early training combined with journalistic discipline led to a lifelong interest in:
-
-- Perception under pressure  
-- Attention control  
-- Strategic framing  
-- Influence in complex systems  
-
-***
-
-## Today
-
-Operating from Suffolk, England — a landscape dense with ancient sites and historical strata — he translates those principles into modern tools for:
-
-- Clarity  
-- Leverage  
-- Timing  
-- Self-command  
-
-The work does not require belief.
-
-It requires a situation that needs movement.
-
-***
-
-## Timeline
-
-Journalism → Books → Applied Work → Dokology & Influence 
-
-***
-
-
-## Operating Principle
-
-Shift perception.  
-Shift leverage.  
-Shift outcome.
-
-***
-
-## Discretion
-
-Work is conducted privately.
-
-No testimonials.  
-No spectacle.  
-No display culture.
-
-Serious situations require controlled handling.
-
-***
-
-## Selected Books
+-   _Doktor Snake’s Voodoo Spellbook_ (St. Martin’s Press)
+-   _Blood Rites (Random House)_
+-   _Cannibals (John Blake)_
+-   _Mary Jane’s Hash Brownies_ (Cico Books) as “Dr Hash”
 
 <div class="book-grid">
   <img src="/assets/img/blood-rites.jpg" alt="Blood Rites — Jimmy Lee Shreeve">
@@ -123,6 +35,22 @@ Serious situations require controlled handling.
   <img src="/assets/img/voodoo-spellbook.jpg" alt="Doktor Snake’s Voodoo Spellbook">
   <img src="/assets/img/voodoo-spellbook-new-edition.jpg" alt="Doktor Snake’s Voodoo Spellbook (New Edition)">
 </div>
+
+### 🎵 Musical Endeavors
+
+In earlier decades, I was active in various music projects — me on voice and guitar when playing live…. in the studio doing keyboards, drum machines, etc.
+
+### 🌐 Online Presence
+
+- **Website**: <a href="https://doktorsnake.com">DoktorSnake.com</a>
+- **Substack**: <a href="https://doktorsnake.io" target="_blank" rel="noopener noreferrer">DoktorSnake.io</a>
+- **YouTube:** <a href="https://www.youtube.com/@EdgeCult" target="_blank" rel="noopener noreferrer">YouTube/@EdgeCult</a>
+- **Contact Hub:** <a href="https://doktorsnake.me" target="_blank" rel="noopener noreferrer">ContactHub</a>
+
+***
+
+→ For a more complete bio, head over to my Substack at:   
+<a href="https://www.doktorsnake.io/about" target="_blank" rel="noopener noreferrer">https://www.doktorsnake.io/about</a>
 
 
 
