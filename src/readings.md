@@ -1,6 +1,6 @@
 ---
-layout: layout.njk
 title: Readings
+layout: layout.njk
 description: A reading from Doktor Snake cuts through confusion, exposes hidden motives, and shows what’s real enough to act on.
 permalink: /readings/
 ---

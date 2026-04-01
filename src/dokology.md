@@ -1,6 +1,6 @@
 ---
-layout: layout.njk
 title: Dokology
+layout: layout.njk
 description: Full-spectrum 1-1 mentorship with Doktor Snake, tailored to your goals, challenges, and evolution.
 permalink: /dokology/
 ---

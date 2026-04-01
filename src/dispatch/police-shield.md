@@ -1,7 +1,9 @@
 ---
-title: Police Shield
-layout: layout.njk
-noindex: true
+title: "Police Shield"
+description: Psionic working to keep the police off your back.
+date: 2026-03-21
+tags:
+  - dispatch
 ---
 
 # Police Shield

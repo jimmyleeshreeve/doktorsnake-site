@@ -1,6 +1,8 @@
 ---
 title: Retainer
 layout: layout.njk
+description: Get Doktor Snake on a monthly retainer — direct access and workings throughout the year.
+permalink: /retainer/
 ---
 
 # Work with Doktor Snake on Retainer
@@ -10,7 +12,9 @@ layout: layout.njk
 <img class="about-hero" src="/assets/img/ds-logo.jpg"
      alt="Doktor Snake books and press cuttings">
 
-For a select few clients, I offer **ongoing personal work** — a **monthly retainer** that gives you direct access to me and consistent spellworking throughout the year.
+For a select few clients, I offer **ongoing personal work** — a **monthly retainer** that gives you direct access to me and workings throughout the year as needed.
+
+***
 
 ## What You Get on the Retainer
 
@@ -19,7 +23,9 @@ For a select few clients, I offer **ongoing personal work** — a **monthly reta
 - **Energetic tuning & protection** — Ongoing energetic support, shielding, and reality shaping.
 - **Priority scheduling** — Retainer clients go to the front of the queue.
 
-This is not just spellwork. It’s **full-spectrum spiritual consulting**, rooted in conjure, cyber-esoterica, and applied gnosis.
+This is not just workings. It’s **full-spectrum consulting**, rooted in modern and old world magick, cyber-esoterica, and applied gnosis.
+
+***
 
 ## Who It’s For
 
@@ -27,6 +33,8 @@ This is not just spellwork. It’s **full-spectrum spiritual consulting**, roote
 -   Artists, creatives, and performers wanting flow, visibility, and alignment
 -   Individuals facing complex or long-haul situations (love, law, money, health)
 -   Spiritual seekers ready to go deeper, monthly with a seasoned operator
+
+***
 
 ## How to Join the Retainer Program
 
@@ -41,9 +49,10 @@ Includes:
 
 ### Payment Options
 
--   💳 Pay securely via Paypal (or Stripe)<br>
--   🪙 **Crypto accepted** (BTC, ETH, etc) — [email](https://doktorsnake.com/contact/) for wallet address<br>
-    👉 [Contact Doktor Snake](https://doktorsnake.com/contact/)
+- 💳 Pay securely via Paypal (or Stripe)
+- 🪙 **Crypto accepted** (BTC, ETH, etc)
+
+👉 <a href="/contact/">Contact Doktor Snake for crypto-wallet address</a>
 
 ## Join Now
 
