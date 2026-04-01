@@ -1,12 +1,10 @@
 ---
 title: CourtWork
-layout: layout.njk
-noindex: true
+description: Sway The Judge — Get Leniency or Sentence Overturned
+date: 2026-03-26
+tags:
+  - dispatch
 ---
-
-# CourtWork
-
-<p class="text">Sway The Judge :: Get Leniency or Sentence Overturned</p>
 
 <img class="about-hero" src="/assets/img/judge-psi-influence.jpg"
      alt="Judge psionics influence">
@@ -97,5 +95,18 @@ Bitcoin or other crypto accepted.<br>
   <p class="operator-small">
   Fraudulent chargebacks will be disputed using payment and delivery records.
   </p>
+
+</div>
+
+
+<div class="dispatch-follow">
+
+  <p class="dispatch-follow-text">
+    Follow on Substack.
+  </p>
+
+  <a href="https://doktorsnake.io/welcome" class="btn">
+    Follow
+  </a>
 
 </div>

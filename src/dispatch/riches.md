@@ -1,12 +1,10 @@
 ---
-title: Key To Riches
-layout: layout.njk
-noindex: true
+title: "Key To Riches"
+description: A graveyard-forged wealth ritual that pulls money, opportunity, and financial power into your life.
+date: 2026-03-28
+tags:
+  - dispatch
 ---
-
-# Key To Riches
-
-<p class="text">A graveyard-forged wealth ritual that pulls money, opportunity, and financial power into your life.</p>
 
 <img class="about-hero" src="/assets/img/key-riches.jpg"
      alt="Key To Riches">
@@ -105,5 +103,17 @@ Bitcoin or other crypto accepted.<br>
   <p class="operator-small">
   Fraudulent chargebacks will be disputed using payment and delivery records.
   </p>
+
+</div>
+
+<div class="dispatch-follow">
+
+  <p class="dispatch-follow-text">
+    Follow on Substack.
+  </p>
+
+  <a href="https://doktorsnake.io/welcome" class="btn">
+    Follow
+  </a>
 
 </div>

@@ -1,13 +1,10 @@
 ---
-title: Gay Love Ritual
-layout: layout.njk
+title: "Gay Love Ritual"
 description: Based on the old Follow Me Boy conjuration, but geared to same-sex relationships.
-permalink: /clients/gay-love-ritual/
+date: 2026-03-25
+tags:
+  - dispatch
 ---
-
-# Gay Love Ritual
-
-<p class="text">Based on the old Follow Me Boy conjuration, but geared to same-sex relationships.</p>
 
 <img class="about-hero" src="/assets/img/gay-love-ritual.jpg"
      alt="Gay Love Ritual">
@@ -109,5 +106,18 @@ Bitcoin or other crypto accepted.<br>
   <p class="operator-small">
   Fraudulent chargebacks will be disputed using payment and delivery records.
   </p>
+
+</div>
+
+
+<div class="dispatch-follow">
+
+  <p class="dispatch-follow-text">
+    Follow on Substack.
+  </p>
+
+  <a href="https://doktorsnake.io/welcome" class="btn">
+    Follow
+  </a>
 
 </div>

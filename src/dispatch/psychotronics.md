@@ -5,6 +5,7 @@ date: 2026-03-18
 tags:
   - dispatch
 ---
+
 <img class="about-hero" src="/assets/img/psychotronics-magician.jpg"
      alt="Psychotronics magician rural cyberpunk">
 

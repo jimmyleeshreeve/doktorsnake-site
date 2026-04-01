@@ -102,3 +102,15 @@ Bitcoin or other crypto accepted.<br>
   </p>
 
 </div>
+
+<div class="dispatch-follow">
+
+  <p class="dispatch-follow-text">
+    Follow on Substack.
+  </p>
+
+  <a href="https://doktorsnake.io/welcome" class="btn">
+    Follow
+  </a>
+
+</div>

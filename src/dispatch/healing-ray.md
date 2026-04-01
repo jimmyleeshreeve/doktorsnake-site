@@ -1,13 +1,10 @@
 ---
-title: Healing Ray
-layout: layout.njk
-description: Distance influence working geared to bring healing and well-being.
-permalink: /clients/healing-ray/
+title: "Healing Ray"
+description: Boosts body/mind life force and vitality.
+date: 2026-03-24
+tags:
+  - dispatch
 ---
-
-# Healing Ray
-
-<p class="text">Boosts body/mind life force and vitality.</p>
 
 <img class="about-hero" src="/assets/img/bronze-age-mound.jpg"
      alt="Bronze Age Mound">
@@ -108,6 +105,19 @@ Bitcoin or other crypto accepted.<br>
   <p class="operator-small">
   Fraudulent chargebacks will be disputed using payment and delivery records.
   </p>
+
+</div>
+
+
+<div class="dispatch-follow">
+
+  <p class="dispatch-follow-text">
+    Follow on Substack.
+  </p>
+
+  <a href="https://doktorsnake.io/welcome" class="btn">
+    Follow
+  </a>
 
 </div>
 
