@@ -8,7 +8,7 @@ description: Spiritual Outlaw. Occult Fixer. Magick That Works.
 
 <p class="text">Spiritual Outlaw. Occult Fixer. Magick That Works.</p>
 
-<p class="text">❝&nbsp;When the game around you stops playing straight...</br>
+<p>❝&nbsp;When the game around you stops playing straight...</br>
 When logic alone no longer moves the pieces...</br>
 That’s when people call Doktor Snake.❞&nbsp;</p>
 
