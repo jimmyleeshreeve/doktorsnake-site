@@ -58,6 +58,14 @@ For outsiders that see too much, feel too deep, and refuse to quit.
   <p><a class="btn" href="/readings/">View Readings →</a></p>
 </div>
 
+<div class="card">
+  <h3>DISPATCH</h3>
+  <p class="text">
+   Private running log of workings (new and classic), notes, and field reports.
+  </p>
+  <p><a class="btn" href="/dispatch/">View Dispatch →</a></p>
+</div>
+
 ## Why They Come To Me (Again And Again)
 
 - 25-years in the occult trenches — real results, not theory.
