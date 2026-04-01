@@ -75,18 +75,16 @@ Again, depending on the requirement, I might call upon ancestral spirits or shad
 
 ---
 
-→ If you need things to move, <a href="/contact/">drop me an email</a>, and we'll discuss your situation.
-
-
 <div class="dispatch-follow">
 
   <p class="dispatch-follow-text">
-    Receive Dispatches (+ more) via Telegram.
+    Follow on Substack.
   </p>
 
-  <a href="https://t.me/DoktorSnakeHQ" class="btn">
+  <a href="https://doktorsnake.io/welcome" class="btn">
     Follow
   </a>
+
 </div>
 
 

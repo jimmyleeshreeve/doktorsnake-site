@@ -1,120 +1,84 @@
 ---
 layout: layout.njk
 title: Command Post
-description: Pattern Fixer. Strategic Influence. Magick That Works in the Real World.
+description: Magick That Works. Power That Wins.
 ---
 
 # Doktor Snake
 
-<p class="text">Pattern Fixer · Strategic Influence<br>
-Magick That Works In The Real World</p>
-
-`Break the Pattern. Change the Outcome.`
-
-> When the game around you stops playing straight…<br>
-When logic alone no longer moves the pieces…<br>
-That’s when people call Doktor Snake.
+<p class="text"><span style="font-size: large;">❝&nbsp;When the game around you stops playing straight...</br>
+When logic alone no longer moves the pieces...</br>
+That’s when people call Doktor Snake.❞&nbsp;</span></p>
 
 <img class="about-hero" src="/assets/img/ds-logo.jpg" alt="Doktor Snake">
 
-## Power That Wins
+## Magick That Works. Power That Wins.
 
-The system’s rigged.
+The game might be rigged.   
+But you can still hack the system.   
+I can help you break the code.
 
-You were never meant to win easily. Every system — whether you call it society, bureaucracy, or the Simulation — is designed to keep most people predictable and compliant.
+I'm <a href="/about/">Doktor Snake</a> — magician, philosopher, fixer.
 
-But sometimes a person begins to see the pattern.
+For outsiders that see too much, feel too deep, and refuse to quit.
 
-That’s where I come in.
+***
 
-I’m Doktor Snake — magician, philosopher, fixer.
+## Choose Your Weapon
 
-I work with outsiders, professionals, and operators who refuse to accept that the game is fixed.
+<div class="card">
+  <h3>DISTANCE INFLUENCE (Psionics)</h3>
+  <p class="text">
+    Precise, powerful. Shifts outcomes, reshapes probabilities.
+  </p>
+  <p><a class="btn" href="/influence/">View Influence →</a></p>
+</div>
 
-* * *
+<div class="card">
+  <h3>GOETIA (Diabolus)</h3>
+  <p class="text">
+    Heavy artillery. Opens locked doors. Commanding force.
+  </p>
+  <p><a class="btn" href="/diabolus/">View Goetia →</a></p>
+</div>
 
-## Change The Trajectory
+<div class="card">
+  <h3>DOKOLOGY (Mind-Tech)</h3>
+  <p class="text">
+    Stop inner-noise. Rewrite your code. Full-spectrum 1-1 mentorship with Doktor Snake
+  </p>
+  <p><a class="btn" href="/dokology/">View Dokology →</a></p>
+</div>
 
-People usually contact me when something in their life or environment stops responding to normal logic.
+<div class="card">
+  <h3>READINGS</h3>
+  <p class="text">
+   Get clarity, insight, direction.
+  </p>
+  <p><a class="btn" href="/readings/">View Readings →</a></p>
+</div>
 
-A situation stalls.
+## Why They Come To Me (Again And Again)
 
-Opposition appears.
+25-years in the occult trenches — real results, not theory.   
+Author of *Doktor Snake's Voodoo Spellbook* (St. Martin's Press).   
+Thousands helped worldwide — everyday people and entrepreneurs to artists and seekers.   
+Featured in The Sun, The Times, Daily Star & More.
 
-Opportunities close just as they begin to open.
+> Everything shifted in two days. The working hit like a lightning bolt.   
+J.W., New York
 
-At that point we look at the situation from a different angle.
+***
 
-The tools vary:
+## Stop Waiting For Permission. Take Power Now.
 
--   psychological insight
--   strategic thinking
--   influence work
--   magick
+You’ve read this far for a reason.   
+You want change — and you want it real.
 
-The aim is always the same:
+The only question left is simple:   
+**Will you act?**
 
-> **Break the pattern. Change the trajectory.**
-
-
-## Situations I Often Work With
-
-Often when people contact me, they are dealing with a situation where logic alone has stopped resolving the pattern.
-
-These situations vary widely, but certain patterns appear again and again.
-
-* * *
-
-### Professional and Organisational Dynamics
-
--   A professional dealing with subtle internal opposition in an organisation.
--   A capable person whose progress has begun attracting quiet resistance.
--   Someone navigating a negotiation where unseen dynamics seem to be influencing the outcome.
--   Someone who suspects personality dynamics around them are quietly shaping opportunities behind the scenes.
-
-These situations often arise in environments where decisions, reputations, and timing matter.
-
-* * *
-
-### Business, Opportunity, and Momentum
-
--   A business owner facing an unusual run of setbacks.
--   An entrepreneur or investor sensing that momentum around a project has become unpredictable.
--   A person approaching an important turning point who wants the odds aligned as strongly as possible.
-
-Moments like these often call for calm strategic thinking and occasionally a different approach to influence.
-
-* * *
-
-### Personal and Family Situations
-
-Not every situation is professional. Many people contact me about complex personal dynamics.
-
--   A capable person navigating family tensions that refuse to settle.
--   Someone facing repeated emotional entanglements that seem to follow a pattern.
-
-These situations can be just as demanding as professional ones.
-
-* * *
-
-### When Something Feels “Off”
-
-Occasionally a person simply senses that the pattern of events around them has shifted.
-
--   An individual who feels circumstances have become strangely resistant to change.
--   Someone who senses a pattern in events that others around them dismiss.
-
-In such cases, stepping back and looking at the situation from a different perspective can often reveal useful insights.
-
-* * *
-
-## Every Situation is Different
-
-Every situation is different. But people usually reach out when the stakes are real and the situation requires careful handling.
-
-Most contact me privately with a short outline of what is happening, and we take it from there.
-
-### Get In Touch
+### Book Your Working
 
 <div class="card">
   <form action="https://formspree.io/f/xjgeveba" method="POST">
@@ -176,11 +140,34 @@ Most contact me privately with a short outline of what is happening, and we take
 </script>
 </div>
 
+## Quick Questions
+
+**How soon do you start a working?**   
+Usually within 24–48 hours of booking.
+
+**How will I know it’s done?**   
+You’ll receive a written Field Report or Transmission direct from me.
+
+**Is this confidential?**   
+Always. Discretion is absolute — no names, no leaks, ever.
+
 ***
+
+## The Deep Dive Lives Here
+
+DoktorSnake.io (Substack) is where I drop the real code — magick, psionics, UAP, spooks, remote viewing, and mind-tech... too raw for social media.
+
+<div class="card">
+  <h3>Substack</h3>
+  <p class="text">
+   Magick, psionics, and mind-hacking.
+  </p>
+  <p><a class="btn" href="https://doktorsnake.io" target="_blank" rel="noopener noreferrer">View Substack →</a></p>
+</div>
 
 ## Explore
 
-Discover my strategic influence work and readings.
+Discover my workings and readings.
 
 <p style="margin-top:14px">
   <a class="btn" href="/influence/">Influence</a>
@@ -192,12 +179,11 @@ Discover my strategic influence work and readings.
 
 ## Elsewhere
 
-Visit my Substack for articles, podcasts, and videos. Youtube Shorts for simulation glitches and liminal places. And Telegram for dispatches and broadcasts from the field.
+Substack for articles, podcasts, and videos. Youtube Shorts for simulation glitches and liminal places.
 
 <p style="margin-top:14px">
   <a class="btn" href="https://doktorsnake.io" target="_blank" rel="noopener noreferrer">Substack</a>
   <a class="btn" href="https://www.youtube.com/@EdgeCult" target="_blank" rel="noopener noreferrer">YouTube</a>
-  <a class="btn" href="https://t.me/DoktorSnakeHQ" target="_blank" rel="noopener noreferrer">Telegram</a>
   <a class="btn" href="https://doktorsnake.me" target="_blank" rel="noopener noreferrer">ContactHub</a>
 </p>
 
