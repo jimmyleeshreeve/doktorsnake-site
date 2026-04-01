@@ -1,10 +1,12 @@
 ---
 layout: layout.njk
 title: Command Post
-description: Magick That Works. Power That Wins.
+description: Spiritual Outlaw. Occult Fixer. Magick That Works.
 ---
 
 # Doktor Snake
+
+<p class="text">Spiritual Outlaw. Occult Fixer. Magick That Works.</p>
 
 <p class="text">❝&nbsp;When the game around you stops playing straight...</br>
 When logic alone no longer moves the pieces...</br>

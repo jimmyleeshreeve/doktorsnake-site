@@ -7,7 +7,7 @@ permalink: /retainer/
 
 # Work with Doktor Snake on Retainer
 
-`Monthly Spellwork → Energetic Support → Spiritual Strategy`
+`Spellwork · Strategy`
 
 <img class="about-hero" src="/assets/img/ds-logo.jpg"
      alt="Doktor Snake books and press cuttings">
