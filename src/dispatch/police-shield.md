@@ -6,10 +6,6 @@ tags:
   - dispatch
 ---
 
-# Police Shield
-
-<p class="text">Psionics working to keep the cops off your back.</p>
-
 <img class="about-hero" src="/assets/img/police-car.jpg"
      alt="Police Car">
 
