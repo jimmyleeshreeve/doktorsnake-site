@@ -1,11 +1,13 @@
 ---
 layout: layout.njk
-title: Case Readings
+title: Readings
+description: A reading from Doktor Snake cuts through confusion, exposes hidden motives, and shows what’s real enough to act on.
+permalink: /readings/
 ---
 
-# Case Readings
+# Readings
 
-`Clarity. Pattern. Strategy.`
+`Clarity · Strategy.`
 
 <img class="about-hero" src="/assets/img/hacker-readings.jpg"
      alt="Doktor Snake Readings">

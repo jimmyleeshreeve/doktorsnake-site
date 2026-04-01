@@ -1,6 +1,8 @@
 ---
 title: GigaBlast
 layout: layout.njk
+description: Distance Influence, five intentions, high-level psionics working — designed for complex, high-stakes situations.
+permalink: /gigablast/
 ---
 
 # GigaBlast
@@ -16,7 +18,7 @@ Recommended when the situation carries significant consequences.
 
 Multi-vector ritual for high-stakes situations. Choose up to five intentions.
 
-Also known as the Black Rite — a multi-layered ritual designed for complex, high-pressure, or deeply entangled situations.
+Also known as the Black Rite — designed for complex, high-pressure, or deeply entangled situations.
 
 Where the MegaBlast Tier II handles three currents, GigaBlast fires up to **five** distinct intentions into a single, unified force-field.
 
@@ -40,7 +42,7 @@ This GigaBlast working is bespoke. No templates. No pre-set formulas. Every sequ
 
 The working is conducted at a secluded site in East Anglia — a place where the ether folds into itself. I enter a deep trance, petitioning ancient forces and field intelligences while running Distance Influence through layered spirit negotiations.
 
-The five vectors are built separately, then bound into a single dark pulse. This pulse radiates through the field, shifting circumstances on multiple levels: personal, social, emotional, material, and astral.
+The five intentions are built separately, then bound into a single dark pulse. This pulse radiates through the field, shifting circumstances on multiple levels: personal, social, emotional, material, and astral.
 
 <section class="after-order">
   <h2>After You Order</h2>

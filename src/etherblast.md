@@ -1,13 +1,15 @@
 ---
 title: EtherBlast
 layout: layout.njk
+description: Old-world working mixed with modern Distance Influence, tuned to a single outcome.
+permalink: /etherblast/
 ---
 
 # EtherBlast
 
 <p class="text">TIER I: One-Intention Psi Working</p>
 
-`\>> Single.Objective / Focused.Strategic.Influence`
+`\>> Single.Objective / Distance.Influence`
 
 <img class="about-hero" src="/assets/img/distance-influence.jpg"
      alt="EtherBlast">

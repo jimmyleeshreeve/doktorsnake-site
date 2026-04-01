@@ -1,6 +1,8 @@
 ---
 layout: layout.njk
 title: Work With Me
+description: 
+permalink: 
 ---
 
 # Work With Doktor Snake

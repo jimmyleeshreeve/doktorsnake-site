@@ -1,6 +1,8 @@
 ---
 title: MegaBlast
 layout: layout.njk
+description: Three-vector Distance Influence working — prosperity, love, legal edge, luck shift.
+permalink: /megablast/
 ---
 
 # MegaBlast
@@ -9,7 +11,7 @@ layout: layout.njk
 
 Maximum Force. High-potency.
 
-`\>> Three.Objectives / Focused.Directional.Influence`
+`\>> Three.Objectives / Distance.Influence`
 
 <img class="about-hero" src="/assets/img/distance-influence.jpg"
      alt="MegaBlast">
@@ -20,7 +22,7 @@ The MegaBlast is a bespoke, three-vector working: you choose **three distinct in
 
 The three intentions are woven together into a single, coherent field, calibrated for your unique circumstances.
 
-It’s deeper than a single-intention working — designed for those who need to move multiple levers, shift several areas at once, or create broader life-stream momentum.
+It’s deeper than a single-intention working — designed for those who need to shift several areas at once, or create broader life-stream momentum.
 
 ## Possible Intentions (you choose 3)
 
@@ -40,7 +42,7 @@ Once you define the three intentions, I take over: the ritual is entirely person
 
 I journey to a power-site in Suffolk — where ancestral charge and modern ether meet. There, I conduct a three-phase trance working, aligning the three intentions into a unified energy field.
 
-Through field-manipulation, spirit petition, and distance influence, your three chosen vectors converge and pulse outward — reshaping your reality-stream on multiple levels simultaneously.
+Through field-manipulation, spirit petition, and distance influence, your three chosen intentions converge and pulse outward — reshaping your reality-stream on multiple levels simultaneously.
 
 <section class="after-order">
   <h2>After You Order</h2>

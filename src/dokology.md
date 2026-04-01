@@ -1,6 +1,8 @@
 ---
 layout: layout.njk
 title: Dokology
+description: Full-spectrum 1-1 mentorship with Doktor Snake, tailored to your goals, challenges, and evolution.
+permalink: /dokology/
 ---
  
 # Dokology
@@ -10,7 +12,7 @@ title: Dokology
 <img class="about-hero" src="/assets/img/dokology-operator.jpg"
      alt="Dokology Operator">
 
-Dokology is the strategic, high-performance framework behind all of my work. It's apex-level consultation conducted monthly on a 1-1 basis, tailored to your goals, challenges, and evolution.
+Dokology is the strategic, high-performance framework behind all of my work. It's full-spectrum mentorship conducted monthly on a 1-1 basis, tailored to your goals, challenges, and evolution.
 
 It blends deep-focus awareness training, trance-state cognition, emotional regulation, field-reading, and decision-making under pressure.
 
