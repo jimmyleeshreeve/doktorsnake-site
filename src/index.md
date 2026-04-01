@@ -6,9 +6,9 @@ description: Magick That Works. Power That Wins.
 
 # Doktor Snake
 
-<p class="text"><span style="font-size: large;">❝&nbsp;When the game around you stops playing straight...</br>
+<p class="text">❝&nbsp;When the game around you stops playing straight...</br>
 When logic alone no longer moves the pieces...</br>
-That’s when people call Doktor Snake.❞&nbsp;</span></p>
+That’s when people call Doktor Snake.❞&nbsp;</p>
 
 <img class="about-hero" src="/assets/img/ds-logo.jpg" alt="Doktor Snake">
 
@@ -60,10 +60,10 @@ For outsiders that see too much, feel too deep, and refuse to quit.
 
 ## Why They Come To Me (Again And Again)
 
-25-years in the occult trenches — real results, not theory.   
-Author of *Doktor Snake's Voodoo Spellbook* (St. Martin's Press).   
-Thousands helped worldwide — everyday people and entrepreneurs to artists and seekers.   
-Featured in The Sun, The Times, Daily Star & More.
+- 25-years in the occult trenches — real results, not theory.
+- Author of *Doktor Snake's Voodoo Spellbook* (St. Martin's Press).
+- Thousands helped worldwide — everyday people and entrepreneurs to artists and seekers.
+- Featured in The Sun, The Times, Daily Star & More.
 
 > Everything shifted in two days. The working hit like a lightning bolt.   
 J.W., New York
