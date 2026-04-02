@@ -9,7 +9,7 @@ noindex: true
 <img class="about-hero" src="/assets/img/distance-influence-dok.jpg"
      alt="Doktor Snake — Strategic Spellwork + Readings">
 
-The work is now structured into defined operational tiers.
+<p class="op">The work is now structured into defined operational tiers.</p>
 
 All Distance Influence engagements are conducted from physical field locations in East Anglia and followed by a written operational summary.
 
