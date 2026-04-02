@@ -9,7 +9,7 @@ permalink: /dokology/
 
 `Mind-Tech . Strategy . Psionics`
 
-<img class="about-hero" src="/assets/img/dokology-operator.jpg"
+<img class="about-hero" src="/assets/img/rural-cyberpunk.jpg"
      alt="Dokology Operator">
 
 Dokology is the strategic, high-performance framework behind all of my work. It's full-spectrum mentorship conducted monthly on a 1-1 basis, tailored to your goals, challenges, and evolution.
