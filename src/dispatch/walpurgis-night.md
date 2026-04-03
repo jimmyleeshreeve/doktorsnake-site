@@ -53,6 +53,8 @@ There are numerous reports of people walking there at dusk and being confronted 
 
 Horses typically spook and some stories have it that men have dropped stone dead after an encounter with the witch and her familiar.
 
+***
+
 ## How It Works
 
 As dusk falls I enter visionary and set about channelling the witch. On making contact, an eerie silence falls. No birdsong. No breeze. No rustling of hedgerow. Eventually I feel the ominous presence of the witch and her familiar, making out their shadowy shapes.
@@ -64,6 +66,8 @@ At this point, I offer your petition to the Witch
 > Help our dear friend, who needs a leg up in difficult times, to attain their heart felt wishes - proffer your help as you did for people of your time.
 
 Once done I leave an offering of three old silver sixpences — crossing the witch's palm with silver.
+
+***
 
 ## INVESTMENT :: ~~$750 USD~~ — Now $250 USD (limited offer)
 
