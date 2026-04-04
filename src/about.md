@@ -1,11 +1,12 @@
 ---
 layout: layout.njk
 title: About Doktor Snake
+description: Pattern Fixer · Strategic Influencer
 ---
 
 # About Doktor Snake / Jimmy Lee Shreeve
 
-` Pattern Fixer · Strategic Influencer`
+`Pattern Fixer · Strategic Influencer`
 
 <img class="about-hero" src="/assets/img/og-doktorsnake.jpg"
      alt="Doktor Snake — magick, psionics, remote viewing">
