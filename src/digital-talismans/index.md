@@ -9,11 +9,7 @@ permalink: /digital-talismans/
 
 <p class="text">Charged media for the digital age.</p>
 
-These are self-contained audio-visual talismans designed to shift state, reset attention, and help you move again when the signal has gone weak.
-
-Digital Talismans are self-contained charged media objects: short video-and-audio transmissions designed to shift state, focus attention, and help you re-enter the current with more clarity, steadiness, and momentum.
-
-Think of them as modern talismans for the digital age.
+These are self-contained audio-visual talismans designed to shift you into the mind-state needed to manifest what you need.
 
 Watch them.  
 Listen to them.  
@@ -38,8 +34,6 @@ Each one is designed to be simple to use and easy to return to.
 ## How They Work
 
 A talisman works through repetition, atmosphere, association, expectation, and mind-state change.
-
-Used regularly, these transmissions help interrupt defeat-patterns, reduce psychic drag, and strengthen your sense of movement, possibility, and practical response.
 
 **In plain English: when you feel blocked, flat, unlucky, or out of rhythm, run the talisman and reset the signal.**
 
