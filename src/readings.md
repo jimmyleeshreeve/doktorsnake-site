@@ -1,43 +1,88 @@
 ---
-title: Readings
+title: Field Readings
 layout: layout.njk
 description: A reading from Doktor Snake cuts through confusion, exposes hidden motives, and shows what’s real enough to act on.
 permalink: /readings/
 ---
 
-# Readings
+# Field Readings
 
-`Clarity · Strategy.`
+`Scanning the Fate Lines`
 
 <img class="about-hero" src="/assets/img/hacker-readings.jpg"
      alt="Doktor Snake Readings">
 
-A reading from me cuts through confusion, exposes hidden motives, and shows what’s real enough to act on. Expect truth you can use — not vague predictions — and calm clarity in chaotic crossroads.
+Sometimes you don’t need advice.
 
-Every response is written personally by me — drawing on decades of work in magick, occult psychology, English folklore, and a strategist’s eye for the patterns that shape people and events.
+You need to see what’s actually going on.
 
-The aim is simple: to look clearly at the situation, the people involved, and the patterns that are unfolding.
+Most people are too close to their situation to read it clean.
 
-<section class="after-order">
-  <h2>After You Order</h2>
-  <p class="after-order-intro">
-    The signal sequence is simple and handled personally.
-  </p>
+They react.  
+They overthink.  
+They get pulled around by emotion.
 
-- Send your questions — or describe the situation fully.
-- I'll conduct the reading within 72-hours.
-- After completion, I'll deliver your reading by email.
+* * *
 
+A Field Reading cuts through that.
 
-**INVESTMENT :: $112**<br>
-*Real world insight.*
+I scan the situation.  
+Pick up the active patterns.  
+And give you a clear signal:
 
-<a href='https://www.fatfreecartpro.com/ecom/gb.php?&c=cart&ejc=2&cl=434879&i=1896027' onclick='return EJEJC_lc(this);' style='display:inline-block;background: #26a269 url(https://www.e-junkie.com/ej/images/newaddtocart.png) center/100px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);text-decoration: none;' target='ej_ejc' class='ec_ejc_thkbx'>&nbsp;</a>
+-   what’s stable
+-   what’s shifting
+-   what’s coming toward you
+-   and how to play it
 
-<a href="https://www.fatfreecartpro.com/ecom/gb.php?c=cart&ejc=2&cl=434879" target="ej_ejc" class="ec_ejc_thkbx" onclick="return EJEJC_lc(this);" style="display:inline-block;background: #26a269 url(https://www.e-junkie.com/ej/images/newviewcart.png) center/90px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);cursor: pointer;text-decoration: none;">&nbsp;</a>
+* * *
+
+It’s not vague mysticism.
+
+It’s a **direct read of your position inside the system you’re dealing with**.
+
+Delivered as:
+
+- 🎧 a short audio transmission
+- 📄 plus a written signal brief
+
+* * *
+
+You stay in control.
+
+You decide what to do.
+
+* * *
+
+### **Choose Your Reading**
+
+**Standard — $77**  
+Clear, focused read of one situation
+
+**Extended — $147**  
+Deeper scan, additional layers, broader context
+
+* * *
+
+**Delivery:** within 48 hours  
+**Format:** audio + written  
+**Private and confidential**
+
+* * *
+
+## Order Standard Reading :: $77 USD
+👉 _Hold steady. Read the signal._
+
+<a href='https://www.fatfreecartpro.com/ecom/gb.php?&c=cart&ejc=2&cl=434879&i=1896027' onclick='return EJEJC_lc(this);' style='display:inline-block;background: #26a269 url(https://www.e-junkie.com/ej/images/newaddtocart.png) center/100px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);text-decoration: none;' target='ej_ejc' class='ec_ejc_thkbx'>&nbsp;</a>&nbsp;<a href="https://www.fatfreecartpro.com/ecom/gb.php?c=cart&ejc=2&cl=434879" target="ej_ejc" class="ec_ejc_thkbx" onclick="return EJEJC_lc(this);" style="display:inline-block;background: #26a269 url(https://www.e-junkie.com/ej/images/newviewcart.png) center/90px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);cursor: pointer;text-decoration: none;">&nbsp;</a>
 
 <script type="text/javascript">function EJEJC_lc(th) { return false; }; </script>
 <script src="https://www.fatfreecartpro.com/ecom/box_fb_n.js" type="text/javascript"></script>
+
+## Order Extended Reading :: $147 USD
+👉 _Hold position while paths reveal themselves._
+
+<a href='https://www.fatfreecartpro.com/ecom/gb.php?&c=cart&ejc=2&cl=434879&i=1897713' onclick='return EJEJC_lc(this);' style='display:inline-block;background: #26a269 url(https://www.e-junkie.com/ej/images/newaddtocart.png) center/100px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);text-decoration: none;' target='ej_ejc' class='ec_ejc_thkbx'>&nbsp;</a>&nbsp;<a href="https://www.fatfreecartpro.com/ecom/gb.php?c=cart&ejc=2&cl=434879" target="ej_ejc" class="ec_ejc_thkbx" onclick="return EJEJC_lc(this);" style="display:inline-block;background: #26a269 url(https://www.e-junkie.com/ej/images/newviewcart.png) center/90px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);cursor: pointer;text-decoration: none;">&nbsp;</a>
+
 
 <div class="btc-badge">
   ALTERNATIVE PAYMENT CHANNEL :: ₿ BITCOIN AVAILABLE
