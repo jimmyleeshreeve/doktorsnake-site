@@ -1,12 +1,12 @@
 ---
-title: Your Standard Reading Questionnaire
+title: Your Extended Reading Questionnaire
 layout: layout.njk
 noindex: true
 ---
 
-# Your Standard Reading Questionnaire
+# Your Extended Reading Questionnaire
 
-Thanks for ordering a reading. Below is your questionnaire for supplying details of the single situation you would like to address.
+Thanks for ordering a reading. Below is your questionnaire for supplying details of your case — which can include additional layers and broader context for a deeper scan.
 
 <div class="card">
    
@@ -55,7 +55,7 @@ Thanks for ordering a reading. Below is your questionnaire for supplying details
     </p>
 
     <p>
-      <label>Describe The Single Situation You Wish To Address<br>
+      <label>Describe The Situation and Issues You Wish To Address<br>
         <textarea name="situation" rows="7" required
           placeholder="What feels pressured, complex, unclear, or high-stakes?"></textarea>
       </label>
@@ -71,7 +71,7 @@ Thanks for ordering a reading. Below is your questionnaire for supplying details
     <input type="text" name="_gotcha" style="display:none">
 
     <!-- Useful metadata -->
-    <input type="hidden" name="_subject" value="Questionnaire — Reading">
+    <input type="hidden" name="_subject" value="Questionnaire — Extended Reading">
 
     <p style="margin-top:14px">
       <button class="btn" type="submit">Send →</button>
