@@ -1,8 +1,9 @@
 ---
 title: Field Readings
-layout: layout.njk
-description: A reading from Doktor Snake cuts through confusion, exposes hidden motives, and shows what’s real enough to act on.
+description: A direct audio + written reading of your current situation. Clear signal. No fluff.
 permalink: /readings/
+layout: layout.njk
+noindex: false
 ---
 
 # Field Readings
@@ -12,135 +13,148 @@ permalink: /readings/
 <img class="about-hero" src="/assets/img/hacker-readings.jpg"
      alt="Doktor Snake Readings">
 
-Sometimes you don’t need advice.
+<p class="text">See what’s actually going on in your situation.</p>
+ 
+When you’re too close to a situation, you can’t always read it clean. I scan the pattern and give you the signal.
 
-You need to see what’s actually going on.
-
-Most people are too close to their situation to read it clean.
-
-They react.  
-They overthink.  
-They get pulled around by emotion.
-
-* * *
-
-A Field Reading cuts through that.
-
-I scan the situation.  
-Pick up the active patterns.  
-And give you a clear signal:
-
--   what’s stable
--   what’s shifting
--   what’s coming toward you
--   and how to play it
-
-* * *
-
-It’s not vague mysticism.
-
-It’s a **direct read of your position inside the system you’re dealing with**.
-
-Delivered as:
-
-- 🎧 a short audio transmission
-- 📄 plus a written signal brief
-
-* * *
-
-You stay in control.
-
-You decide what to do.
-
-* * *
-
-### **Choose Your Reading**
-
-**Standard — $77**  
-Clear, focused read of one situation
-
-**Extended — $147**  
-Deeper scan, additional layers, broader context
-
-* * *
-
-**Delivery:** within 48 hours  
-**Format:** audio + written  
-**Private and confidential**
-
-* * *
-
-## Order Standard Reading :: $77 USD
-👉 _Hold steady. Read the signal._
-
-<a href='https://www.fatfreecartpro.com/ecom/gb.php?&c=cart&ejc=2&cl=434879&i=1896027' onclick='return EJEJC_lc(this);' style='display:inline-block;background: #26a269 url(https://www.e-junkie.com/ej/images/newaddtocart.png) center/100px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);text-decoration: none;' target='ej_ejc' class='ec_ejc_thkbx'>&nbsp;</a>&nbsp;<a href="https://www.fatfreecartpro.com/ecom/gb.php?c=cart&ejc=2&cl=434879" target="ej_ejc" class="ec_ejc_thkbx" onclick="return EJEJC_lc(this);" style="display:inline-block;background: #26a269 url(https://www.e-junkie.com/ej/images/newviewcart.png) center/90px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);cursor: pointer;text-decoration: none;">&nbsp;</a>
-
-<script type="text/javascript">function EJEJC_lc(th) { return false; }; </script>
-<script src="https://www.fatfreecartpro.com/ecom/box_fb_n.js" type="text/javascript"></script>
-
-## Order Extended Reading :: $147 USD
-👉 _Hold position while paths reveal themselves._
-
-<a href='https://www.fatfreecartpro.com/ecom/gb.php?&c=cart&ejc=2&cl=434879&i=1897713' onclick='return EJEJC_lc(this);' style='display:inline-block;background: #26a269 url(https://www.e-junkie.com/ej/images/newaddtocart.png) center/100px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);text-decoration: none;' target='ej_ejc' class='ec_ejc_thkbx'>&nbsp;</a>&nbsp;<a href="https://www.fatfreecartpro.com/ecom/gb.php?c=cart&ejc=2&cl=434879" target="ej_ejc" class="ec_ejc_thkbx" onclick="return EJEJC_lc(this);" style="display:inline-block;background: #26a269 url(https://www.e-junkie.com/ej/images/newviewcart.png) center/90px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);cursor: pointer;text-decoration: none;">&nbsp;</a>
-
-
-<div class="btc-badge">
-  ALTERNATIVE PAYMENT CHANNEL :: ₿ BITCOIN AVAILABLE
-</div>
-
-<div class="note--inline">
-Bitcoin or other crypto accepted.<br>
-<a href="/contact/">Contact</a> Doktor Snake to arrange.
+<div class="card">
+  <p><strong>Format:</strong> audio reading + written signal brief</p>
+  <p><strong>Delivery:</strong> within 48 hours</p>
+  <p><strong>Private:</strong> confidential and direct to your inbox</p>
 </div>
 
 ---
- 
-## 💬 What Clients Say
- 
-> It wasn’t sugar-coated. It was clear, eerie, and exactly what I needed to hear.<br>
-— Client feedback (2025)
 
-> Like being read by an old-world oracle who knows the modern world inside out.<br>
-— Private client testimonial
+## What this is
 
-<hr>
+A **Field Reading** is a short, direct reading of your situation.
 
-## A Note on “Divination”
+Not vague mysticism.
 
-The only divining tool I ever genuinely liked was the I Ching — not because it predicts the future, but because its meanings are deliberately open enough to behave like Schrödinger’s Cat: possibilities exist until the right mind engages and collapses them into relevance.
+A clear interpretation of:
 
-That’s the spirit of these readings.
+- what is stable  
+- what is shifting  
+- what may be moving toward you  
+- and how to play it without panic or confusion  
 
-We’re not chasing certainty.  
-We’re extracting signal from noise, so you can choose your next move with your eyes open.
+You receive the reading in my voice, plus a written signal brief you can refer back to.
 
-<br>
+---
 
-<div class="operator-notice">
-  
-      <div class="operator-header">
-  System Message :: Transaction Conditions
-  </div>
+## What you receive
 
-  <p>
-  Readings are a <strong>custom digital service</strong>
-  </p>
+**Standard for one clear issue. Extended for more complex situations.**
 
-  <p>
-  After purchase you will submit your questions via a short form. The reading is then scheduled and conducted personally.
-  </p>
+---
 
-  <p>
-  Because the service is prepared specifically for each client, all sales are final once the reading has been scheduled.
-  </p>
+### Standard Reading
 
-    <p>
-    Please contact support if any issue occurs — most problems can be resolved quickly.
-    </p>
+Investment :: $77
 
-  <p class="operator-small">
-  Fraudulent chargebacks will be disputed using payment and delivery records.
-  </p>
+- A focused reading of one live situation  
+- Audio reading (approx. 3–6 mins)  
+- Written signal brief  
+- One clear situation or question  
+- Delivered within 48 hours  
 
-</div>
+Best for: a single issue in work, relationships, money, or a situation that needs reading properly.
 
+**Get Standard Reading**
+
+<a href='https://www.fatfreecartpro.com/ecom/gb.php?&c=cart&ejc=2&cl=434879&i=1896027' onclick='return EJEJC_lc(this);' style='display:inline-block;background: #26a269 url(https://www.e-junkie.com/ej/images/newaddtocart.png) center/100px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);text-decoration: none;' target='ej_ejc' class='ec_ejc_thkbx'>&nbsp;</a>&nbsp;<a href="https://www.fatfreecartpro.com/ecom/gb.php?c=cart&ejc=2&cl=434879" target="ej_ejc" class="ec_ejc_thkbx" onclick="return EJEJC_lc(this);" style="display:inline-block;background: #26a269 url(https://www.e-junkie.com/ej/images/newviewcart.png) center/90px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);cursor: pointer;text-decoration: none;">&nbsp;</a>
+
+* * *
+
+### Extended Reading
+
+Investment :: $147
+
+- A deeper reading for situations with multiple moving parts  
+- Longer audio reading  
+- Expanded written signal brief  
+- Deeper pattern analysis  
+- Delivered within 48 hours  
+
+Best for: overlapping factors, multiple people involved, or more complex situations.
+
+**Get Extended Reading**
+
+<a href='https://www.fatfreecartpro.com/ecom/gb.php?&c=cart&ejc=2&cl=434879&i=1897713' onclick='return EJEJC_lc(this);' style='display:inline-block;background: #26a269 url(https://www.e-junkie.com/ej/images/newaddtocart.png) center/100px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);text-decoration: none;' target='ej_ejc' class='ec_ejc_thkbx'>&nbsp;</a>&nbsp;<a href="https://www.fatfreecartpro.com/ecom/gb.php?c=cart&ejc=2&cl=434879" target="ej_ejc" class="ec_ejc_thkbx" onclick="return EJEJC_lc(this);" style="display:inline-block;background: #26a269 url(https://www.e-junkie.com/ej/images/newviewcart.png) center/90px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);cursor: pointer;text-decoration: none;">&nbsp;</a>
+
+---
+
+## What you send
+
+Keep it simple.  
+After purchase, send:
+
+- your name  
+- a short description of the situation  
+- names of any key people involved  
+- anything else you think I should know  
+
+No need to write an essay.  
+A concise summary is enough.
+
+---
+
+## Who this is for
+
+This is for people who need clarity on a live situation such as:
+
+- career tension or internal politics  
+- relationship confusion or emotional entanglement  
+- money pressure or blocked movement  
+- a general sense that something has shifted and they need to read it properly  
+
+If you are too close to the situation to see it clearly, this is where a Field Reading helps.
+
+---
+
+## Why it works
+
+Most people react too early.
+
+They get pulled by emotion, overthinking, or mixed signals.
+
+A Field Reading helps you see the pattern before you move.
+
+That is where leverage comes from.
+
+---
+
+## How it is delivered
+
+You receive:
+
+1. **Audio Reading**  
+   A direct spoken read in my voice  
+
+2. **Written Signal Brief**  
+   A clean written version for reference  
+
+Everything is delivered privately by email.
+
+---
+
+## Important note
+
+This is a strategic intuitive reading of your situation.
+
+It is not legal, medical, psychiatric, or financial advice.  
+You remain responsible for your own decisions and actions.
+
+---
+
+## Ready to proceed?
+
+`Hold steady. Read the signal.`
+
+### **Get Standard Reading — $77**
+
+<a href='https://www.fatfreecartpro.com/ecom/gb.php?&c=cart&ejc=2&cl=434879&i=1896027' onclick='return EJEJC_lc(this);' style='display:inline-block;background: #26a269 url(https://www.e-junkie.com/ej/images/newaddtocart.png) center/100px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);text-decoration: none;' target='ej_ejc' class='ec_ejc_thkbx'>&nbsp;</a>&nbsp;<a href="https://www.fatfreecartpro.com/ecom/gb.php?c=cart&ejc=2&cl=434879" target="ej_ejc" class="ec_ejc_thkbx" onclick="return EJEJC_lc(this);" style="display:inline-block;background: #26a269 url(https://www.e-junkie.com/ej/images/newviewcart.png) center/90px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);cursor: pointer;text-decoration: none;">&nbsp;</a>
+
+### **Get Extended Reading — $147**
+
+<a href='https://www.fatfreecartpro.com/ecom/gb.php?&c=cart&ejc=2&cl=434879&i=1897713' onclick='return EJEJC_lc(this);' style='display:inline-block;background: #26a269 url(https://www.e-junkie.com/ej/images/newaddtocart.png) center/100px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);text-decoration: none;' target='ej_ejc' class='ec_ejc_thkbx'>&nbsp;</a>&nbsp;<a href="https://www.fatfreecartpro.com/ecom/gb.php?c=cart&ejc=2&cl=434879" target="ej_ejc" class="ec_ejc_thkbx" onclick="return EJEJC_lc(this);" style="display:inline-block;background: #26a269 url(https://www.e-junkie.com/ej/images/newviewcart.png) center/90px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);cursor: pointer;text-decoration: none;">&nbsp;</a>
