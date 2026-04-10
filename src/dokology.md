@@ -12,7 +12,10 @@ permalink: /dokology/
 <img class="about-hero" src="/assets/img/rural-cyberpunk.jpg"
      alt="Dokology Operator">
 
-Dokology is the strategic, high-performance framework behind all of my work. It's full-spectrum mentorship conducted monthly on a 1-1 basis, tailored to your goals, challenges, and evolution.
+Dokology is the strategic operating system behind all of my work — where clarity is established, decisions are engineered, and outcomes are shaped. It's full-spectrum mentorship conducted monthly on a 1-1 basis, tailored to your goals, challenges, and evolution.
+
+This is not coaching.   
+It’s applied cognition, strategic influence, and real-world navigation under pressure.
 
 It blends deep-focus awareness training, trance-state cognition, emotional regulation, field-reading, and decision-making under pressure.
 
@@ -24,9 +27,9 @@ This is where ancient mind-tech meets cybernetic thinking: functional, grounded,
 
 - **Stopping internal dialogue** — command of mind-noise for clarity when you need it
 - **Emotional regulation** without suppression — you at the helm of your life, not your emotions
-- **Situational field-mapping** — greater perception of the world (and people) around you.
-- **Decision engineering** & strategic timing — ensuring you are in the right place at the right time.
-- **Modern psionics** — for ideas, insight and signal detection
+- **Situational field-mapping** — enhanced perception of people, systems, and hidden dynamics
+- **Decision engineering** & strategic timing — positioning you precisely where opportunity converges
+- **Modern psionics** — for insight generation, signal detection, and non-obvious advantage
 - **Application of 5GW thinking** and the OODA Loop for personal advantage
 
 Clients enter Dokology for clarity, timing, emotional sovereignty, and the ability to navigate complex situations without being ruled by internal noise or external chaos.
@@ -35,9 +38,15 @@ It’s a partnership: part consulting, part tactical guidance, part energetic al
 
 Dokology gets you where you want to be: in command of your field, aligned with opportunity, shielded from interference, and moving with strategic precision rather than reaction.
 
+## Who This Is For
+
+Dokology is for individuals operating in complex environments — business, corporate, creative, or transitional — who require clarity, composure, and strategic edge.
+
+It is not for those seeking passive motivation or surface-level advice.
+
 ## **How It Works**
 
-Dokology runs on an annual retainer.
+Dokology operates as a private annual advisory.   
 Each client receives **one-to-one guidance**, tactical mind-tech, and practical tools for navigating modern life with clarity and power.
 Everything is bespoke — shaped around your goals, challenges, and evolution.
 
@@ -49,10 +58,12 @@ Everything is bespoke — shaped around your goals, challenges, and evolution.
 - Access to the Edge Cult Inner Council Tier (Substack)
 - Priority in special workings and consultations
 
-## Ready to Begin?
+## Initiate Engagement
 
-**INVESTMENT :: $2,400 / year**<br>
-Best value. Paid in full.
+**INVESTMENT :: $2,400 / year**   
+Private advisory. Limited client allocation.
+
+This structure ensures continuity, depth, and real-world results — not fragmented sessions.
 
 <a href='https://www.fatfreecartpro.com/ecom/gb.php?&c=cart&ejc=2&cl=434879&i=1896102' onclick='return EJEJC_lc(this);' style='display:inline-block;background: #26a269 url(https://www.e-junkie.com/ej/images/newaddtocart.png) center/100px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);text-decoration: none;' target='ej_ejc' class='ec_ejc_thkbx'>&nbsp;</a>&nbsp;<a href="https://www.fatfreecartpro.com/ecom/gb.php?c=cart&ejc=2&cl=434879" target="ej_ejc" class="ec_ejc_thkbx" onclick="return EJEJC_lc(this);" style="display:inline-block;background: #26a269 url(https://www.e-junkie.com/ej/images/newviewcart.png) center/90px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);cursor: pointer;text-decoration: none;">&nbsp;</a>
 
