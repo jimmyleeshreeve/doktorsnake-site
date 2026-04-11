@@ -7,7 +7,7 @@ permalink: /retainer/
 
 # Work with Doktor Snake on Retainer
 
-`Strategic Influence · Monthly Workings · Direct Access`
+<p class="text">Strategic Influence · Monthly Workings · Direct Access</p>
 
 <img class="about-hero" src="/assets/img/dok-rural-cyber.jpg"
      alt="Doktor Snake Retainer Rural Cyberpunk">
