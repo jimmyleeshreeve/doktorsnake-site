@@ -7,34 +7,137 @@ permalink: /retainer/
 
 # Work with Doktor Snake on Retainer
 
-`Spellwork · Strategy`
+`Strategic Influence · Monthly Workings · Direct Access`
 
-<img class="about-hero" src="/assets/img/ds-logo.jpg"
-     alt="Doktor Snake books and press cuttings">
+<img class="about-hero" src="/assets/img/dok-rural-cyber.jpg"
+     alt="Doktor Snake Retainer Rural Cyberpunk">
 
-For a select few clients, I offer **ongoing personal work** — a **monthly retainer** that gives you direct access to me and workings throughout the year as needed.
+For a select number of clients, I offer **ongoing retained work**.
 
-***
+This is not a one-off spell or reading.
 
-## What You Get on the Retainer
+It’s a **long-term alignment process** — combining:
+- targeted monthly workings
+- real-world strategic input
+- ongoing situational awareness
 
-- **One major spellworking per month** — Custom ritual tailored to your current need or situation.
-- **Advice, insight & strategy** — Delivered via email or call. Real-world tactics + otherworldly insight.
-- **Energetic tuning & protection** — Ongoing energetic support, shielding, and reality shaping.
-- **Priority scheduling** — Retainer clients go to the front of the queue.
+You have someone in your corner — watching the board, reading movement, and acting when required.
 
-This is not just workings. It’s **full-spectrum consulting**, rooted in modern and old world magick, cyber-esoterica, and applied gnosis.
+---
 
-***
+## How It Works in Practice
 
-## Who It’s For
+Each month follows a simple but powerful rhythm:
 
--   Entrepreneurs needing ongoing edge + influence
--   Artists, creatives, and performers wanting flow, visibility, and alignment
--   Individuals facing complex or long-haul situations (love, law, money, health)
--   Spiritual seekers ready to go deeper, monthly with a seasoned operator
+**1. You outline the situation**   
+A problem, goal, or moving situation (career, money, relationships, pressure points).
 
-***
+**2. I assess the field**   
+What’s actually happening beneath the surface — dynamics, personalities, timing.
+
+**3. Monthly working is deployed**   
+A targeted operation designed to shift probability, remove resistance, and open pathways.
+
+**4. Ongoing contact**   
+You can message anytime. When needed, we step back and look at strategy:
+- when to act
+- when to hold position
+- how to move without friction
+
+This is where most of the value sits.
+
+---
+
+## Example Use Case
+
+One client, a senior NHS manager in London, keeps me on retainer during an internal power struggle.
+
+A colleague began positioning for his role — subtle moves, pressure building over time.
+
+What we did:
+
+- Maintained **strategic restraint** (no reactive moves)
+- Monitored behavioural patterns and timing
+- Applied **monthly workings** to stabilise his position and disrupt opposition flow
+- Used **OODA-style analysis** (observe, orient, decide, act) to guide decisions
+
+Result:
+Pressure reduced. Situation stabilised. Control retained.
+
+That’s how this works.
+
+Not drama. Not guesswork.
+
+**Measured influence — applied over time.**
+
+---
+
+## What You Get
+
+- **One major working per month**  
+  Targeted to your current objective or situation
+
+- **Direct access (email / messaging)**  
+  Ask, update, adjust — as things move
+
+- **Strategic input when needed**  
+  Clear thinking on real-world situations  
+  (timing, people, decisions)
+
+- **Ongoing stabilisation & pressure management**  
+  Keeping things aligned, reducing interference
+
+- **Priority handling**  
+  Retainer clients always come first
+
+---
+
+## What This Actually Is
+
+Think of it as:
+
+**A retained strategic operator — working both sides of the board.**
+
+Real-world:
+- analysis
+- positioning
+- timing
+
+Unseen layer:
+- influence
+- alignment
+- removal of resistance
+
+Used together — consistently — over time.
+
+---
+
+## Optional: Learn As You Go
+
+If you want, the retainer can also include guidance on:
+
+- basic influence methods
+- psionics / mental focus techniques
+- how to stabilise your own internal state
+
+Not theory — practical tools you can actually use.
+
+---
+
+## Who This Is For
+
+People dealing with **real situations**:
+
+- career pressure or internal politics  
+- money flow problems  
+- complex personal dynamics  
+- long-term positioning  
+
+Or simply:
+
+Those who want a **steady edge** — month after month.
+
+---
 
 ## How to Join the Retainer Program
 
@@ -76,10 +179,7 @@ Bitcoin or other crypto accepted.<br>
 
 Think of this as having a **spiritual strategist in your corner** — working behind the scenes to align probability fields, shift energy, and clear your path.
 
-* * *
-
-<img class="about-hero" src="/assets/img/cyber-altar.jpg"
-     alt="Cyber Altar">
+---
      
      <br>
      
