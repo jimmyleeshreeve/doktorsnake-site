@@ -154,8 +154,6 @@ The only question left is simple:
 
 ## Quick Questions
 
-**How soon do you start a working?**   
-Usually within 24–48 hours of booking.
 
 **How will I know it’s done?**   
 You’ll receive a written Field Report or Transmission direct from me.
@@ -163,7 +161,51 @@ You’ll receive a written Field Report or Transmission direct from me.
 **Is this confidential?**   
 Always. Discretion is absolute — no names, no leaks, ever.
 
-***
+---
+
+## Micro-FAQ
+<section class="micro-faq">
+
+  <details>
+    <summary>Do you do spells?</summary>
+    <p>Yes. What many call “spells,” I approach as <strong>structured influence workings</strong>—focused on real-world outcomes, not theatre.<br>
+    <a href="/influence/">→ See current workings</a></p>
+  </details>
+
+  <details>
+    <summary>What can a working be used for?</summary>
+    <p>Money flow, relationships, removing obstacles, and shifting stuck situations.<br>
+    If unsure, describe your situation and I’ll point you in the right direction.</p>
+  </details>
+
+  <details>
+    <summary>Does this actually work?</summary>
+    <p>Yes—when applied correctly, to the right situation.<br>
+    This isn’t about belief. It’s about <strong>focus, timing, and pressure applied in the right place</strong>.<br>
+    Some shifts are immediate. Others build over days or weeks.</p>
+  </details>
+
+  <details>
+    <summary>How soon do you start a working?</summary>
+    <p>Usually within 24-48 hours of booking.
+    <a href="/influence/">→ See current workings</a></p>
+  </details>
+
+  <details>
+    <summary>How will I know it's done?</summary>
+    <p>You’ll receive a written Field Report or Transmission direct from me.</p>
+  </details>
+
+  <details>
+    <summary>Is this confidential?</summary>
+    <p>Always. Discretion is absolute — no names, no leaks, ever.</p>
+  </details>
+
+</section>
+
+
+
+---
 
 ## The Deep Dive Lives Here
 
