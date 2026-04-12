@@ -152,15 +152,6 @@ The only question left is simple:
 </script>
 </div>
 
-## Quick Questions
-
-
-**How will I know it’s done?**   
-You’ll receive a written Field Report or Transmission direct from me.
-
-**Is this confidential?**   
-Always. Discretion is absolute — no names, no leaks, ever.
-
 ---
 
 ## Micro-FAQ
