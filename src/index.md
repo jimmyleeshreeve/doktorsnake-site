@@ -16,6 +16,8 @@ That’s when people call Doktor Snake.❞&nbsp;</p>
 
 <p class="note">“‘Spells’ in traditional terms. Here: structured influence workings applied with precision.”</p>
 
+---
+
 ## Magick That Works. Power That Wins.
 
 The game might be rigged.   
@@ -26,7 +28,7 @@ I'm <a href="/about/">Doktor Snake</a> — magician, philosopher, fixer.
 
 For outsiders that see too much, feel too deep, and refuse to quit.
 
-***
+---
 
 ## Choose Your Weapon
 
@@ -80,7 +82,7 @@ For outsiders that see too much, feel too deep, and refuse to quit.
 > Everything shifted in two days. The working hit like a lightning bolt.   
 J.W., New York
 
-***
+---
 
 ## Stop Waiting For Permission. Take Power Now.
 
@@ -194,8 +196,6 @@ The only question left is simple:
 
 </section>
 
-
-
 ---
 
 ## The Deep Dive Lives Here
@@ -220,7 +220,7 @@ Discover my workings and readings.
   <a class="btn" href="/diabolus/">Diabolus</a>
 </p>
 
-***
+---
 
 ## Elsewhere
 
