@@ -14,6 +14,8 @@ That’s when people call Doktor Snake.❞&nbsp;</p>
 
 <img class="about-hero" src="/assets/img/ds-logo.jpg" alt="Doktor Snake">
 
+<p class="note">“‘Spells’ in traditional terms. Here: structured influence workings applied with precision.”</p>
+
 ## Magick That Works. Power That Wins.
 
 The game might be rigged.   
