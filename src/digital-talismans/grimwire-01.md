@@ -5,8 +5,6 @@ permalink: "/digital-talismans/grimwire-01/"
 layout: "layout.njk"
 ---
 
-<main class="wrap">
-
   <h1>GRIMWIRE_01</h1>
 
   <p class="text">Cybernaut Sigil Protocol</p>
@@ -232,4 +230,3 @@ layout: "layout.njk"
     </details>
   </section>
 
-</main>
