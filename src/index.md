@@ -16,7 +16,34 @@ That’s when people call Doktor Snake.❞&nbsp;</p>
 
 <p class="note">“‘Spells’ in traditional terms. Here: structured influence workings applied with precision.”</p>
 
----
+<section class="home-feature home-feature--grimwire">
+  <div class="home-feature-copy">
+    <p class="home-feature-kicker">Featured Signal Artefact</p>
+    <h2>GRIMWIRE_01 — Cybernaut Sigil Protocol</h2>
+    <p class="home-feature-lead">
+      A post-modern grimoire for signal operators.
+    </p>
+    <p>
+      A premium EPUB with companion audio transmission. Built for hacker-magicians,
+      symbolic operators, and those who prefer method over stale occult theatre.
+    </p>
+    <p>
+        Not a standard spellbook. A usable symbolic system.
+    </p>
+    <p class="home-feature-actions">
+      <a class="btn btn-deploy" href="/digital-talismans/grimwire-01/">View GrimWire</a>
+      <a class="btn" href="/digital-talismans/">See All Talismans</a>
+    </p>
+  </div>
+
+  <div class="home-feature-media">
+    <img
+      src="/assets/img/grimwire-cover.jpg"
+      alt="GRIMWIRE_01 cover"
+      class="home-feature-cover"
+    >
+  </div>
+</section>
 
 ## Magick That Works. Power That Wins.
 
