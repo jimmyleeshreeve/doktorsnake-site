@@ -1,0 +1,235 @@
+---
+title: "GRIMWIRE_01 | Cybernaut Sigil Protocol"
+description: "A post-modern grimoire for signal operators. GRIMWIRE_01 delivers the Cybernaut Sigil Protocol as a premium EPUB with companion audio transmission."
+permalink: "/digital-talismans/grimwire-01/"
+layout: "layout.njk"
+---
+
+<main class="wrap">
+
+  <h1>GRIMWIRE_01</h1>
+
+  <p class="text">Cybernaut Sigil Protocol</p>
+
+  <div class="grimwire-hero">
+    <div class="grimwire-hero-copy">
+      <p class="grimwire-kicker">POST-MODERN GRIMOIRE // SIGNAL OPERATOR EDITION</p>
+
+      <p class="grimwire-lead">
+        Compress intent. Build the sigil. Let the signal run.
+      </p>
+
+      <p>
+        A practical method for compressing intent into executable symbols.
+        No vague spellbook theatre. No bloated occult prose. Just a clean system
+        for building, stylising, and deploying sigils in a modern operator frame.
+      </p>
+
+      <p>
+        Delivered as a premium <code>.epub</code> with companion audio transmission.
+        Built for hacker-magicians, symbolic operators, and those who prefer method over mystique.
+      </p>
+
+      <div class="grimwire-actions">
+        <a class="btn btn-deploy" href="#deploy">Deploy GrimWire</a>
+        <a class="btn" href="#included">See What’s Included</a>
+      </div>
+
+      <div class="grimwire-system-strip" aria-label="Product format summary">
+        <span>EPUB + AUDIO</span>
+        <span>MOBILE-READY</span>
+        <span>NO TIERS</span>
+        <span>IMMEDIATE ACCESS</span>
+      </div>
+    </div>
+
+    <div class="grimwire-hero-media">
+      <img src="/assets/img/grimwire-cover.jpg" alt="GRIMWIRE_01 cover" class="grimwire-cover">
+    </div>
+  </div>
+
+  <div class="operator-notice">
+    <div class="operator-header">Signal Brief</div>
+    <p>
+      <strong>GRIMWIRE_01</strong> is a usable system, not a decorative ebook.
+      It shows you how to strip an intention to its core, convert it into symbolic form,
+      refine it into a personal sigil, and run it without drowning the process in emotional noise.
+    </p>
+    <p class="operator-small">
+      Think of it as a compact field manual for rewriting your signal inside the Simulation.
+    </p>
+  </div>
+
+  <h2>What This Is</h2>
+
+  <div class="card">
+    <p>
+      Most people try to change outcomes by thinking harder. That usually fails.
+      Thought loops. Language diffuses intent. Emotion introduces static.
+    </p>
+    <p>
+      <strong>GrimWire</strong> takes a different route. It compresses intention into a single symbolic unit:
+      a sigil that can be built, stylised, and deployed with minimal fuss.
+    </p>
+    <p>
+      The frame is modern: signal, compression, execution, interference reduction.
+      The underlying current is older: Grim, Mercury, the operator between worlds.
+    </p>
+  </div>
+
+  <h2>Who It’s For</h2>
+
+  <div class="operators-grid">
+    <div class="operator-card">
+      <h3>Hacker Magicians</h3>
+      <p class="operator-title">Signal over superstition</p>
+      <p class="operator-desc">
+        For those who want a working symbolic method without the stale furniture of old occult publishing.
+      </p>
+    </div>
+
+    <div class="operator-card">
+      <h3>Creative Operators</h3>
+      <p class="operator-title">Form as command</p>
+      <p class="operator-desc">
+        For those who understand that a symbol can carry force more cleanly than paragraphs of self-talk.
+      </p>
+    </div>
+
+    <div class="operator-card">
+      <h3>Dokology Adjacent Minds</h3>
+      <p class="operator-title">Calm execution</p>
+      <p class="operator-desc">
+        For those drawn to mental clarity, emotional neutrality, and practical tools that can actually be used.
+      </p>
+    </div>
+  </div>
+
+  <h2 id="included">What’s Included</h2>
+
+  <table class="ds-table">
+    <thead>
+      <tr>
+        <th>Component</th>
+        <th>Function</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>GRIMWIRE_01 EPUB</strong></td>
+        <td>A compact post-modern grimoire containing the Cybernaut Sigil Protocol, stylisation method, deployment model, and operator notes.</td>
+      </tr>
+      <tr>
+        <td><strong>Audio Transmission</strong></td>
+        <td>A short reflective companion piece on signal, symbols, compression, and working with the system rather than thrashing inside it.</td>
+      </tr>
+      <tr>
+        <td><strong>Mobile-Ready Format</strong></td>
+        <td>Built for easy reading in EPUB apps such as ReadEra, Moon+ Reader, Apple Books, or Calibre.</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p class="note--inline">
+    The book contains the method. The audio extends the frame.
+  </p>
+
+  <h2>Transmission Excerpt</h2>
+
+  <blockquote>
+    Most people try to change outcomes by rewriting the story inside their own head.
+    A better approach is to insert a command. Not in language. In form.
+  </blockquote>
+
+  <h2>Why EPUB</h2>
+
+  <div class="card">
+    <p>
+      GrimWire is delivered as an <code>.epub</code> because it is meant to live on your device:
+      readable, portable, re-runnable. Not buried in a browser tab. Not lost in a feed.
+    </p>
+    <p>
+      This is a contained artefact. You keep it. You use it. You revisit it when needed.
+    </p>
+  </div>
+
+  <div class="note">
+    Recommended readers include ReadEra, Moon+ Reader, Apple Books, and Calibre.
+  </div>
+
+  <h2 id="deploy">Deploy</h2>
+
+  <div class="ds-price-card grimwire-price-card">
+    <div class="ds-price-card-inner">
+      <h3>GRIMWIRE_01</h3>
+      <p class="ds-price-sub">
+        Cybernaut Sigil Protocol + audio transmission
+      </p>
+
+      <div class="ds-price-options grimwire-single-price">
+        <div class="ds-price-option">
+          <span class="ds-price-label">Signal Access</span>
+          <span class="ds-price-amount">$77</span>
+          <span class="ds-price-note">Single artefact. No tiers. Full method.</span>
+        </div>
+      </div>
+
+      <p>
+        One product. One system. Immediate access after purchase.
+      </p>
+
+      <p class="grimwire-buy">
+        <a class="btn btn-deploy" href="PUT-YOUR-BUY-LINK-HERE">Deploy GrimWire</a>
+      </p>
+
+      <p class="copy-note">
+        Digital delivery. EPUB + audio. For personal use only.<br>
+        <span>Readable on phone, tablet, laptop, or desktop.</span>
+      </p>
+    </div>
+  </div>
+
+  <section class="after-order">
+    <h2>After Order</h2>
+    <p class="after-order-intro">Simple fulfilment. No delays. No ceremonial waiting room.</p>
+    <ul class="after-order-steps">
+      <li>
+        <strong>01 // Purchase</strong>
+        <span>Complete checkout using the secure order link.</span>
+      </li>
+      <li>
+        <strong>02 // Access</strong>
+        <span>Receive your download link for the EPUB and companion audio.</span>
+      </li>
+      <li>
+        <strong>03 // Run</strong>
+        <span>Open the book on your preferred reader, absorb the method, and begin testing the protocol.</span>
+      </li>
+    </ul>
+  </section>
+
+  <section class="micro-faq">
+    <h2>Micro FAQ</h2>
+
+    <details>
+      <summary>Is this a book of spells?</summary>
+      <p>No. It is a symbolic method. A modern sigil system framed in operator language rather than old-school occult theatre.</p>
+    </details>
+
+    <details>
+      <summary>Do I need prior experience?</summary>
+      <p>No. The protocol is simple. If you can reduce a phrase, sketch a shape, and keep your mind from over-interfering, you can use it.</p>
+    </details>
+
+    <details>
+      <summary>Is the audio a guided exercise?</summary>
+      <p>No. It is a short transmission on the theory and mindset behind the work. The method itself is in the book.</p>
+    </details>
+
+    <details>
+      <summary>What do I need to read the EPUB?</summary>
+      <p>Any decent EPUB reader. ReadEra, Moon+ Reader, Apple Books, and Calibre all work well.</p>
+    </details>
+  </section>
+
+</main>
