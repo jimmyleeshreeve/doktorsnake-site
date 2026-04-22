@@ -1,19 +1,23 @@
 ---
-title: Request Your Case Report
+title: Request Your Free Call
 layout: layout.njk
 noindex: true
 ---
 
-# Request Your Case Report
+# Request Your Free Call With Doktor Snake
 
 `Your Case · My Strategy`
 
-I'll assess your case and get back with a personalised plan for moving forwards — what can be done and what methods would be most effective, be it a reading/working, or distance influence.
+Fill me in on what's going on.   
+I'll assess your situation.   
+And give you tips on materialising what you need into reality or on changing things.
 
 No obligation.   
+If you need extra help from me we can discuss the options and go from there.
+
 Simply fill out the form below.
 
-Once received I will email back within three days.
+Once received, I'll get back promptly and will book you in for a call.
 
 <div class="card">
    
@@ -81,12 +85,6 @@ Once received I will email back within three days.
       </label>
     </p>
 
-    <p>
-      <label>Anything else important to know? (optional)<br>
-        <textarea name="notes" rows="3"></textarea>
-      </label>
-    </p>
-
     <!-- Honeypot (spam trap) -->
     <input type="text" name="_gotcha" style="display:none">
 
@@ -98,7 +96,7 @@ Once received I will email back within three days.
     </p>
 
     <p style="margin-top:10px">
-      <em>Back to you within three days.</em>
+      <em>Back to you shortly to book your call.</em>
     </p>
   </form>
 </div>
