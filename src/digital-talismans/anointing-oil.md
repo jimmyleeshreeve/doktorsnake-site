@@ -24,7 +24,7 @@ This is **direct application to intention**. On the body, in the ether. Use it y
 
 ---
 
-## INVESTMENT :: $95 USD
+## INVESTMENT :: $125 USD
 
 *Let me know **[via email](/contact/)** what you need your oil for (intention) and I will  create it, charge it, bottle it, and mail it to you.*
 
