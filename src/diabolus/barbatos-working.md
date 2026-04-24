@@ -27,6 +27,8 @@ It's another angle to money-drawing — and a powerful one.
 
 ---
 
+## How It Works
+
 For this working, I go to one of the old medieval churches in Suffolk, out in the wilds of the countryside, amidst rolling farmland and dales. I park up and usually trek a mile along old country paths.
 
 Once at the location, I fix up my Subliminal Machine — a modern device I created for the task of calling upon members of the demonic host.
@@ -39,7 +41,7 @@ From there I go into visionary trance and put your petition across to Duke Barba
 
 The game here is to unearth channels of money, which you may not be aware of — and to attract money to you generally.
 
-You don't want to leave money on the table if it is out there and within reach.
+**You don't want to leave money on the table if it is out there and within reach.**
 
 ### Ready to call on infernal power?
 
