@@ -1,13 +1,13 @@
 ---
-title: "Influence (Psionics)"
+title: "Influence — Strategic Spellwork"
 layout: layout.njk
 description: Distance influence workings utilise modern magick that works in the real world.
 permalink: /influence/
 ---
 
-# Influence (Psionics)
+# Influence — Strategic Spellwork
 
-`Psionics · Magick`
+`Psionics · Results Magick`
 
 <img class="about-hero" src="/assets/img/distance-influence-dok.jpg"
      alt="Doktor Snake — Strategic Spellwork + Readings">
