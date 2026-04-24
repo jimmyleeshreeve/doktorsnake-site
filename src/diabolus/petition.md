@@ -1,6 +1,8 @@
 ---
 title: Petition to Lord Satan
 layout: layout.njk
+description: Old Nick Still Grants Wishes… If You Know Where to Ask.
+permalink: /diabolus/petition/
 ---
 
 # Petition to Lord Satan
