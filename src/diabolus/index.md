@@ -54,6 +54,14 @@ These Faustian workings are conducted in the wilds of Suffolk. Often at a desola
 </div>
 
 <div class="card">
+  <h3>Barbatos :: Hidden Money Working</h3>
+  <p class="text">
+  Unearth hidden channels of money and attract unexpected windfalls.
+  </p>
+  <p><a class="btn" href="/diabolus/barbatos-working">View Hidden Money Working →</a></p>
+</div>
+
+<div class="card">
   <h3>Archangel</h3>
   <p class="text">
   Spiritual cleansing and protection from malevolent forces.
