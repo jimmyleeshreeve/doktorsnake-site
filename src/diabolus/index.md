@@ -61,3 +61,26 @@ These Faustian workings are conducted in the wilds of Suffolk. Often at a desola
   <p><a class="btn" href="/diabolus/archangel">View Archangel →</a></p>
 </div>
 
+<div class="card">
+  <h3>GameMaster — For Extraordinary Gambling Luck</h3>
+  <p class="text">
+  Petition to Asmodeus for getting the edge in casinos, and all games of chance.
+  </p>
+  <p><a class="btn" href="/diabolus/game-master">View GameMaster →</a></p>
+</div>
+
+<div class="card">
+  <h3>Daimonic Money Machine</h3>
+  <p class="text">
+  Harnesses the power of Clauneck to kick start your finances and get you the cash.
+  </p>
+  <p><a class="btn" href="/diabolus/daimonic-money-machine">View Money Machine →</a></p>
+</div>
+
+<div class="card">
+  <h3>Duke Bune's Powerful Ritual</h3>
+  <p class="text">
+  Your finances — “material question” — taken care of.
+  </p>
+  <p><a class="btn" href="/diabolus/bune-ritual">View Bune Ritual →</a></p>
+</div>
