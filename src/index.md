@@ -1,12 +1,12 @@
 ---
 layout: layout.njk
-title: Command Post
-description: Spiritual Outlaw. Occult Fixer. Magick That Works.
+title: Magick That Works
+description: Occult Fixer. Spiritual Outlaw. Results Magick
 ---
 
 # Doktor Snake
 
-<p class="text">Spiritual Outlaw. Occult Fixer. Magick That Works.</p>
+<p class="text">Occult Fixer. Spiritual Outlaw. Results Magick</p>
 
 <p>❝&nbsp;When the game around you stops playing straight...</br>
 When logic alone no longer moves the pieces...</br>
@@ -15,35 +15,6 @@ That’s when people call Doktor Snake.❞&nbsp;</p>
 <img class="about-hero" src="/assets/img/ds-logo.jpg" alt="Doktor Snake">
 
 <p class="note">“‘Spells’ in traditional terms. Here: structured influence workings applied with precision.”</p>
-
-<section class="home-feature home-feature--grimwire">
-  <div class="home-feature-copy">
-    <p class="home-feature-kicker">Featured Signal Artefact</p>
-    <h2>GRIMWIRE_01 — Cybernaut Sigil Protocol</h2>
-    <p class="home-feature-lead">
-      A post-modern grimoire for signal operators.
-    </p>
-    <p>
-      A premium EPUB with companion audio transmission. Built for hacker-magicians,
-      symbolic operators, and those who prefer method over stale occult theatre.
-    </p>
-    <p>
-        Not a standard spellbook. A usable symbolic system.
-    </p>
-    <p class="home-feature-actions">
-      <a class="btn btn-deploy" href="/digital-talismans/grimwire-01/">View GrimWire</a>
-      <a class="btn" href="/digital-talismans/">See All Talismans</a>
-    </p>
-  </div>
-
-  <div class="home-feature-media">
-    <img
-      src="/assets/img/grimwire-cover.jpg"
-      alt="GRIMWIRE_01 cover"
-      class="home-feature-cover"
-    >
-  </div>
-</section>
 
 ## Magick That Works. Power That Wins.
 
@@ -60,7 +31,7 @@ For outsiders that see too much, feel too deep, and refuse to quit.
 ## Choose Your Weapon
 
 <div class="card">
-  <h3>DISTANCE INFLUENCE (Psionics)</h3>
+  <h3>DISTANCE INFLUENCE (Magick)</h3>
   <p class="text">
     Precise, powerful. Shifts outcomes, reshapes probabilities.
   </p>
@@ -188,7 +159,7 @@ The only question left is simple:
 
   <details>
     <summary>Do you do spells?</summary>
-    <p>Yes. What many call “spells,” I approach as <strong>structured influence workings</strong>—focused on real-world outcomes, not theatre.<br>
+    <p>Yes. What many call “spells,” I approach as <strong>structured influence workings</strong>—magick focused on real-world outcomes, not theatre.<br>
     <a href="/influence/">→ See current workings</a></p>
   </details>
 
