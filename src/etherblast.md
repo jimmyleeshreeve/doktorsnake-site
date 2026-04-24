@@ -1,22 +1,24 @@
 ---
-title: EtherBlast
+title: EtherBlast — Results Magick
 layout: layout.njk
 description: Old-world working mixed with modern Distance Influence, tuned to a single outcome.
 permalink: /etherblast/
 ---
 
-# EtherBlast
+# EtherBlast — Results Magick
 
 <p class="text">TIER I: One-Intention Psi Working</p>
 
-`\>> Single.Objective / Distance.Influence`
+`Single.Objective · Distance.Influence`
 
 <img class="about-hero" src="/assets/img/distance-influence.jpg"
      alt="EtherBlast">
 
 When one problem rises above all others — money, health, love, interference, protection — **EtherBlast** is the sharpest, cleanest way to redirect the current fast.
 
-This is old-world working guided by spirit allies and ancestral ground, executed through modern Distance Influence: precise, discreet, and tuned to a single outcome.
+This is old-world working guided by spirit allies and ancestral ground, results magick executed through modern Distance Influence: precise, discreet, and tuned to a single outcome.
+
+---
 
 ### What EtherBlast Can Help With
 
@@ -29,33 +31,15 @@ This is old-world working guided by spirit allies and ancestral ground, executed
 - Boosting luck in high-stakes moments (court, job, risk, gambling)
 - Any **one** direct, focused outcome you need turned your way
 
+---
+
 ## How the Working Unfolds
 
 At twilight, I head to an ancient Neolithic zone in Suffolk — barrow-rooted land where the ether runs close to the surface.
 
 There I enter trance, tune into the field, call on spirit and ancestral allies, and push your chosen intention into the ether with targeted force. Your situation is carried, aligned, and set in motion.
 
-<section class="after-order">
-  <h2>After You Order</h2>
-  <p class="after-order-intro">
-    The signal sequence is simple and handled personally.
-  </p>
-
-  <ol class="after-order-steps">
-    <li>
-      <strong>01 :: Submit Intention</strong>
-      <span>You complete a short form outlining the situation and desired outcome.</span>
-    </li>
-    <li>
-      <strong>02 :: Working Scheduled</strong>
-      <span>I review the details, schedule the working, and confirm the timing.</span>
-    </li>
-    <li>
-      <strong>03 :: Field Report Delivered</strong>
-      <span>After the working, you receive a written report describing what was done, what arose in the field, and any guidance going forward.</span>
-    </li>
-  </ol>
-</section>
+---
 
 ### INVESTMENT :: $375 USD
 *All workings are conducted personally by Doktor Snake and prepared specifically for the client.*
@@ -84,7 +68,29 @@ Bitcoin or other crypto accepted.<br>
 > *A surge of protection hit the moment the ritual was done. I knew it. Something had changed. I felt lighter, clearer.*<br>
 — **David M., New Orleans**
 
-<br>
+---
+
+<section class="after-order">
+  <h2>After You Order</h2>
+  <p class="after-order-intro">
+    The signal sequence is simple and handled personally.
+  </p>
+
+  <ol class="after-order-steps">
+    <li>
+      <strong>01 :: Submit Intention</strong>
+      <span>You complete a short form outlining the situation and desired outcome.</span>
+    </li>
+    <li>
+      <strong>02 :: Working Scheduled</strong>
+      <span>I review the details, schedule the working, and confirm the timing.</span>
+    </li>
+    <li>
+      <strong>03 :: Field Report Delivered</strong>
+      <span>After the working, you receive a written report describing what was done, what arose in the field, and any guidance going forward.</span>
+    </li>
+  </ol>
+</section>
 
 <div class="operator-notice">
   

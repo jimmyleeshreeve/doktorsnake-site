@@ -1,17 +1,17 @@
 ---
-title: GigaBlast
+title: GigaBlast — Results Magick
 layout: layout.njk
 description: Distance Influence, five intentions, high-level psionics working — designed for complex, high-stakes situations.
 permalink: /gigablast/
 ---
 
-# GigaBlast
+# GigaBlast — Results Magick
 
 <p class="text">TIER III: Five-Intention Influence Working.</p>
 
 Recommended when the situation carries significant consequences.
 
-`\>> Multi.Objectives / Focused.Strategic.Influence`
+`Multi.Objectives · Focused.Strategic.Influence`
 
 <img class="about-hero" src="/assets/img/distance-influence.jpg"
      alt="GigaBlast">
@@ -20,7 +20,7 @@ Multi-vector ritual for high-stakes situations. Choose up to five intentions.
 
 Also known as the Black Rite — designed for complex, high-pressure, or deeply entangled situations.
 
-Where the MegaBlast Tier II handles three currents, GigaBlast fires up to **five** distinct intentions into a single, unified force-field.
+Where the MegaBlast Tier II handles three currents, GigaBlast fires up to **five** distinct intentions into a single, unified field of etheric force.
 
 This is the working for moments when life is shifting on several fronts: relationships, money, enemies, legal pressure, protection, opportunity, health, timing, or psychic turbulence. You choose up to five intentions, or outline the situation and I identify the vectors.
 
@@ -38,33 +38,15 @@ This is the working for moments when life is shifting on several fronts: relatio
 
 This GigaBlast working is bespoke. No templates. No pre-set formulas. Every sequence is configured uniquely for your situation.
 
+---
+
 ## How The GigaBlast Is Cast
 
 The working is conducted at a secluded site in East Anglia — a place where the ether folds into itself. I enter a deep trance, petitioning ancient forces and field intelligences while running Distance Influence through layered spirit negotiations.
 
 The five intentions are built separately, then bound into a single dark pulse. This pulse radiates through the field, shifting circumstances on multiple levels: personal, social, emotional, material, and astral.
 
-<section class="after-order">
-  <h2>After You Order</h2>
-  <p class="after-order-intro">
-    The signal sequence is simple and handled personally.
-  </p>
-
-  <ol class="after-order-steps">
-    <li>
-      <strong>01 :: Submit Intention</strong>
-      <span>You complete a short form outlining the situation and desired outcome.</span>
-    </li>
-    <li>
-      <strong>02 :: Working Scheduled</strong>
-      <span>I review the details, schedule the working, and confirm the timing.</span>
-    </li>
-    <li>
-      <strong>03 :: Field Report Delivered</strong>
-      <span>After the working, you receive a written report describing what was done, what arose in the field, and any guidance going forward.</span>
-    </li>
-  </ol>
-</section>
+---
 
 ### INVESTMENT :: $1,200 USD
 *All workings are conducted personally by Doktor Snake and prepared specifically for the client.*
@@ -94,16 +76,32 @@ Bitcoin or other crypto accepted.<br>
 
 > *I had five situations going wrong at once. The Black Rite handled them like dominos falling in my favor.*<br>
 — **Janelle H., New York**
- 
- 
-### 🕯️ Origins: The Story Behind the Black Rite
 
-This working is rooted in a real-life case documented in the second edition of my *Doktor Snake’s Voodoo Spellbook*. It draws on the same deep-field ritual technology and spirit negotiation developed in that infamous case.
+---
 
-You can read an abridged version of the story here:
-[Grimoire of the Seven Obsidian Kings →](https://www.doktorsnake.io/p/grimoire-of-the-seven-obsidian-kings-e9d)
+<section class="after-order">
+  <h2>After You Order</h2>
+  <p class="after-order-intro">
+    The signal sequence is simple and handled personally.
+  </p>
 
-<br>
+  <ol class="after-order-steps">
+    <li>
+      <strong>01 :: Submit Intention</strong>
+      <span>You complete a short form outlining the situation and desired outcome.</span>
+    </li>
+    <li>
+      <strong>02 :: Working Scheduled</strong>
+      <span>I review the details, schedule the working, and confirm the timing.</span>
+    </li>
+    <li>
+      <strong>03 :: Field Report Delivered</strong>
+      <span>After the working, you receive a written report describing what was done, what arose in the field, and any guidance going forward.</span>
+    </li>
+  </ol>
+</section>
+
+---
 
 <div class="operator-notice">
  
@@ -135,3 +133,16 @@ You can read an abridged version of the story here:
   </p>
 
 </div>
+
+---
+
+### 🕯️ Origins: The Story Behind the Black Rite
+
+This working is rooted in a real-life case documented in the second edition of my *Doktor Snake’s Voodoo Spellbook*. It draws on the same deep-field ritual technology and spirit negotiation developed in that infamous case.
+
+You can read an abridged version of the story here:
+[Grimoire of the Seven Obsidian Kings →](https://www.doktorsnake.io/p/grimoire-of-the-seven-obsidian-kings-e9d)
+
+---
+
+<img class="about-hero" src="/assets/img/own-god.png" alt="Be Your Own God">
