@@ -230,7 +230,9 @@ Substack for articles, podcasts, and videos. Youtube Shorts for simulation glitc
   <a class="btn" href="https://doktorsnake.me" target="_blank" rel="noopener noreferrer">ContactHub</a>
 </p>
 
+---
 
+<img class="about-hero" src="/assets/img/own-god.png" alt="Be Your Own God">
 
 
 
