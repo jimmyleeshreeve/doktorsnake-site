@@ -10,8 +10,8 @@ noindex: false
 
 <p class="text">Your finances — “material question” — taken care of.</p>
 
-<img class="about-hero" src="/assets/img/duke-bune-cyber.jpg"
-     alt="Duke Bune cyber">
+<img class="about-hero" src="/assets/img/twilight-chapel-bune.jpg"
+     alt="Twilight Chapel Duke Bune">
 
 **If it’s money you need, Duke Bune can get it. He's a powerful spirit, known mostly from the medieval manuscript, the *Ars Goetia*.**
 
