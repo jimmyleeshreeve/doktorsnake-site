@@ -13,7 +13,7 @@ noindex: false
 <img class="about-hero" src="/assets/img/twilight-chapel-bune.jpg"
      alt="Twilight Chapel Duke Bune">
 
-**If it’s money you need, Duke Bune can get it. He's a powerful spirit, known mostly from the medieval manuscript, the *Ars Goetia*.**
+**If it’s money you need, or all-out wealth and power, Duke Bune can get it. He's a powerful spirit, known mostly from the medieval manuscript, the *Ars Goetia*.**
 
 He appears as a dragon with three heads, one like a dog, the other a griffin, the third like a man. And is known for giving riches and bringing wisdom and eloquence, along with understanding financial matters in general.
 
