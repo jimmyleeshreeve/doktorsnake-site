@@ -13,19 +13,24 @@ noindex: false
 <img class="about-hero" src="/assets/img/duke-bune-cyber.jpg"
      alt="Duke Bune cyber">
 
-If it’s money you need, Duke Bune can get it. He's a powerful spirit, known mostly from the medieval manuscript, the *Ars Goetia*. He appears as a dragon with three heads, one like a dog, the other a griffin, the third like a man.
+**If it’s money you need, Duke Bune can get it. He's a powerful spirit, known mostly from the medieval manuscript, the *Ars Goetia*.**
 
-He is known for giving riches and bringing wisdom and eloquence, along with understanding financial matters in general.
+He appears as a dragon with three heads, one like a dog, the other a griffin, the third like a man. And is known for giving riches and bringing wisdom and eloquence, along with understanding financial matters in general.
 
-I conduct the ritual at the ruined medieval church by the sea. Always after the sun has set and under the auspices of a waxing moon... though, waning, in this context, would mean a diminishing of poverty.
+I conduct the ritual at the ruined medieval church by the sea. Always after the sun has set and under the auspices of a favourable lunar and astrological alignments.
 
-I draw his seal on a sliver of wood and place it on the dusty, long disused altar.
+<img class="about-hero" src="/assets/img/covehithe-church.jpg"
+     alt="Covehithe Church">
 
-From there, I use an interesting little device I was given as a boy by a very pious lady in church (C-of-E), whose husband was, for want of a better way of putting it, a “brilliant reprobate”. I can configure the device (radionic) to emit certain frequencies that will get me into contact with Duke Bune, or any other spirit, for that matter.
+**I draw his seal on a sliver of wood and place it on the dusty, long disused altar...**
 
-When I hear Duke Bune’s voice through the small speaker attached to the device I set about making a deal to “help our dear friend in need.”
+From there, I use an interesting little device I built — having been shown how to make it when I was a teenager by a local "boffin" (amateur scientist) who was, for want of a better way of putting it, a “brilliant reprobate”.
 
-Now the money will start to flow to you, often from unexpected sources, or through existing channels, such as getting pay rises or promotion, or your business seriously getting on the up.
+I can configure the device (radionic) to emit certain frequencies that will get me into contact with Duke Bune, or any other spirit, for that matter.
+
+> When I hear Duke Bune’s voice through the static of the small speaker attached to the device I set about making a deal to “help my dear friend to manifest wealth, financial acuity and remarkable good fortune in their life.”
+
+Now the money will start to flow to you through both existing channels and from unexpected sources, along with deals being struck and making new profitable contacts. All in  all, your enterprises will start reaping dividends. 
 
 ### Ready to call on infernal power?
 
@@ -33,7 +38,10 @@ Now the money will start to flow to you, often from unexpected sources, or throu
 
 *All workings are conducted personally by Doktor Snake and prepared specifically for the client.*
 
-<p class="text">→ If you wish to move ahead with this working, <strong><a href="/contact/">fire me an email</a></strong>, and I'll send you a Paypal (or Stripe) payment request — from there we'll get the show on the road.</p>
+<a href='https://www.fatfreecartpro.com/ecom/gb.php?&c=cart&ejc=2&cl=434879&i=1898447' onclick='return EJEJC_lc(this);' style='display:inline-block;background: #3da5d9 url(https://www.e-junkie.com/ej/images/newaddtocart.png) center/100px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);text-decoration: none;' target='ej_ejc' class='ec_ejc_thkbx'>&nbsp;</a>&nbsp;<a href="https://www.fatfreecartpro.com/ecom/gb.php?c=cart&ejc=2&cl=434879" target="ej_ejc" class="ec_ejc_thkbx" onclick="return EJEJC_lc(this);" style="display:inline-block;background: #3da5d9 url(https://www.e-junkie.com/ej/images/newviewcart.png) center/90px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);cursor: pointer;text-decoration: none;">&nbsp;</a>
+
+<script type="text/javascript">function EJEJC_lc(th) { return false; }; </script>
+<script src="https://www.fatfreecartpro.com/ecom/box_fb_n.js" type="text/javascript"></script>
 
 ⇛ Payment plans available on request — <a href="/contact/">email me.</a>
 
