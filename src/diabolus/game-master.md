@@ -113,3 +113,10 @@ Bitcoin or other crypto accepted.<br>
 
 </div>
 
+---
+
+## About Goetia Workings
+
+Having worked the left-hand-path for decades, I've honed my take on the classic conjurations from the *Ars Goetia* — the infamous grimoire known as the *Lesser Key of Solomon*.
+
+Compiled in the 17th century from much older sources, it outlines 72 spirits of great power — once gods, later demonised — that can be called upon to **shift the fabric of reality in your favour**.

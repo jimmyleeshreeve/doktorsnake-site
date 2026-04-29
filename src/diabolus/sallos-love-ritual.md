@@ -13,7 +13,7 @@ noindex: false
 <img class="about-hero" src="/assets/img/duke-sallos-ruined-church.jpg"
      alt="Duke Sallos riding alligator rural Suffolk at twilight">
 
-This one is for sealing the deal with the man or woman you love, but things haven't yet progressed into a relationship. It's for moving along the path of true love.
+**This one is for sealing the deal with the man or woman you love, but things haven't yet progressed into a relationship. It's for moving forwards the path of true love.**
 
 It calls upon Duke Sallos, featured in the 17th century *Ars Goetia* manuscript, and depicted as a gallant soldier, wearing the crown of a duke, and riding upon an alligator. Sallos is known for being a matchmaker, and fostering mutual love between men and women.
 
