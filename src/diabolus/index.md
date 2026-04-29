@@ -54,6 +54,17 @@ These Faustian workings are conducted in the wilds of Suffolk. Often at a desola
 </div>
 
 <div class="card">
+  <h3>Duke Sallos' Remarkable Love Ritual</h3>
+  <p class="text">
+  For bringing that special person into your life for a committed relationship and/or marriage.
+  </p>
+  <p><a class="btn" href="/diabolus/sallos-love-ritual/">View Love Ritual →</a></p>
+</div>
+
+
+
+
+<div class="card">
   <h3>Barbatos :: Hidden Money Working</h3>
   <p class="text">
   Unearth hidden channels of money and attract unexpected windfalls.
