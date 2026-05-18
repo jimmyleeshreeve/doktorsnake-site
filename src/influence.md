@@ -46,4 +46,15 @@ The work is designed to shift the pattern around that situation and bring the re
   <p><a class="btn" href="/gigablast/">View GigaBlast →</a></p>
 </div>
 
+## Ancient Influence
+
+Rituals conducted out in the wilds at SnakeWood between two ancient mounds, side-by-side, standing like sentinels, and part of an archaic imaginal landscape dating back to Neolithic Times.
+
+<div class="card">
+  <h3>SNAKEWOOD TALISMANS</h3>
+  <p class="text">
+  Prepared and worked in an ancient English ritual landscape
+  </p>
+  <p><a class="btn" href="/snakewood/">View SnakeWood →</a></p>
+</div>
 
