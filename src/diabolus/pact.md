@@ -13,7 +13,7 @@ noindex: true
 
 > You don’t sell your soul — you reclaim it.
 
-<img class="about-hero" src="/assets/img/ds-header.jpg"
+<img class="about-hero" src="/assets/img/ds-logo.jpg"
      alt="Doktor Snake Books and Press Cuttings">
  
 ## Ask yourself:

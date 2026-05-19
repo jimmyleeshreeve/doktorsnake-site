@@ -26,7 +26,33 @@ I'm <a href="/about/">Doktor Snake</a> — magician, philosopher, fixer.
 
 For outsiders that see too much, feel too deep, and refuse to quit.
 
----
+<section class="home-feature home-feature--grimwire">
+  <div class="home-feature-copy">
+    <p class="home-feature-kicker">Pact</p>
+    <h2>THE DEVIL'S PACT</h2>
+    <p class="home-feature-lead">
+      Gain wealth, power and dominance (and any other damn thing you desire)...
+    </p>
+    <p>
+      With the most powerful magick on this spinning Earth.
+    </p>
+    <p>
+        Invoke — Transform — Rule.
+    </p>
+    <p class="home-feature-actions">
+      <a class="btn btn-deploy" href="/diabolus/pact/">View Pact</a>
+      <a class="btn" href="/diabolus/">See All Diabolus Workings</a>
+    </p>
+  </div>
+
+  <div class="home-feature-media">
+    <img
+      src="/assets/img/ds-header.jpg"
+      alt="Doktor Snake books and press cuttings"
+      class="home-feature-cover"
+    >
+  </div>
+</section>
 
 ## Choose Your Weapon
 
@@ -49,7 +75,7 @@ For outsiders that see too much, feel too deep, and refuse to quit.
 <div class="card">
   <h3>DOKOLOGY (Mind-Tech)</h3>
   <p class="text">
-    Stop inner-noise. Rewrite your code. Full-spectrum 1-1 mentorship with Doktor Snake
+    Full-spectrum 1-1 mentorship with Doktor Snake
   </p>
   <p><a class="btn" href="/dokology/">View Dokology →</a></p>
 </div>
@@ -60,6 +86,14 @@ For outsiders that see too much, feel too deep, and refuse to quit.
    Get clarity, insight, direction.
   </p>
   <p><a class="btn" href="/readings/">View Readings →</a></p>
+</div>
+
+<div class="card">
+  <h3>RETAINER</h3>
+  <p class="text">
+   Monthly Workings · Direct Access · Strategic Influence
+  </p>
+  <p><a class="btn" href="/retainer/">View Retainer →</a></p>
 </div>
 
 <div class="card">
