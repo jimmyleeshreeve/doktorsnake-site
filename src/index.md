@@ -47,7 +47,7 @@ For outsiders that see too much, feel too deep, and refuse to quit.
 
   <div class="home-feature-media">
     <img
-      src="/assets/img/ds-header.jpg"
+      src="/assets/img/ds-logo.jpg"
       alt="Doktor Snake books and press cuttings"
       class="home-feature-cover"
     >
