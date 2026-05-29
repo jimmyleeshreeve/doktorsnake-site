@@ -47,8 +47,8 @@ For outsiders that see too much, feel too deep, and refuse to quit.
 
   <div class="home-feature-media">
     <img
-      src="/assets/img/ds-logo.jpg"
-      alt="Doktor Snake books and press cuttings"
+      src="/assets/img/darkness-devils-pact.jpg"
+      alt="Darkness rock band make pact with the Devil."
       class="home-feature-cover"
     >
   </div>
@@ -237,7 +237,7 @@ DoktorSnake.io (Substack) is where I drop the real code — magick, psionics, UA
 <div class="card">
   <h3>Substack</h3>
   <p class="text">
-   Magick. Psionics. Cognitive Warfare. Hack the system.
+   Magick & Psionics. Devils & Demons. UFOs & Paranormal
   </p>
   <p><a class="btn" href="https://doktorsnake.io" target="_blank" rel="noopener noreferrer">View Substack →</a></p>
 </div>
