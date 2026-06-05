@@ -13,7 +13,7 @@ I'll get back to you soon!
 ---
 
 Check out my Substack for articles, podcasts, and videos   
-https://www.doktorsnake.io/
+[https://www.doktorsnake.io/](https://www.doktorsnake.io/)
 
 — Doktor Snake
 
