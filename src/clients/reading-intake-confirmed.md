@@ -1,21 +1,18 @@
 ---
-title: Signal Received
-description: Your Field Reading details have been received.
+title: Questionnaire Received
+description: Your Reading details have been received.
 permalink: /clients/reading-intake-confirmed/
 layout: layout.njk
 noindex: true
 ---
 
-# Signal Received
+# Questionnaire Received
 
-`Field Reading Intake Confirmed`
+I've received your reading question and details.
 
-Your details have been received.
+Delivery is typically within 48 hours.
 
-Your Field Reading will be delivered within 48 hours.
-
-No further action is needed unless I contact you for clarification.
+I'll be in touch if I need any further clarification.
 
 ---
 
-`Hold steady.`
