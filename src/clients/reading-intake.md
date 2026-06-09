@@ -45,7 +45,7 @@ noindex: true
     <textarea id="outcome" name="desired_outcome" rows="4" style="width:100%;padding:10px;margin-top:6px;"></textarea>
   </p>
 
-  <input type="hidden" name="_subject" value="New Field Reading Intake">
+  <input type="hidden" name="_subject" value="New Reading Intake">
   <input type="hidden" name="_next" value="https://doktorsnake.com/reading-intake-confirmed/">
 
   <p>

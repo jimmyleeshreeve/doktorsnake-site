@@ -51,7 +51,7 @@ With the gates open, the spirit grants blessings of wealth, timing, confidence, 
 
 If you need a serious advantage in uncertain economic times, the Key To Riches ritual is your secret weapon for wealth, stability, and growth.
 
-🔑 **Acvate the Key To Riches**
+🔑 **Activate the Key To Riches**
 
 ### INVESTMENT :: $750 USD
 
