@@ -5,7 +5,7 @@ description: Distance Influence, five intentions, high-level psionics working �
 permalink: /gigablast/
 ---
 
-# GigaBlast — Results Magick
+# GigaBlast — Strategic Spellworking
 
 <p class="text">TIER III: Five-Intention Influence Working.</p>
 
