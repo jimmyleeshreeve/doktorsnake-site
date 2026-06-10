@@ -1,32 +1,108 @@
 ---
 layout: layout.njk
 title: About Doktor Snake
-description: Pattern Fixer · Strategic Influencer
+description: Author. Former national newspaper journalist. Investigator. Experimenter.
 ---
 
-# About Doktor Snake / Jimmy Lee Shreeve
-
-`Pattern Fixer · Strategic Influencer`
+# About Doktor Snake
 
 <img class="about-hero" src="/assets/img/og-doktorsnake.jpg"
      alt="Doktor Snake — magick, psionics, remote viewing">
+     
+I'm Jimmy Lee Shreeve, better known as Doktor Snake.
 
-I’m an author and journalist — my byline having appeared in The Independent, Daily Telegraph, Sunday Telegraph, Daily Express, Financial Times, and other international publications. Books-wise I’ve been published by Random House, St Martin’s Press, John Blake, and Orion.
+Author.  
+Former national newspaper journalist.  
+Investigator.  
+Experimenter.  
 
-**I’m now mostly known for my work as Doktor Snake, providing clients with direct influence work (magick and psionics), remote viewing, and mentorship in mind-tech.**
+Student of consciousness, folklore, psychology, strategy and unusual ideas.
+     
+My byline has appeared in The Independent, Daily Telegraph, Sunday Telegraph, Daily Express, Financial Times, and other international publications.
 
-Oh and there’s my involvement in tech, which goes back a long way, working with software firms and high-level enterprises with global reach. I still keep my finger in the pie, especially with AI — and yes I typically code my own websites as it keeps you out of the clutches of endless subscriptions and bloat.
-
-Code is an art form. It might be under the hood, but everything comes from it — including, it could be argued, reality itself.
-
-* * *
-
-### 📚 Selected Works
+Books include:
 
 -   _Doktor Snake’s Voodoo Spellbook_ (St. Martin’s Press)
 -   _Blood Rites (Random House)_
 -   _Cannibals (John Blake)_
 -   _Mary Jane’s Hash Brownies_ (Cico Books) as “Dr Hash”
+-   _How To Be Famous_ (Orion Books)
+     
+---
+
+After years investigating crime, cults, folklore, unusual beliefs and human behaviour, I became increasingly interested in the hidden forces that shape outcomes.
+     
+People often assume I sell spells.
+
+In reality I help people think more clearly, see situations differently, and apply influence — whether through practical strategy, consciousness training, symbolic methods, or a combination of all three.
+
+This all comes together in my Dokology, Retainer, Influence Workings, and Readings.
+
+---
+
+My central interest has always been conscious awareness.
+
+Learning to observe clearly.  
+To step outside emotional noise.
+
+To recognise patterns before others see them.  
+To act deliberately rather than react automatically.
+
+Much of my work is conducted in the field.
+
+Walking old landscapes.  
+Recording observations.
+
+Following unusual leads.  
+Testing ideas against reality.
+
+The resulting notes, essays and reports are published through Substack (DoktorSnake.io).
+
+---
+
+There are thousands of people selling secrets.
+
+I prefer experiments.
+
+Everything I teach, write about, or offer has been tested in the field.
+
+These are the notes.
+
+⟡◌◯⟡⟡
+
+<br>
+
+<div class="card">
+  <h3>INFLUENCE</h3>
+  <p class="text">
+    Precise, powerful. Shifts outcomes, reshapes probabilities.
+  </p>
+  <p><a class="btn" href="/influence/">View Influence →</a></p>
+</div>
+
+<div class="card">
+  <h3>DOKOLOGY</h3>
+  <p class="text">
+    Full-spectrum 1-1 mentorship with Doktor Snake
+  </p>
+  <p><a class="btn" href="/dokology/">View Dokology →</a></p>
+</div>
+
+<div class="card">
+  <h3>BOOK A READING</h3>
+  <p class="text">
+   Get clarity, insight, direction.
+  </p>
+  <p><a class="btn" href="/readings/">View Readings →</a></p>
+</div>
+
+<div class="card">
+  <h3>VISIT SUBSTACK</h3>
+  <p class="text">
+   Exploring consciousness in strange times.
+  </p>
+  <p><a class="btn" href="https://doktorsnake.io" target="_blank" rel="noopener noreferrer">View Substack →</a></p>
+</div>
 
 <div class="book-grid">
   <img src="/assets/img/blood-rites.jpg" alt="Blood Rites — Jimmy Lee Shreeve">
@@ -36,22 +112,6 @@ Code is an art form. It might be under the hood, but everything comes from it �
   <img src="/assets/img/voodoo-spellbook.jpg" alt="Doktor Snake’s Voodoo Spellbook">
   <img src="/assets/img/voodoo-spellbook-new-edition.jpg" alt="Doktor Snake’s Voodoo Spellbook (New Edition)">
 </div>
-
-### 🎵 Musical Endeavors
-
-In earlier decades, I was active in various music projects — me on voice and guitar when playing live…. in the studio doing keyboards, drum machines, etc.
-
-### 🌐 Online Presence
-
-- **Website**: <a href="https://doktorsnake.com">DoktorSnake.com</a>
-- **Substack**: <a href="https://doktorsnake.io" target="_blank" rel="noopener noreferrer">DoktorSnake.io</a>
-- **YouTube:** <a href="https://www.youtube.com/@EdgeCult" target="_blank" rel="noopener noreferrer">YouTube/@EdgeCult</a>
-- **Contact Hub:** <a href="https://doktorsnake.me" target="_blank" rel="noopener noreferrer">ContactHub</a>
-
-***
-
-→ For a more complete bio, head over to my Substack at:   
-<a href="https://www.doktorsnake.io/about" target="_blank" rel="noopener noreferrer">https://www.doktorsnake.io/about</a>
 
 
 
