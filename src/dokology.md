@@ -28,9 +28,9 @@ This is where ancient mind-tech meets cybernetic thinking: functional, grounded,
 - **Stopping internal dialogue** — command of mind-noise for clarity when you need it
 - **Emotional regulation** without suppression — you at the helm of your life, not your emotions
 - **Situational field-mapping** — enhanced perception of people, systems, and hidden dynamics
-- **Decision engineering** & strategic timing — positioning you precisely where opportunity converges
-- **Modern psionics** — for insight generation, signal detection, and non-obvious advantage
-- **Application of 5GW thinking** and the OODA Loop for personal advantage
+- **Decision engineering & strategic timing** — positioning you precisely where opportunity converges
+- **Modern psionics** — for insight generation, signal detection, and non-obvious advantage and influence
+- **Application of 5GW thinking and the OODA Loop** for personal advantage
 
 Clients enter Dokology for clarity, timing, emotional sovereignty, and the ability to navigate complex situations without being ruled by internal noise or external chaos.
 
@@ -47,7 +47,7 @@ It is not for those seeking passive motivation or surface-level advice.
 ## **How It Works**
 
 Dokology operates as a private annual advisory.   
-Each client receives **one-to-one guidance**, tactical mind-tech, and practical tools for navigating modern life with clarity and power.
+Each client receives **one-to-one guidance**, tactical mind-tech, and practical tools for navigating modern life with clarity and power.  
 Everything is bespoke — shaped around your goals, challenges, and evolution.
 
 ## What You Receive

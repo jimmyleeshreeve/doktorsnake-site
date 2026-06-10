@@ -1,11 +1,11 @@
 ---
-title: MegaBlast — Results Magick
+title: MegaBlast — Strategic Spellworking
 layout: layout.njk
 description: Three-vector Distance Influence working — prosperity, love, legal edge, luck shift.
 permalink: /megablast/
 ---
 
-# MegaBlast — Results Magick
+# MegaBlast — Strategic Spellworking
 
 <p class="text">TIER II: Three-Intention Influence Working.</p>
 

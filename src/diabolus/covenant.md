@@ -1,6 +1,7 @@
 ---
 title: Satan's Money Covenant
 layout: layout.njk
+description: Brings you money – even in a shot-up economy.
 noindex: true
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: The Diabolus Files
 layout: layout.njk
+description: Faustian workings conducted in the wilds of Suffolk.
 noindex: true
 ---
 
@@ -101,9 +102,17 @@ These Faustian workings are conducted in the wilds of Suffolk. Often at a desola
   <p><a class="btn" href="/diabolus/bune-ritual">View Bune Ritual →</a></p>
 </div>
 
+<div class="card">
+  <h3>Necrom</h3>
+  <p class="text">
+  Petitions the almighty, Earth-shattering power of this Underworld deity.
+  </p>
+  <p><a class="btn" href="/diabolus/necrom/">View Necrom →</a></p>
+</div>
+
 ---
 
-## About Goetia Workings
+## About Faustian Workings
 
 Having worked the left-hand-path for decades, I've honed my take on the classic conjurations from the *Ars Goetia* — the infamous grimoire known as the *Lesser Key of Solomon*.
 

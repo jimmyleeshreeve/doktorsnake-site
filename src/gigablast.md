@@ -1,5 +1,5 @@
 ---
-title: GigaBlast — Results Magick
+title: GigaBlast — Strategic Spellworking
 layout: layout.njk
 description: Distance Influence, five intentions, high-level psionics working — designed for complex, high-stakes situations.
 permalink: /gigablast/
@@ -9,14 +9,12 @@ permalink: /gigablast/
 
 <p class="text">TIER III: Five-Intention Influence Working.</p>
 
-`Multi.Objectives · Strategic.Influence`
-
 <img class="about-hero" src="/assets/img/distance-influence.jpg"
      alt="GigaBlast">
 
 **Recommended when the situation carries significant consequences.**
 
-Multi-vector ritual for high-stakes situations. Choose up to five intentions.
+Multi-outcome ritual for high-stakes situations. Choose up to five intentions.
 
 Also known as the Black Rite — designed for complex, high-pressure, or deeply entangled situations.
 

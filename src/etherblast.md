@@ -1,11 +1,11 @@
 ---
-title: EtherBlast — Results Magick
+title: EtherBlast — Strategic Spellworking
 layout: layout.njk
 description: Old-world working mixed with modern Distance Influence, tuned to a single outcome.
 permalink: /etherblast/
 ---
 
-# EtherBlast — Results Magick
+# EtherBlast — Strategic Spellworking
 
 <p class="text">TIER I: One-Intention Psi Working</p>
 
