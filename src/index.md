@@ -1,12 +1,12 @@
 ---
 layout: layout.njk
 title: Magick That Works
-description: Occult Fixer. Spiritual Outlaw. Results Magick
+description: Occult Fixer. Spiritual Outlaw. Results Magician.
 ---
 
 # Doktor Snake
 
-<p class="text">Occult Fixer. Spiritual Outlaw. Results Magick</p>
+<p class="text">Occult Fixer. Spiritual Outlaw. Results Magician</p>
 
 <p>❝&nbsp;When the game around you stops playing straight...</br>
 When logic alone no longer moves the pieces...</br>
@@ -25,34 +25,6 @@ I can help you break the code.
 I'm <a href="/about/">Doktor Snake</a> — magician, philosopher, fixer.
 
 For outsiders that see too much, feel too deep, and refuse to quit.
-
-<section class="home-feature home-feature--grimwire">
-  <div class="home-feature-copy">
-    <p class="home-feature-kicker">Pact</p>
-    <h2>THE DEVIL'S PACT</h2>
-    <p class="home-feature-lead">
-      Gain wealth, power and dominance (and any other damn thing you desire)...
-    </p>
-    <p>
-      With the most powerful magick on this spinning Earth.
-    </p>
-    <p>
-        Invoke — Transform — Rule.
-    </p>
-    <p class="home-feature-actions">
-      <a class="btn btn-deploy" href="/diabolus/pact/">View Pact</a>
-      <a class="btn" href="/diabolus/">See All Diabolus Workings</a>
-    </p>
-  </div>
-
-  <div class="home-feature-media">
-    <img
-      src="/assets/img/darkness-devils-pact.jpg"
-      alt="Darkness rock band make pact with the Devil."
-      class="home-feature-cover"
-    >
-  </div>
-</section>
 
 ## Choose Your Weapon
 
@@ -250,18 +222,6 @@ Discover my workings and readings.
   <a class="btn" href="/influence/">Influence</a>
   <a class="btn" href="/readings/">Readings</a>
   <a class="btn" href="/diabolus/">Diabolus</a>
-</p>
-
----
-
-## Elsewhere
-
-Substack for articles, podcasts, and videos. Youtube Shorts for simulation glitches and liminal places.
-
-<p style="margin-top:14px">
-  <a class="btn" href="https://doktorsnake.io" target="_blank" rel="noopener noreferrer">Substack</a>
-  <a class="btn" href="https://www.youtube.com/@EdgeCult" target="_blank" rel="noopener noreferrer">YouTube</a>
-  <a class="btn" href="https://doktorsnake.me" target="_blank" rel="noopener noreferrer">ContactHub</a>
 </p>
 
 ---
