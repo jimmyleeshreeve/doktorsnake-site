@@ -12,33 +12,30 @@ noindex: false
 
 Most people come to me when they're facing a decision.
 
-A relationship issue.
-
-A career crossroads.
-
-A business challenge.
-
+A relationship issue.  
+A career crossroads.  
+A business challenge.  
 A recurring pattern they can't quite make sense of.
 
 My readings combine symbolic prompts, intuition, and forty years of experience studying people, behaviour, decision-making, and unusual ideas.
 
+---
+
 I don't use tarot cards to predict the future.
 
-I use them to reveal patterns.
-
+I use them to reveal patterns.  
 The future is built from patterns.
 
 The cards help uncover blind spots, opportunities, hidden assumptions, and likely trajectories.
 
-Sometimes the answer is obvious.
-
+Sometimes the answer is obvious.  
 Sometimes it's hiding in plain sight.
 
 Either way, the goal is clarity.
 
 Not fortune-telling.
 
-Clarity.
+<p class="text">Clarity.</p>
 
 <img class="about-hero" src="/assets/img/airship-cat-owl.jpg"
      alt="Rural Suffolk airship, cat and owl">
