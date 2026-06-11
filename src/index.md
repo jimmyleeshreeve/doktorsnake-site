@@ -29,27 +29,11 @@ For outsiders that see too much, feel too deep, and refuse to quit.
 ## Choose Your Weapon
 
 <div class="card">
-  <h3>DISTANCE INFLUENCE (Magick)</h3>
+  <h3>DISTANCE INFLUENCE (Strategic Spellworkings)</h3>
   <p class="text">
     Precise, powerful. Shifts outcomes, reshapes probabilities.
   </p>
   <p><a class="btn" href="/influence/">View Influence →</a></p>
-</div>
-
-<div class="card">
-  <h3>GOETIA (Diabolus)</h3>
-  <p class="text">
-    Heavy artillery. Opens locked doors. Commanding force.
-  </p>
-  <p><a class="btn" href="/diabolus/">View Goetia →</a></p>
-</div>
-
-<div class="card">
-  <h3>DOKOLOGY (Mind-Tech)</h3>
-  <p class="text">
-    Full-spectrum 1-1 mentorship with Doktor Snake
-  </p>
-  <p><a class="btn" href="/dokology/">View Dokology →</a></p>
 </div>
 
 <div class="card">
@@ -61,6 +45,22 @@ For outsiders that see too much, feel too deep, and refuse to quit.
 </div>
 
 <div class="card">
+  <h3>DISPATCH</h3>
+  <p class="text">
+   Private running log of workings (new and classic), notes, and field reports.
+  </p>
+  <p><a class="btn" href="/dispatch/">View Dispatch →</a></p>
+</div>
+
+<div class="card">
+  <h3>DOKOLOGY (Mind-Tech)</h3>
+  <p class="text">
+    Full-spectrum 1-1 mentorship with Doktor Snake
+  </p>
+  <p><a class="btn" href="/dokology/">View Dokology →</a></p>
+</div>
+
+<div class="card">
   <h3>RETAINER</h3>
   <p class="text">
    Monthly Workings · Direct Access · Strategic Influence
@@ -69,11 +69,11 @@ For outsiders that see too much, feel too deep, and refuse to quit.
 </div>
 
 <div class="card">
-  <h3>DISPATCH</h3>
+  <h3>GOETIA (Diabolus)</h3>
   <p class="text">
-   Private running log of workings (new and classic), notes, and field reports.
+    Heavy artillery. Opens locked doors. Commanding force.
   </p>
-  <p><a class="btn" href="/dispatch/">View Dispatch →</a></p>
+  <p><a class="btn" href="/diabolus/">View Goetia →</a></p>
 </div>
 
 ## Why They Come To Me (Again And Again)
