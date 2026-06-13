@@ -42,3 +42,12 @@ Observe what changes.
 </div>
 
 </div>
+<br>
+<div class="operator-card">
+  <h3>Read The Operator Lexicon</h3>
+  <div class="operator-title">A quiet page for those who notice things.</div>
+  <p class="operator-desc">
+  The Edge Cult doesn’t use slogans or tired tribal language. Operators speak in signal, not slang. If you’ve found this page, you’re already inside the layer.
+  </p>
+  <p><a class="btn" href="/operators/operator-lexicon/">Open File →</a></p>
+</div>

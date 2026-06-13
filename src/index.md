@@ -8,9 +8,9 @@ description: Occult Fixer. Spiritual Outlaw. Results Magician.
 
 <p class="text">Occult Fixer. Spiritual Outlaw. Results Magician</p>
 
-<p>❝&nbsp;When the game around you stops playing straight...</br>
+<p>"When the game around you stops playing straight...</br>
 When logic alone no longer moves the pieces...</br>
-That’s when people call Doktor Snake.❞&nbsp;</p>
+That’s when people call Doktor Snake."</p>
 
 <img class="about-hero" src="/assets/img/ds-logo.jpg" alt="Doktor Snake">
 
@@ -45,11 +45,11 @@ For outsiders that see too much, feel too deep, and refuse to quit.
 </div>
 
 <div class="card">
-  <h3>DISPATCH</h3>
+  <h3>OPERATORS</h3>
   <p class="text">
-   Private running log of workings (new and classic).
+   Tactical transmissions — digital products designed to sharpen perception & clarity
   </p>
-  <p><a class="btn" href="/dispatch/">View Dispatch →</a></p>
+  <p><a class="btn" href="/operators/">View Operators →</a></p>
 </div>
 
 <div class="card">
@@ -74,6 +74,14 @@ For outsiders that see too much, feel too deep, and refuse to quit.
     Heavy artillery. Opens locked doors. Commanding force.
   </p>
   <p><a class="btn" href="/diabolus/">View Goetia →</a></p>
+</div>
+
+<div class="card">
+  <h3>DISPATCH</h3>
+  <p class="text">
+   Private running log of workings (new and classic).
+  </p>
+  <p><a class="btn" href="/dispatch/">View Dispatch →</a></p>
 </div>
 
 ## Why They Come To Me (Again And Again)
