@@ -1,7 +1,8 @@
 ---
 title: Operators
+description: Tactical transmissions — digital products designed to sharpen perception, interrupt automatic thinking, strengthen independent judgment.
 layout: layout.njk
-noindex: true
+noindex: false
 ---
 
 # Operators

@@ -1,7 +1,9 @@
 ---
 title: Operator Lexicon — Signal Edition
+description: The Edge Cult doesn’t use slogans or tired tribal language. Operators speak in signal, not slang.
 layout: layout.njk
-noindex: true
+noindex: false
+permalink: /operators/operator-lexicon/
 ---
 
 # ⟗ O·L·S·Ξ ⟗

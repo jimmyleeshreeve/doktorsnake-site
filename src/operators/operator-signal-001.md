@@ -1,6 +1,8 @@
 ---
 title: Operator Signal 001 — Pattern Before Story
+description: Operators learn to step outside the story long enough to observe the pattern.
 layout: layout.njk
+permalink: /operators/operator-signal-001/
 ---
 
 # Operator Signal 001 — Pattern Before Story

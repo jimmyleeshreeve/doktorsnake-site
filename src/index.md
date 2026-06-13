@@ -29,7 +29,7 @@ For outsiders that see too much, feel too deep, and refuse to quit.
 ## Choose Your Weapon
 
 <div class="card">
-  <h3>DISTANCE INFLUENCE (Strategic Spellworkings)</h3>
+  <h3>INFLUENCE (Strategic Spellworkings)</h3>
   <p class="text">
     Precise, powerful. Shifts outcomes, reshapes probabilities.
   </p>
@@ -39,7 +39,7 @@ For outsiders that see too much, feel too deep, and refuse to quit.
 <div class="card">
   <h3>READINGS</h3>
   <p class="text">
-   Get clarity, insight, direction.
+   Insight, perspective, and practical guidance for the road ahead.
   </p>
   <p><a class="btn" href="/readings/">View Readings →</a></p>
 </div>
@@ -47,7 +47,7 @@ For outsiders that see too much, feel too deep, and refuse to quit.
 <div class="card">
   <h3>DISPATCH</h3>
   <p class="text">
-   Private running log of workings (new and classic), notes, and field reports.
+   Private running log of workings (new and classic).
   </p>
   <p><a class="btn" href="/dispatch/">View Dispatch →</a></p>
 </div>
