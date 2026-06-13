@@ -53,6 +53,14 @@ For outsiders that see too much, feel too deep, and refuse to quit.
 </div>
 
 <div class="card">
+  <h3>DIGITAL TALISMANS + OLD WORLD ARTEFACTS</h3>
+  <p class="text">
+   Charged with etheric power to impact the reality framework and actualise desires.
+  </p>
+  <p><a class="btn" href="/digital-talismans/">View Talismans →</a></p>
+</div>
+
+<div class="card">
   <h3>DOKOLOGY (Mind-Tech)</h3>
   <p class="text">
     Full-spectrum 1-1 mentorship with Doktor Snake
