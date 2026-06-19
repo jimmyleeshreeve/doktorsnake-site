@@ -37,6 +37,14 @@ For outsiders that see too much, feel too deep, and refuse to quit.
 </div>
 
 <div class="card">
+  <h3>GOETIA (Diabolus)</h3>
+  <p class="text">
+    Heavy artillery. Opens locked doors. Commanding force.
+  </p>
+  <p><a class="btn" href="/diabolus/">View Goetia →</a></p>
+</div>
+
+<div class="card">
   <h3>READINGS</h3>
   <p class="text">
    Insight, perspective, and practical guidance for the road ahead.
@@ -74,14 +82,6 @@ For outsiders that see too much, feel too deep, and refuse to quit.
    Monthly Workings · Direct Access · Strategic Influence
   </p>
   <p><a class="btn" href="/retainer/">View Retainer →</a></p>
-</div>
-
-<div class="card">
-  <h3>GOETIA (Diabolus)</h3>
-  <p class="text">
-    Heavy artillery. Opens locked doors. Commanding force.
-  </p>
-  <p><a class="btn" href="/diabolus/">View Goetia →</a></p>
 </div>
 
 <div class="card">
