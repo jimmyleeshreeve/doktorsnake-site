@@ -10,6 +10,9 @@ noindex: false
 
 > Insight, perspective, and practical guidance for the road ahead.
 
+<img class="about-hero" src="/assets/img/thoth-deck.jpg"
+     alt="Thoth Tarot Deck">
+
 Most people come to me when they're facing a decision.
 
 A relationship issue.  
@@ -37,8 +40,7 @@ Not fortune-telling.
 
 <p class="text">Clarity.</p>
 
-<img class="about-hero" src="/assets/img/airship-cat-owl.jpg"
-     alt="Rural Suffolk airship, cat and owl">
+---
      
 A reading may use the Thoth Tarot, intuitive insight, or both.
 
