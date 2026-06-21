@@ -84,14 +84,6 @@ For outsiders that see too much, feel too deep, and refuse to quit.
   <p><a class="btn" href="/retainer/">View Retainer →</a></p>
 </div>
 
-<div class="card">
-  <h3>DISPATCH</h3>
-  <p class="text">
-   Private running log of workings (new and classic).
-  </p>
-  <p><a class="btn" href="/dispatch/">View Dispatch →</a></p>
-</div>
-
 ## Why They Come To Me (Again And Again)
 
 - 25-years in the occult trenches — real results, not theory.
@@ -213,6 +205,36 @@ The only question left is simple:
     <summary>Is this confidential?</summary>
     <p>Always. Discretion is absolute — no names, no leaks, ever.</p>
   </details>
+
+</section>
+
+---
+
+<section class="whats-new">
+
+  <h2>Field Updates</h2>
+
+  <h3>Latest Dispatches</h3>
+
+  <ul class="terminal-log">
+    {% for post in collections.latestDispatches %}
+      <li>
+        <span class="log-date">[{{ post.date | htmlDateString }}]</span>
+        <a href="{{ post.url }}">{{ post.data.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <h3>Site Updates</h3>
+
+  <ul class="terminal-log">
+    {% for update in siteUpdates %}
+      <li>
+        <span class="log-date">[{{ update.date }}]</span>
+        <a href="{{ update.url }}">{{ update.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
 
 </section>
 

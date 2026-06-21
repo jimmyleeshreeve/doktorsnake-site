@@ -4,6 +4,12 @@ module.exports = function (eleventyConfig) {
   // Copy entire assets folder (img, audio, etc.)
   eleventyConfig.addPassthroughCopy({ "src/assets": "assets" });
 
+  eleventyConfig.addCollection("latestDispatches", function(collectionApi) {
+    return collectionApi.getFilteredByTag("dispatch")
+      .sort((a, b) => b.date - a.date)
+      .slice(0, 3);
+  });
+
   // Copy favicon directly to root
   eleventyConfig.addPassthroughCopy({ "src/assets/img/favicon.ico": "favicon.ico" });
 
@@ -45,3 +51,4 @@ module.exports = function (eleventyConfig) {
     }
   };
 };
+

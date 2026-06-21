@@ -1491,3 +1491,48 @@ body::after{
     max-width:200px;
   }
 }
+
+
+/* ===== UPDATES: TERMINAL LOG STYLE ===== */
+
+.whats-new {
+  margin-top: 4rem;
+  padding-top: 2rem;
+  border-top: 1px solid var(--border);
+}
+
+.whats-new h2 {
+  margin-bottom: 2rem;
+}
+
+.whats-new h3 {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+.terminal-log {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.terminal-log li {
+  margin-bottom: 1rem;
+  padding-left: 1rem;
+  border-left: 3px solid var(--accent);
+}
+
+.log-date {
+  display: block;
+  font-size: 0.85rem;
+  opacity: 0.7;
+  margin-bottom: 0.25rem;
+  font-family: monospace;
+  color: #00ff66;
+
+}
+
+.terminal-log a {
+  text-decoration: none;
+  font-weight: 500;
+}

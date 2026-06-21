@@ -59,7 +59,7 @@ layout: layout.njk
   A refined, stylised version for active use — something you can keep on your phone, revisit, or place subtly into your environment</p>
 
   <p><strong>Core Sigil</strong><br>
-  The raw structural form derived directly from your original intention</p>
+  The raw (hand-drawn) structural form derived directly from your original intention</p>
 
   <p><strong>Operator Brief</strong><br>
   A short explanation of the structure and how to approach it</p>
