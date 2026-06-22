@@ -7,7 +7,7 @@ permalink: /etherblast/
 
 # EtherBlast — Strategic Spellworking
 
-<p class="text">TIER I: One-Intention Psi Working</p>
+<p class="text">TIER I: One-Intention Psionics Working</p>
 
 `Single.Objective · Distance.Influence`
 
