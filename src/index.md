@@ -26,7 +26,12 @@ I'm <a href="/about/">Doktor Snake</a> — magician, philosopher, fixer.
 
 For outsiders that see too much, feel too deep, and refuse to quit.
 
-<blockquote>→ Sign up to newsletter :: <a href="https://doktorsnake.io/welcome" target="_blank" rel="noopener noreferrer">click here</blockquote>
+<div class="card">
+
+<p><a href="/newsletter/" class="btn">Subscribe to the Newsletter</a></p>
+
+</div>
+
 
 ## Choose Your Weapon
 
@@ -244,14 +249,14 @@ The only question left is simple:
 
 ## The Deep Dive Lives Here
 
-DoktorSnake.io (Substack) is where I drop the real code — magick, psionics, UAP, spooks, remote viewing, and mind-tech... too raw for social media.
+DoktorSnake.io (newsletter) is where I drop the real code — too raw for social media.
 
 <div class="card">
-  <h3>Substack</h3>
+  <h3>Newsletter</h3>
   <p class="text">
-   Magick & Psionics. Devils & Demons. UFOs & Paranormal
+   Dispatches from the edge of consciousness, AI, folklore, and occult technology.
   </p>
-  <p><a class="btn" href="https://doktorsnake.io" target="_blank" rel="noopener noreferrer">View Substack →</a></p>
+  <p><a class="btn" href="/newsletter/">Subscribe now →</a></p>
 </div>
 
 ## Explore
