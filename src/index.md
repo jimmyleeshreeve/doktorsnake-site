@@ -26,7 +26,7 @@ I'm <a href="/about/">Doktor Snake</a> — magician, philosopher, fixer.
 
 For outsiders that see too much, feel too deep, and refuse to quit.
 
-<blockquote>→ Sign up to newsletter :: <a href="https://www.doktorsnake.io/subscribe" target="_blank" rel="noopener noreferrer">click here</blockquote>
+<blockquote>→ Sign up to newsletter :: <a href="https://doktorsnake.io/welcome" target="_blank" rel="noopener noreferrer">click here</blockquote>
 
 ## Choose Your Weapon
 
