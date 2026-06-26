@@ -23,6 +23,9 @@ permalink: /etherblast/
 
    </div>
 
+   <img class="about-hero" src="/assets/img/distance-influence.jpg"
+     alt="EtherBlast">
+
 ## When one problem rises above all others...
 
 Be it money, health, love, interference, protection, the **EtherBlast** strategic spellworking is the sharpest, cleanest way to redirect the current fast.
@@ -133,6 +136,3 @@ Bitcoin or other crypto accepted.<br>
   </p>
 
 </div>
-
-<img class="about-hero" src="/assets/img/distance-influence.jpg"
-     alt="EtherBlast">
