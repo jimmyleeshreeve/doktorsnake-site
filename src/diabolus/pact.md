@@ -13,9 +13,8 @@ noindex: false
 `Invoke — Transform — Rule.`
 
 > **This is about empowering your soul — and reclaiming your agency.**   
-Throughout this work, the "Devil" is used as a literary and philosophical symbol: representing the courage to question, think independently, and act consciously rather than automatically.
-
-> The aim is not to change your religion or beliefs, but to strengthen your awareness, your decision-making, and your ability to shape your own life.
+Throughout this work, the "Devil" is used as a literary and philosophical symbol: representing the courage to question, think independently, and act consciously rather than automatically.   
+The aim is not to change your religion or beliefs, but to strengthen your awareness, your decision-making, and your ability to shape your own life.
 
 <img class="about-hero" src="/assets/img/ds-logo.jpg"
      alt="Doktor Snake Books and Press Cuttings">
