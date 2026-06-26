@@ -1,19 +1,35 @@
 ---
 title: Readings from Doktor Snake
-description: Insight and practical guidance you can use
+description: Insight, perspective, and practical guidance for the road ahead.
 permalink: /readings/
 layout: layout.njk
 noindex: false
 ---
 
+   <div class="card">
+   
 # Readings from Doktor Snake
 
-> Insight, perspective, and practical guidance for the road ahead.
+<p class="text">Insight, perspective, and practical guidance for the road ahead.</p>
+
+✔ Careers, relationship issues, business challenges, something you can't make sense of, and more.
+
+✔ Delivered by email.
+
+✔ Suitable for people of any faith or none
+
+**$77**
+
+<a href='https://www.fatfreecartpro.com/ecom/gb.php?&c=cart&ejc=2&cl=434879&i=1896027' onclick='return EJEJC_lc(this);' style='display:inline-block;background: #26a269 url(https://www.e-junkie.com/ej/images/newaddtocart.png) center/100px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);text-decoration: none;' target='ej_ejc' class='ec_ejc_thkbx'>&nbsp;</a>&nbsp;<a href="https://www.fatfreecartpro.com/ecom/gb.php?c=cart&ejc=2&cl=434879" target="ej_ejc" class="ec_ejc_thkbx" onclick="return EJEJC_lc(this);" style="display:inline-block;background: #26a269 url(https://www.e-junkie.com/ej/images/newviewcart.png) center/90px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);cursor: pointer;text-decoration: none;">&nbsp;</a>
+
+→ Scroll down for Strategic Pattern Reading (Phone)
+
+   </div>
 
 <img class="about-hero" src="/assets/img/thoth-deck.jpg"
      alt="Thoth Tarot Deck">
 
-Most people come to me when they're facing a decision.
+## Most people come to me when they're facing a decision.
 
 A relationship issue.  
 A career crossroads.  
