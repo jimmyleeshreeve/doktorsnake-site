@@ -1,22 +1,30 @@
 ---
-title: GigaBlast — Strategic Spellworking
+title: "Strategic Spellworking :: GigaBlast"
 layout: layout.njk
-description: Distance Influence, five intentions, high-level psionics working — designed for complex, high-stakes situations.
+description: Old-world working mixed with modern remote influence, tuned to five outcomes.
 permalink: /gigablast/
 ---
 
-# GigaBlast — Strategic Spellworking
+   <div class="card">
+# Strategic Spellworking :: GigaBlast
 
-<p class="text">TIER III: Five-Intention Influence Working.</p>
+<p class="text">Old-world working mixed with modern remote influence, tuned to five outcomes.</p>
 
-<img class="about-hero" src="/assets/img/distance-influence.jpg"
-     alt="GigaBlast">
+✔ Finance, relationships, business, removing negativity, and more
 
-**Recommended when the situation carries significant consequences.**
+✔ Progress updates
 
-Multi-outcome ritual for high-stakes situations. Choose up to five intentions.
+✔ Suitable for people of any faith or none
 
-Also known as the Black Rite — designed for complex, high-pressure, or deeply entangled situations.
+**$1,200**
+
+<a href='https://www.fatfreecartpro.com/ecom/gb.php?&c=cart&ejc=2&cl=434879&i=1896024' onclick='return EJEJC_lc(this);' style='display:inline-block;background: #26a269 url(https://www.e-junkie.com/ej/images/newaddtocart.png) center/100px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);text-decoration: none;' target='ej_ejc' class='ec_ejc_thkbx'>&nbsp;</a>&nbsp;<a href="https://www.fatfreecartpro.com/ecom/gb.php?c=cart&ejc=2&cl=434879" target="ej_ejc" class="ec_ejc_thkbx" onclick="return EJEJC_lc(this);" style="display:inline-block;background: #26a269 url(https://www.e-junkie.com/ej/images/newviewcart.png) center/90px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);cursor: pointer;text-decoration: none;">&nbsp;</a>
+
+   </div>
+
+## Recommended when the situation carries significant consequences...
+
+Also known as the Black Rite — the GigaBlast is designed for complex, high-pressure, or deeply entangled situations.
 
 Where the MegaBlast Tier II handles three currents, GigaBlast fires up to **five** distinct intentions into a single, unified field of etheric force.
 
@@ -40,7 +48,7 @@ This GigaBlast working is bespoke. No pre-set formulas. Every sequence is config
 
 ## How The GigaBlast Is Cast
 
-The working is conducted at a secluded site in East Anglia — a place where the ether folds into itself. I enter a deep trance, utilising ancient symbolic systems, while directing psionic patterning to shift the probabilities in your favour.
+The working is conducted at a secluded site in East Anglia — a place where the ether folds into itself. I enter a deep trance, utilising ancient symbolic systems, while directing modern remote influence to shift the probabilities in your favour.
 
 The five intentions are built separately, then bound into a single numinous pulse. This pulse radiates through the field, shifting circumstances on multiple levels: personal, social, emotional, material, and astral.
 
@@ -143,4 +151,5 @@ You can read an abridged version of the story here:
 
 ---
 
-<img class="about-hero" src="/assets/img/own-god.png" alt="Be Your Own God">
+<img class="about-hero" src="/assets/img/distance-influence.jpg"
+     alt="GigaBlast">

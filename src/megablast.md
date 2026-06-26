@@ -1,24 +1,30 @@
 ---
-title: MegaBlast — Strategic Spellworking
+title: "Strategic Spellworking ­:: MegaBlast"
 layout: layout.njk
-description: Three-vector Distance Influence working — prosperity, love, legal edge, luck shift.
+description: Old-world working mixed with high-end remote influence, configured to three outcomes.
 permalink: /megablast/
 ---
 
-# MegaBlast — Strategic Spellworking
+   <div class="card">
+# Strategic Spellworking :: MegaBlast
 
-<p class="text">TIER II: Three-Intention Influence Working.</p>
+<p class="text">Old-world working mixed with high-end remote influence, configured to three outcomes.</p>
 
-Maximum Force. High-potency.
+✔ Financial flow, love, health, clearing negativity, and more
 
-`Three.Objectives / Distance.Influence`
+✔ Progress updates
 
-<img class="about-hero" src="/assets/img/distance-influence.jpg"
-     alt="MegaBlast">
+✔ Suitable for people of any faith or none
 
-Choose three intentions. I orchestrate them into one unified field of etheric influence.
+**$667**
 
-The MegaBlast is a bespoke, three-vector working: you choose **three distinct intentions** — whether that means Prosperity, Protection, Vitality, Love, Legal Edge, Luck Shift, or any combination that fits your situation.
+ <a href='https://www.fatfreecartpro.com/ecom/gb.php?&c=cart&ejc=2&cl=434879&i=1896023' onclick='return EJEJC_lc(this);' style='display:inline-block;background: #26a269 url(https://www.e-junkie.com/ej/images/newaddtocart.png) center/100px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);text-decoration: none;' target='ej_ejc' class='ec_ejc_thkbx'>&nbsp;</a>&nbsp;<a href="https://www.fatfreecartpro.com/ecom/gb.php?c=cart&ejc=2&cl=434879" target="ej_ejc" class="ec_ejc_thkbx" onclick="return EJEJC_lc(this);" style="display:inline-block;background: #26a269 url(https://www.e-junkie.com/ej/images/newviewcart.png) center/90px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);cursor: pointer;text-decoration: none;">&nbsp;</a>
+
+   </div>
+
+## The MegaBlast is a bespoke, three-intention working...
+
+This can be prosperity, protection, vitality, love, legal edge, luck shift, or any combination that fits your situation.
 
 The three intentions are woven together into a single, high-impact field, configured for your unique circumstances.
 
@@ -44,9 +50,9 @@ Once you define the three intentions, I take over: the ritual is entirely person
 
 ## How the Working Operates
 
-I journey to a power-site in Suffolk — where ancestral charge and modern magick meet. There, I conduct a three-phase trance working, aligning the three intentions into a unified energy field.
+I journey to a power-site in Suffolk — where ancestral charge and ancient symbolic systems meet. There, I conduct a deep trance working, aligning the three intentions into a unified energy field.
 
-Through field-manipulation, ancient symbolic systems, and remote influence, your three chosen intentions converge and pulse outward — reshaping your reality-stream on multiple levels simultaneously.
+Through field-manipulation and remote influence, your three chosen intentions converge and pulse outward — reshaping your reality-stream on multiple levels simultaneously.
 
 ### INVESTMENT :: $667 USD
 *All workings are conducted personally by Doktor Snake and prepared specifically for the client.*
@@ -131,3 +137,6 @@ Bitcoin or other crypto accepted.<br>
   </p>
 
 </div>
+
+<img class="about-hero" src="/assets/img/distance-influence.jpg"
+     alt="MegaBlast">
