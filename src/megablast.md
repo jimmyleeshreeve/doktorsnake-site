@@ -6,6 +6,7 @@ permalink: /megablast/
 ---
 
    <div class="card">
+
 # Strategic Spellworking :: MegaBlast
 
 <p class="text">Old-world working mixed with high-end remote influence, configured to three outcomes.</p>

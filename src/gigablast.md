@@ -6,6 +6,7 @@ permalink: /gigablast/
 ---
 
    <div class="card">
+
 # Strategic Spellworking :: GigaBlast
 
 <p class="text">Old-world working mixed with modern remote influence, tuned to five outcomes.</p>
