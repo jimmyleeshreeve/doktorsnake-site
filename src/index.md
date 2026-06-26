@@ -22,16 +22,28 @@ The game might be rigged.
 But you can still hack the system.   
 I can help you break the code.
 
-I'm <a href="/about/">Doktor Snake</a> — magician, philosopher, fixer.
+I'm Doktor Snake — magician, philosopher, fixer.
 
 For outsiders that see too much, feel too deep, and refuse to quit.
 
 <div class="card">
 
+<p><a href="/contact/" class="btn">Contact Doktor Snake</a></p>
+  <p class="text">
+    For bookings, private enquiries, and urgent situations.
+  </p>
+  </div>
+  
+  <div class="card">
+
 <p><a href="/newsletter/" class="btn">Subscribe to the Newsletter</a></p>
+  <p class="text">
+    Field reports, videos, and updates from the edge.
+  </p>
 
 </div>
 
+---
 
 ## Choose Your Weapon
 
@@ -147,7 +159,6 @@ The only question left is simple:
   if (!form) return;
 
   const name = form.querySelector('#ds_name');
-  const service = form.querySelector('select[name="service"]');
   const subject = form.querySelector('#ds_subject');
 
   function updateSubject() {
