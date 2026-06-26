@@ -212,6 +212,11 @@ The only question left is simple:
     <summary>Is this confidential?</summary>
     <p>Always. Discretion is absolute — no names, no leaks, ever.</p>
   </details>
+  
+  <details>
+  <summary>Is this compatible with my religion?</summary>
+  <p>Many clients come from Christian and other religious backgrounds. Dokology does not require any change in religious belief. These workings are intended as practical exercises in focused intention, conscious awareness, and strategic action. They are not acts of religious conversion or worship.</p>
+  </details>
 
 </section>
 

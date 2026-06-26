@@ -1,7 +1,7 @@
 ---
 title: EtherBlast — Strategic Spellworking
 layout: layout.njk
-description: Old-world working mixed with modern Distance Influence, tuned to a single outcome.
+description: Old-world working mixed with modern remote influence, tuned to a single outcome.
 permalink: /etherblast/
 ---
 
@@ -16,7 +16,7 @@ permalink: /etherblast/
 
 When one problem rises above all others — money, health, love, interference, protection — **EtherBlast** is the sharpest, cleanest way to redirect the current fast.
 
-This is old-world working guided by spirit allies and ancestral ground, results magick executed through modern Distance Influence: precise, discreet, and tuned to a single outcome.
+This is old-world working guided by ancient symbolic systems and ancestral ground. It's results magick executed through modern remote influence: precise, discreet, and tuned to a single outcome.
 
 ---
 
@@ -37,7 +37,7 @@ This is old-world working guided by spirit allies and ancestral ground, results 
 
 At twilight, I head to an ancient Neolithic zone in Suffolk — barrow-rooted land where the ether runs close to the surface.
 
-There I enter trance, tune into the field, call on spirit and ancestral allies, and push your chosen intention into the ether with targeted force. Your situation is carried, aligned, and set in motion.
+There I enter trance, tune into the field, and push your chosen intention into the ether with targeted force. Your situation is carried, aligned, and set in motion.
 
 ---
 

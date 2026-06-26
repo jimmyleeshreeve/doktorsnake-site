@@ -14,7 +14,7 @@ permalink: /influence/
 
 My flagship Distance Influence workings are now structured into defined operational tiers - I-III.
 
-All Influence workings utilise modern magick that works in the real world, along with old world elements centred around spirit allies and ancestral ground. All conducted from ancient places of power in East Anglia and followed by a written operational summary.
+All Influence workings utilise modern magick that works in the real world, along with old world elements centred around ancient symbolic systems and ancestral ground. All conducted from places of power in East Anglia and followed by a written operational summary.
 
 ## Strategic Influence
 

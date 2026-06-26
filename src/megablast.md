@@ -44,9 +44,9 @@ Once you define the three intentions, I take over: the ritual is entirely person
 
 ## How the Working Operates
 
-I journey to a power-site in Suffolk — where ancestral charge and modern ether meet. There, I conduct a three-phase trance working, aligning the three intentions into a unified energy field.
+I journey to a power-site in Suffolk — where ancestral charge and modern magick meet. There, I conduct a three-phase trance working, aligning the three intentions into a unified energy field.
 
-Through field-manipulation, spirit petition, and distance influence, your three chosen intentions converge and pulse outward — reshaping your reality-stream on multiple levels simultaneously.
+Through field-manipulation, ancient symbolic systems, and remote influence, your three chosen intentions converge and pulse outward — reshaping your reality-stream on multiple levels simultaneously.
 
 ### INVESTMENT :: $667 USD
 *All workings are conducted personally by Doktor Snake and prepared specifically for the client.*

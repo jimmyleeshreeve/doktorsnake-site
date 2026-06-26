@@ -34,15 +34,15 @@ This is the working for moments when life is shifting on several fronts: relatio
 - Enemy quieting, obstacle removal, conflict resolution
 - A fully custom vector tailored to your exact needs
 
-This GigaBlast working is bespoke. No templates. No pre-set formulas. Every sequence is configured uniquely for your situation.
+This GigaBlast working is bespoke. No pre-set formulas. Every sequence is configured uniquely for your situation.
 
 ---
 
 ## How The GigaBlast Is Cast
 
-The working is conducted at a secluded site in East Anglia — a place where the ether folds into itself. I enter a deep trance, petitioning ancient forces and field intelligences while running Distance Influence through layered spirit negotiations.
+The working is conducted at a secluded site in East Anglia — a place where the ether folds into itself. I enter a deep trance, utilising ancient symbolic systems, while directing psionic patterning to shift the probabilities in your favour.
 
-The five intentions are built separately, then bound into a single dark pulse. This pulse radiates through the field, shifting circumstances on multiple levels: personal, social, emotional, material, and astral.
+The five intentions are built separately, then bound into a single numinous pulse. This pulse radiates through the field, shifting circumstances on multiple levels: personal, social, emotional, material, and astral.
 
 ---
 

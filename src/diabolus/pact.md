@@ -2,7 +2,7 @@
 title: The Devil's Pact
 layout: layout.njk
 description: Gain wealth, power and dominance (and any other damn thing you desire) 
-noindex: true
+noindex: false
 ---
 
 # The Devil's Pact
@@ -12,7 +12,10 @@ noindex: true
 
 `Invoke — Transform — Rule.`
 
-> You don’t sell your soul — you reclaim it.
+> **This is about empowering your soul — and reclaiming your agency.**   
+Throughout this work, the "Devil" is used as a literary and philosophical symbol: representing the courage to question, think independently, and act consciously rather than automatically.
+
+> The aim is not to change your religion or beliefs, but to strengthen your awareness, your decision-making, and your ability to shape your own life.
 
 <img class="about-hero" src="/assets/img/ds-logo.jpg"
      alt="Doktor Snake Books and Press Cuttings">
@@ -57,8 +60,6 @@ He wants you to be:
 - To be in command of the **“rearing horse”** of emotions.
 
 If you can do this, Lord Satan will bestow his graces upon you as one of the select few who is taking evolution into your own hands and transforming into “human 2.0”.
-
-DO YOU FORFEIT YOUR SOUL? No. To the contrary, you RECLAIM your soul. You regain it — your Higher I, central controller. You attain the ultimate power and become a superior being.
  
 The great glory and ultimate power resides within the Devil’s bargain. Based on ancient knowledge that goes back to the Bible lands, Northern Europe, Egypt, Africa, and then the fabled realms of Atlantis and Hyperborea.
 
