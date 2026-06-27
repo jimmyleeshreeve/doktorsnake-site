@@ -12,7 +12,7 @@ noindex: false
 
 <p class="text">Insight, perspective, and practical guidance for the road ahead.</p>
 
-✔ Careers, relationship issues, business challenges, something you can't make sense of, and more.
+✔ Careers, relationship issues, business challenges, and more.
 
 ✔ Delivered by email.
 

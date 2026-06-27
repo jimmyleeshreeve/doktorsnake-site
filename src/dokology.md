@@ -1,42 +1,71 @@
 ---
-title: Dokology
+title: "Strategic Mentorship :: Dokology"
 layout: layout.njk
-description: Full-spectrum 1-1 mentorship with Doktor Snake, tailored to your goals, challenges, and evolution.
+description: Private one-to-one strategic mentorship for people navigating complex decisions, high-pressure situations, and personal transformation.
 permalink: /dokology/
 ---
- 
-# Dokology
 
-`Mind-Tech . Strategy . Psionics`
+<div class="card">
+
+# Strategic Mentorship :: Dokology
+
+<p class="text">Private one-to-one strategic mentorship for people navigating complex decisions, high-pressure situations, and personal transformation.</p>
+
+✔ Monthly private sessions with Doktor Snake
+
+✔ Personalised protocols, tactical frameworks, and ongoing support
+
+✔ Built around your goals, challenges, and long-term evolution
+
+Year: **$2,400**
+
+<a href='https://www.fatfreecartpro.com/ecom/gb.php?&c=cart&ejc=2&cl=434879&i=1896102' onclick='return EJEJC_lc(this);' style='display:inline-block;background: #26a269 url(https://www.e-junkie.com/ej/images/newaddtocart.png) center/100px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);text-decoration: none;' target='ej_ejc' class='ec_ejc_thkbx'>&nbsp;</a>&nbsp;<a href="https://www.fatfreecartpro.com/ecom/gb.php?c=cart&ejc=2&cl=434879" target="ej_ejc" class="ec_ejc_thkbx" onclick="return EJEJC_lc(this);" style="display:inline-block;background: #26a269 url(https://www.e-junkie.com/ej/images/newviewcart.png) center/90px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);cursor: pointer;text-decoration: none;">&nbsp;</a>
+
+</div>
 
 <img class="about-hero" src="/assets/img/rural-cyberpunk.jpg"
      alt="Dokology Operator">
 
-Dokology is the strategic operating system behind all of my work — where clarity is established, decisions are engineered, and outcomes are shaped. It's full-spectrum mentorship conducted monthly on a 1-1 basis, tailored to your goals, challenges, and evolution.
+## Dokology is where strategy meets conscious awareness.
 
-This is not coaching.   
-It’s applied cognition, strategic influence, and real-world navigation under pressure.
+A private strategic mentorship that helps you think more clearly, make better decisions, and navigate complex situations with confidence.
 
-It blends deep-focus awareness training, trance-state cognition, emotional regulation, field-reading, and decision-making under pressure.
+Most people don't need more information. They need a better way of interpreting what is happening around them.
 
-This is where ancient mind-tech meets cybernetic thinking: functional, grounded, and built for the world we live in now.
+### That's where Dokology comes in.
 
-> **Dokology is the technology of empowerment:** strategic influence, visionary trance, psychological calibration, and reality engineering working in unison.
+Together we examine your situation, identify hidden patterns, challenge assumptions, and build practical strategies that move you towards the outcome you actually want.
 
-## Core Elements of Dokology
+Sometimes that means solving a business problem.
 
-- **Stopping internal dialogue** — command of mind-noise for clarity when you need it
-- **Emotional regulation** without suppression — you at the helm of your life, not your emotions
-- **Situational field-mapping** — enhanced perception of people, systems, and hidden dynamics
-- **Decision engineering & strategic timing** — positioning you precisely where opportunity converges
-- **Modern psionics** — for insight generation, signal detection, and non-obvious advantage and influence
-- **Application of 5GW thinking and the OODA Loop** for personal advantage
+Sometimes it's navigating relationships, family pressures, legal disputes, creative work, or major life transitions.
 
-Clients enter Dokology for clarity, timing, emotional sovereignty, and the ability to navigate complex situations without being ruled by internal noise or external chaos.
+Sometimes the greatest shift is internal: becoming calmer under pressure, seeing opportunities you previously missed, or finally escaping repetitive patterns of thought.
 
-It’s a partnership: part consulting, part tactical guidance, part energetic alignment.
+### My role isn't to make decisions for you.
 
-Dokology gets you where you want to be: in command of your field, aligned with opportunity, shielded from interference, and moving with strategic precision rather than reaction.
+> It's to help you see more clearly so you can make better ones.
+
+Over the course of our work together you'll learn practical methods drawn from psychology, strategic thinking, awareness training, observation, and decades of field experience. Where appropriate, I also draw upon the wider Doktor Snake framework—including symbolic systems, intuitive techniques, and strategic influence—as tools that support the work rather than define it.
+
+The aim is simple:
+
+- More clarity.
+- Better timing.
+- Stronger decisions.
+- Greater agency.
+- A calmer mind.
+
+Those changes compound over time, which is why Dokology is structured as an ongoing private mentorship rather than a series of isolated consultations.
+
+## What You'll learn
+
+- Stopping internal dialogue — command of mind-noise for clarity when you need it
+- Emotional regulation without suppression — you at the helm of your life, not your emotions
+- Situational field-mapping — enhanced perception of people, systems, and hidden dynamics
+- Decision engineering & strategic timing — positioning you precisely where opportunity converges
+- Modern psionics — for insight generation, signal detection, and non-obvious advantage and influence
+- Application of 5GW thinking and the OODA Loop for personal advantage
 
 ## Who This Is For
 
@@ -133,7 +162,6 @@ This structure ensures continuity, depth, and real-world results — not fragmen
   </form>
 </div>
 
----
 
 
 
