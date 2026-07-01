@@ -21,8 +21,6 @@ noindex: true
 ## Send your details
 
   <form action="https://formspree.io/f/xjgeveba" method="POST" enctype="multipart/form-data" class="card">
-  
-  <input type="hidden" name="_redirect" value="https://www.doktorsnake.com/clients/reading-intake-confirmed/">
 
   <p>
     <label for="name"><strong>Full name</strong></label><br>

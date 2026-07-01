@@ -9,7 +9,6 @@ Send me an e-mail and I'll reply personally.
 
 <div class="card">
   <form action="https://formspree.io/f/xjgeveba" method="POST">
-  <input type="hidden" name="_redirect" value="https://www.doktorsnake.com/thanks/">
     <p>
       <label>Your name<br>
       <input type="text" name="name" id="ds_name" required>

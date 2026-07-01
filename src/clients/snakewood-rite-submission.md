@@ -16,7 +16,6 @@ There's an optional "context" box too should you need to add more.
 
   <!-- Replace XXXXYYYY with your Formspree form ID -->
   <form action="https://formspree.io/f/xjgeveba" method="POST" enctype="multipart/form-data">
-  <input type="hidden" name="_redirect" value="https://www.doktorsnake.com/thanks/">
 
     <p>
       <label>Your Name<br>

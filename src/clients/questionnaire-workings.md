@@ -16,7 +16,6 @@ Below is where you can supply details of your case.
 
   <!-- Replace XXXXYYYY with your Formspree form ID -->
   <form action="https://formspree.io/f/xjgeveba" method="POST" enctype="multipart/form-data">
-  <input type="hidden" name="_redirect" value="https://www.doktorsnake.com/working-intake-confirmed/">
 
     <p>
       <label>Your Name<br>

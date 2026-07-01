@@ -17,7 +17,6 @@ But there's an optional "context" box below if you do need to add more.
 
   <!-- Replace XXXXYYYY with your Formspree form ID -->
   <form action="https://formspree.io/f/xjgeveba" method="POST">
-  <input type="hidden" name="_redirect" value="https://www.doktorsnake.com/clients/snakewood-rite-submission-confirmed/">
 
     <p>
       <label>Your Name<br>
