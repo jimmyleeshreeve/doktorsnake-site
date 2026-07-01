@@ -19,7 +19,30 @@ layout: layout.njk
   </p>
 </div>
 
----
+<div class="ds-price-card">
+  <div class="ds-price-card-inner">
+
+    <h3>The Sigil Machine</h3>
+    <p class="ds-price-sub">Custom Sigil — Built from Your Intent</p>
+
+    <div class="ds-price-options">
+      <div class="ds-price-option">
+        <span class="ds-price-label">Access</span>
+        <span class="ds-price-amount">$127</span>
+        <span class="ds-price-note">Single custom sigil</span>
+      </div>
+    </div>
+
+    <p>
+      One intention. One constructed artefact. Delivered ready to use.
+    </p>
+
+    <p>
+      <a class="btn btn-deploy" href="https://www.fatfreecartpro.com/i/14ovg">Buy Now</a>
+    </p>
+
+  </div>
+</div>
 
 ## What This Is
 
@@ -56,7 +79,7 @@ layout: layout.njk
 
 <div class="card">
   <p><strong>Primary Sigil</strong><br>
-  A refined, stylised version for active use — something you can keep on your phone, revisit, or place subtly into your environment</p>
+  A refined, stylised version for active use — something you can keep on your phone, revisit, or place subtly into your environment (such as embedding on social media)</p>
 
   <p><strong>Core Sigil</strong><br>
   The raw (hand-drawn) structural form derived directly from your original intention</p>
@@ -197,7 +220,7 @@ layout: layout.njk
     </p>
 
     <p>
-      <a class="btn btn-deploy" href="https://www.fatfreecartpro.com/i/14ovg">Generate My Sigil</a>
+      <a class="btn btn-deploy" href="https://www.fatfreecartpro.com/i/14ovg">Buy Now</a>
     </p>
 
   </div>

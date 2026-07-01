@@ -1,22 +1,22 @@
 ---
-title: Your Working Questionnaire
+title: SnakeWood Rite Intention Form
 layout: layout.njk
 noindex: true
 ---
 
-# Your Working Questionnaire
+# Your SnakeWood Rite Intention Form
 
-Thanks for ordering a working.  
-Below is where you can supply details of your case.
+Write your intention in the box below   
+There's an optional "context" box too should you need to add more.
 
 <div class="card">
    
-  <h3>Questionnaire</h3>
-  <p>All information you submit is kept 100% confidential.</p>
+  <h3>Submit Your Intention</h3>
+  <p>Everything you submit is treated as strictly confidential and is used only for your SnakeWood Rite.</p>
 
   <!-- Replace XXXXYYYY with your Formspree form ID -->
   <form action="https://formspree.io/f/xjgeveba" method="POST" enctype="multipart/form-data">
-  <input type="hidden" name="_redirect" value="https://www.doktorsnake.com/working-intake-confirmed/">
+  <input type="hidden" name="_redirect" value="https://www.doktorsnake.com/thanks/">
 
     <p>
       <label>Your Name<br>
@@ -32,26 +32,20 @@ Below is where you can supply details of your case.
     
    <label>Date of Birth (optional)<br>
     <small>Some clients choose to include this as part of the symbolic record for their working.</small><br>
-    <input type="date" name="dob">
+  <input type="date" name="dob">
    </label>
 
     <p>
-      <label>Describe Your situation<br>
-      <small>What feels pressured, complex, unclear, or high-stakes?</small><br>
-      <textarea name="situation" rows="7" required></textarea>
+      <label>Describe the outcome you'd like the sigil to represent.<br>
+       <small>One or two paragraphs is usually enough.</small><br>
+        <textarea name="intention" rows="7" required></textarea>
       </label>
     </p>
 
     <p>
-      <label>What outcome or change are you trying to move toward?<br>
-      <small>What would ‘better’ look like in concrete terms?</small><br>
-        <textarea name="outcome" rows="4" required> </textarea>
-      </label>
-    </p>
-
-    <p>
-      <label>Anything else important to know? (optional)<br>
-        <textarea name="notes" rows="3"></textarea>
+      <label>Background (optional)<br>
+        <small>Add any details that will help me understand your situation.</small><br>
+        <textarea name="context" rows="3"></textarea>
       </label>
     </p>
     
@@ -64,18 +58,20 @@ Below is where you can supply details of your case.
      </label>
    </p>
 
+
     <!-- Honeypot (spam trap) -->
     <input type="text" name="_gotcha" style="display:none">
 
     <!-- Useful metadata -->
-    <input type="hidden" name="_subject" value="Questionnaire — Working">
+    <input type="hidden" name="_subject" value="SnakeWood Rite Intention Form">
 
     <p style="margin-top:14px">
       <button class="btn" type="submit">Send →</button>
     </p>
 
     <p style="margin-top:10px">
-      <em>Once Doktor Snake has evaluated your information, he will be in touch promptly with your ritual date.</em>
+      <em>All Power!</em>
     </p>
   </form>
 </div>
+
