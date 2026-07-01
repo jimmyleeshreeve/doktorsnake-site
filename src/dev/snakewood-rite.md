@@ -86,11 +86,11 @@ After the working, you will receive your sigil along with simple instructions on
 
 ---
 
-Each SnakeWood Rite is carried out individually.
+✔ Each SnakeWood Rite is carried out individually.
 
-No two sigils are alike.
+✔ No two sigils are alike.
 
-No two workings follow exactly the same path.
+✔ No two workings follow exactly the same path.
 
 ---
 
