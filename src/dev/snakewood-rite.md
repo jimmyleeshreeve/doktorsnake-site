@@ -24,6 +24,8 @@ noindex: true
 
 </div>
 
+> → NOTES RN: Need to get photos of the SnakeWood mounds. First an atmospheric shot, then second a shot with a hand-drawn sigil on the ground of one of the mounds. Telling the story visually of location, raw sigil, then stylised sigil 
+
 <img class="about-hero" src="/assets/img/snakewood-sigil.jpg"
      alt="SnakeWood Sigil Stylised">
 
