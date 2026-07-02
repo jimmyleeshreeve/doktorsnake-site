@@ -16,6 +16,7 @@ noindex: false
 ✔ Career & opportunity  
 ✔ Love & relationships  
 ✔ Personal empowerment  
+✔ Gambling & casino luck
 ✔ Creative projects & life direction  
 ✔ Rite conducted at twin Bronze Age mounds at SnakeWood  
 ✔ Suitable for people of any faith or none
