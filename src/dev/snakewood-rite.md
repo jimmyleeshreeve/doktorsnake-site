@@ -24,8 +24,6 @@ noindex: true
 
 </div>
 
-> → NOTES RN: Need to get photos of the SnakeWood mounds. First an atmospheric shot, then second a shot with a hand-drawn sigil on the ground of one of the mounds. Telling the story visually of location, raw sigil, then stylised sigil 
-
 <img class="about-hero" src="/assets/img/snakewood-sigil.jpg"
      alt="SnakeWood Sigil Stylised">
 
@@ -34,6 +32,9 @@ noindex: true
 <p class="text">No templates.<br>
 No stock symbols.<br>
 Each is created specifically for the intention you submit.</p>
+
+<img class="about-hero" src="/assets/img/snakewood-sigil-mound.jpg"
+     alt="Hand-drawn sigil">
 
 ## The Working
 
@@ -52,6 +53,9 @@ After the working, I digitise the original sigil, and artistically refine it whi
 **The version you receive isn't a replacement.**  
 It is a refined expression of the original sigil created during the working.  
 It is your personal point of contact with the original working, allowing you to revisit and reinforce the intention whenever you choose.
+
+<img class="about-hero" src="/assets/img/snakewood-mound.jpg"
+     alt="SnakeWood mound South Norfolk Brandon">
 
 ---
 
