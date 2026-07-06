@@ -10,7 +10,7 @@ noindex: false
 <img class="about-hero" src="/assets/img/desolate-church-suffolk.jpg"
      alt="Desolate church in Suffolk">
 
-These Faustian workings are conducted in the wilds of Suffolk. Often at a desolate church by the sea, where the wind howls and the atmosphere is tuned for spirit contact.
+These Faustian workings are conducted in the wilds of East Anglia. Often at a desolate church by the sea, or at the Devil's Punchbowl, where the wind howls and the atmosphere is tuned for spirit contact.
 
 ## Vectors of Power
 
