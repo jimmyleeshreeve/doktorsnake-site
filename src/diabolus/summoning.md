@@ -34,7 +34,10 @@ There is a Goetic spirit suited to your goal. I’ll determine the one best alig
 
 ## How the ritual works
 
-I carry out the summoning in the wilds of Suffolk, at midnight — often near a ruined church by the sea, where the wind howls and the atmosphere is ripe for spirit contact.
+<img class="about-hero" src="/assets/img/devils-punchbowl-croxton.jpg"
+     alt="Devil's Punchbowl South Norfolk">
+
+I carry out the summoning in the wilds of East Anglia, after the sun sets — often near a ruined church by the sea, or at the Devil's Punchbowl, where the wind howls and the atmosphere is ripe for spirit contact.
 
 The working involves:
 
