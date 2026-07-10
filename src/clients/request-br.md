@@ -38,6 +38,38 @@ Fill in the form below. Once received, I’ll be back to you within three days.
         <input type="email" name="email" autocomplete="email" required>
       </label>
     </p>
+    
+      <p>
+      <label>Phone Number<br>
+        <input type="phone" name="phone" autocomplete="phone">
+      </label>
+    </p>
+
+ <p>
+      <label>Date of Birth<br>
+        <input type="dob" name="dob" autocomplete="dob" placeholder="YYYY-MM-DD">
+      </label>
+    </p>
+    
+     <p>
+      <label>Place of Birth<br>
+        <input type="pob" name="pob" autocomplete="dob">
+      </label>
+    </p>
+
+
+ <p>
+      <label>Current Location<br>
+        <input type="location" name="location" autocomplete="location">
+      </label>
+    </p>
+
+<p>
+      <label>Spiritual Beliefs (if any)<br>
+        <input type="spiritual" name="spiritual" autocomplete="spiritual">
+      </label>
+    </p>
+
 
     <p>
       <label>Describe Your situation<br>
