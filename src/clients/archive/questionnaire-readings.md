@@ -29,7 +29,7 @@ Thanks for ordering a reading. Below is your questionnaire for supplying details
       </label>
     </p>
 
-    <p>
+      <p>
       <label>Phone Number<br>
         <input type="phone" name="phone" autocomplete="phone">
       </label>
@@ -38,6 +38,12 @@ Thanks for ordering a reading. Below is your questionnaire for supplying details
  <p>
       <label>Date of Birth<br>
         <input type="dob" name="dob" autocomplete="dob" placeholder="YYYY-MM-DD">
+      </label>
+    </p>
+    
+     <p>
+      <label>Place of Birth<br>
+        <input type="pob" name="pob" autocomplete="dob">
       </label>
     </p>
 

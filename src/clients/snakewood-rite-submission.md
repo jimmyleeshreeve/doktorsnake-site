@@ -29,10 +29,35 @@ There's an optional "context" box too should you need to add more.
       </label>
     </p>
     
-   <label>Date of Birth (optional)<br>
-    <small>Some clients choose to include this as part of the symbolic record for their working.</small><br>
-  <input type="date" name="dob">
-   </label>
+      <p>
+      <label>Phone Number<br>
+        <input type="phone" name="phone" autocomplete="phone">
+      </label>
+    </p>
+
+ <p>
+      <label>Date of Birth<br>
+        <input type="dob" name="dob" autocomplete="dob" placeholder="YYYY-MM-DD">
+      </label>
+    </p>
+    
+     <p>
+      <label>Place of Birth<br>
+        <input type="pob" name="pob" autocomplete="dob">
+      </label>
+    </p>
+
+ <p>
+      <label>Current Location<br>
+        <input type="location" name="location" autocomplete="location">
+      </label>
+    </p>
+
+<p>
+      <label>Spiritual Beliefs (if any)<br>
+        <input type="spiritual" name="spiritual" autocomplete="spiritual">
+      </label>
+    </p>
 
     <p>
       <label>Describe the outcome you'd like the sigil to represent.<br>
