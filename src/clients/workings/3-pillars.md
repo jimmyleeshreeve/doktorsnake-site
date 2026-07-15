@@ -3,6 +3,7 @@ title: The Three Pillars Working
 description: Right Work · Sacred Respect · Enduring Wealth
 layout: layout.njk
 permalink: /clients/workings/3-pillars/
+noindex: true
 ---
 
 # The Three Pillars Working
@@ -42,8 +43,6 @@ Encouraging thoughtful financial decisions, long-term security and the confidenc
 Clear sight and discernment.
 
 A reminder to pause before acting, recognise manipulation, question easy answers and make decisions from a state of clarity.
-
----
 
 ## Your Working Includes
 
