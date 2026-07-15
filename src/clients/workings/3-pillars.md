@@ -10,6 +10,9 @@ noindex: true
 
 ## Right Work · Sacred Respect · Enduring Wealth
 
+<img class="about-hero" src="/assets/img/3-pillars.jpg"
+     alt="The Three Pillars Working">
+
 This bespoke working has been created specifically for your circumstances. It combines a symbolic field working, personalised field notes, practical guidance and reflective exercises into a single programme designed to help you move forward with greater confidence, clarity and purpose.
 
 ### Your Three Areas of Focus
