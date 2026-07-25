@@ -40,6 +40,7 @@ This is old-world working guided by ancient symbolic systems and ancestral groun
 - Drawing in money, opportunity, or renewed financial movement
 - Quieting rivals, gossip, meddling relatives, or hostile influence
 - Strengthening health and vitality pathways for you or family
+- Unleashing just desserts on those that have wronged you.
 - Calming storms in love, restoring bonds, or attracting new romance
 - Breaking jinxes, hexes, hauntings, or persistent negativity
 - Boosting luck in high-stakes moments (court, job, risk, gambling)
