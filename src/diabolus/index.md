@@ -63,6 +63,14 @@ These Faustian workings are conducted in the wilds of East Anglia. Often at a de
 </div>
 
 <div class="card">
+  <h3>Delirium Demonizer</h3>
+  <p class="text">
+  Gold standard hex working. Destabilises your enemy
+  </p>
+  <p><a class="btn" href="/diabolus/delirium/">View Delirium →</a></p>
+</div>
+
+<div class="card">
   <h3>Barbatos :: Hidden Money Working</h3>
   <p class="text">
   Unearth hidden channels of money and attract unexpected windfalls.

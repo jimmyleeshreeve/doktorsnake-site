@@ -1,5 +1,10 @@
 [
   {
+    "date": "2026-07-28",
+    "title": "added Addiction Annihilator",
+    "url": "/dispatch/addiction-annihilator/"
+  },
+  {
     "date": "2026-07-03",
     "title": "added SnakeWood Rite",
     "url": "/snakewood/"
@@ -13,11 +18,6 @@
     "date": "2026-06-20",
     "title": "Added MoneyStorm 888",
     "url": "/dispatch/moneystorm/"
-  },
-  {
-    "date": "2026-06-18",
-    "title": "Expanded Dokology section",
-    "url": "/dokology/"
   }
 ]
 
