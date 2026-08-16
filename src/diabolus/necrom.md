@@ -21,9 +21,10 @@ Shadows that shimmer and transform.
 And make changes which resolve situations on the Earth plane.
 
 > For private members only  
-*(Except under extraordinary circumstances)*
+> *(Except under extraordinary circumstances)*
 
-The seething abyss of the lower realms.  
+The seething abyss of the lower realms.
+
 It’s a place feared today.
 
 But has always been part of the magico-shamanism of ancient peoples.
@@ -36,7 +37,8 @@ It’s a place where events and situations in the material realm can be altered 
 
 ## Let’s be clear.
 
-This is not a place for the faint-hearted.  
+This is not a place for the faint-hearted.
+
 Nor for those with feeble will.
 
 It’s a place of dead souls, monstrous atavisms, and shudderingly frightening and powerful creatures that look like mutants of some distance apocalypse.
@@ -51,15 +53,18 @@ These too have been known to wander our green and pleasant land, typically scari
 
 ## Now we come to Necrom…
 
-We shouldn’t actually utter his name, to be frank.  
+We shouldn’t actually utter his name, to be frank.
+
 Rather we should call him the “god with no name.”
 
 That’s safer.
 
-It’s not so much that he would do us any harm.  
+It’s not so much that he would do us any harm.
+
 More that his very name itself holds power.
 
-It’s this god with no name that can seriously get things done on the Earthly plane.  
+It’s this god with no name that can seriously get things done on the Earthly plane.
+
 Few occultists have even heard of Necrom.
 
 Only those that were on the wild fringe of hippy and “freak” culture of the 1960s and early 1970s — those that didn’t take too many drugs and lose all semblance of sanity, that is.
@@ -68,7 +73,7 @@ Ethno-botanist Terence McKenna, perhaps, with his DMT experiments and being hurl
 
 ---
 
-## What can our underworld magico-shamanism do for you?
+## What can my underworld magico-shamanism do for you?
 
 It can transform a situation or issue, or get you want you want in life.
 
@@ -83,6 +88,7 @@ And you can state this directly in the questionnaire we send out if you decide t
 ## NO RISK to you.
 
 I take all the risk  
+
 But I know what I’m doing.
 
 What’s more, there is no comeback, no chance of what the less-educated call “bad karma.”
@@ -111,11 +117,15 @@ It can be a cave.
 A wooded grove.  
 Stone circle.
 
+<img class="about-hero" src="/assets/img/bronze-age-mound.jpg"
+     alt="Necrom — Bronze Age mound">
+
 ---
 
 ## All are on the parallel planes.
 
-I can’t predict what it will be.  
+I can’t predict what it will be.
+
 And it takes time to locate the entry point.
 
 As I descend the “black ladder” which spirals down to the underworld (there’s actually no real down or up, it’s all turns of phrase for convenience), I have to be very careful as there are many entities that seek to delude and trick me.
@@ -126,7 +136,8 @@ The landscape of the Underworld can take many forms.
 
 Typically, it’s a lonesome plain, with a few trees and rocks on the semi-twilit sprawl.
 
-Usually there’s a stone circle.  
+Usually there’s a stone circle.
+
 I enter that and stand in the centre.
 
 It is here that Necrom makes his appearance.
@@ -146,6 +157,8 @@ This realization is what can drive the unwary adventurer to insanity.
 You have to be able to accept this or you’re forever lost and confused, mostly a gibbering basket case.
 
 Accepting it, though, transforms your consciousness in ways beyond the ability of language to describe.
+
+---
 
 ## Suffice to say, I am able to petition Necrom on your behalf...
 
