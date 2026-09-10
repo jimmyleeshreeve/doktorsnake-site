@@ -1,72 +1,216 @@
 ---
 layout: layout.njk
 title: About Doktor Snake
-description: Author. Former national newspaper journalist. Investigator. Experimenter.
+description: Author. Magician. Former national newspaper journalist. Investigator. Experimenter.
 ---
 
 # About Doktor Snake
 
-<img class="about-hero" src="/assets/img/og-doktorsnake.jpg"
-     alt="Doktor Snake — magick, psionics, remote viewing">
-     
+<img class="about-hero" src="/assets/img/og-doktorsnake.jpg" alt="Doktor Snake — magick, psionics, remote viewing">
+
+# About Doktor Snake
+
 I'm Jimmy Lee Shreeve, better known as Doktor Snake.
 
-Author.  
-Former national newspaper journalist.  
-Investigator.  
-Experimenter.  
+Author.
 
-Student of consciousness, folklore, psychology, strategy and unusual ideas.
-     
-My byline has appeared in The Independent, Daily Telegraph, Sunday Telegraph, Daily Express, Financial Times, and other international publications.
+Former national newspaper journalist.
 
-Books include:
+Investigator.
 
--   _Doktor Snake’s Voodoo Spellbook_ (St. Martin’s Press)
--   _Blood Rites (Random House)_
--   _Cannibals (John Blake)_
--   _Mary Jane’s Hash Brownies_ (Cico Books) as “Dr Hash”
--   _How To Be Famous_ (Orion Books)
-     
----
+Experimenter.
 
-After years investigating crime, cults, folklore, unusual beliefs and human behaviour, I became increasingly interested in the hidden forces that shape outcomes.
-     
-People often assume I sell spells.
+And, for more years than I care to count, someone who's been testing what happens when you treat reality as something you can **experiment with**.
 
-In reality I help people think more clearly, see situations differently, and apply influence — whether through practical strategy, consciousness training, symbolic methods, or a combination of all three.
+My byline has appeared in *The Independent, Daily Telegraph, Sunday Telegraph, Daily Express, Financial Times*, and other international publications.
 
-This all comes together in my Dokology, Retainer, Influence Workings, and Readings.
+My books include:
+
+* *Doktor Snake's Voodoo Spellbook* — St. Martin's Press
+* *Blood Rites* — Random House
+* *Cannibals* — John Blake
+* *Mary Jane's Hash Brownies* — Cico Books, writing as Dr Hash
+* *How To Be Famous* — Orion Books
+
+But the Doktor Snake story really begins somewhere between journalism, magick and an unreasonable curiosity about how the world works.
 
 ---
 
-My central interest has always been conscious awareness.
+## REALITY IS THE LABORATORY
 
-Learning to observe clearly.  
-To step outside emotional noise.
+I've spent much of my life investigating crime, cults, folklore, unusual beliefs, human behaviour and anomalous experience.
 
-To recognise patterns before others see them.  
-To act deliberately rather than react automatically.
+Along the way I became interested in a different question.
 
-Much of my work is conducted in the field.
+**What can you actually do with this stuff?**
 
-Walking old landscapes.  
-Recording observations.
+Not what are you supposed to believe.
 
-Following unusual leads.  
-Testing ideas against reality.
+Not what does some medieval grimoire say.
 
-The resulting notes, essays and reports are published through Substack (DoktorSnake.io).
+Not what does the latest guru insist is true.
+
+What happens when you **run the experiment?**
+
+That's where chaos magick came in.
+
+Sigils. Divination. Synchronicity. Probability. Altered states. Influence. Psychogeography. Dreams. Meditation. Consciousness.
+
+Today I'd add AI, neuroscience and emerging technology to the laboratory.
+
+Some experiments produce nothing.
+
+Some produce interesting psychological effects.
+
+Occasionally something happens that leaves you scratching your head.
+
+Good.
+
+Write it down.
+
+Try again.
+
+**Results you can use, but not prove.**
 
 ---
+
+## STORY FIRST. METHOD AFTER.
+
+This was the approach behind *Doktor Snake's Voodoo Spellbook*.
+
+Tell the story.
+
+Describe what happened.
+
+Then give people the method so they can try it themselves.
+
+I'm increasingly returning to that approach today.
+
+Through my writing and field reports I explore magick, consciousness, AI, folklore, dreams, synchronicity, anomalous phenomena, psychogeography and the strange edges of ordinary life.
+
+Some of it is serious.
+
+Some of it is outrageous.
+
+Usually it's both.
+
+The important thing is that you don't have to believe me.
+
+**Try it.**
+
+Observe what happens.
+
+Keep what works.
+
+Discard what doesn't.
+
+Change the experiment and run it again.
+
+---
+
+## THE FIELD
+
+A lot of my work happens away from a desk.
+
+Old churches.
+
+Ancient earthworks.
+
+Forests.
+
+Forgotten tracks.
+
+Stone circles.
+
+Military landscapes.
+
+Cities.
+
+Roads that don't seem particularly important until you walk them.
+
+I'll take an idea into the landscape, record what happens and see where it leads.
+
+The resulting stories, experiments, practical methods and field reports are published through my Substack at DoktorSnake.io.
+
+Free readers get the stories, ideas and field reports.
+
+Paid subscribers go deeper into the experiments — practical methods involving chaos magick, sigils, probability, divination, synchronicity, dream work, attention, consciousness and whatever else we decide is worth testing.
+
+It's gradually becoming a **working manual for experimenting with reality**.
+
+---
+
+## DOKOLOGY
+
+Some people want to go further.
+
+Dokology is where I work directly with individuals.
+
+It's not a fixed system and I'm not interested in creating disciples.
+
+We look at the situation in front of us.
+
+Strategy.
+
+Decision-making.
+
+Consciousness.
+
+Attention.
+
+Probability.
+
+Magick when useful.
+
+Ordinary common sense when that's more useful.
+
+Then we devise experiments, observe the results and adapt.
+
+The Retainer offers the same direct relationship for people who primarily want ongoing access, problem-solving and individual guidance.
+
+---
+
+## INFLUENCE & READINGS
+
+I also undertake selected Influence Workings and private Readings.
+
+My approach remains the same.
+
+Patterns rather than promises.
+
+Experiments rather than certainty.
+
+The strange stuff is allowed into the room.
+
+So is scepticism.
+
+Those two things get along considerably better than people imagine.
+
+---
+
+## ONE FINAL RULE
+
+After decades around magick, psychics, mediums, occultists, mystics, entrepreneurs, journalists, eccentrics and assorted professional maniacs, I've acquired one overriding principle:
+
+**DON'T BECOME AN IDIOT.**
+
+Experiment boldly.
+
+Interpret cautiously.
+
+Don't surrender your judgement to a spirit, guru, ideology, AI, divination system — or Doktor Snake.
+
+Think.
+
+Observe.
+
+Test.
+
+Then make up your own mind.
 
 There are thousands of people selling secrets.
 
-I prefer experiments.
-
-Everything I teach, write about, or offer has been tested in the field.
-
-These are the notes.
+**I prefer experiments.**
 
 ⟡◌◯⟡⟡
 
@@ -83,7 +227,7 @@ These are the notes.
 <div class="card">
   <h3>DOKOLOGY</h3>
   <p class="text">
-    Full-spectrum 1-1 mentorship with Doktor Snake
+    Work directly with Doktor Snake
   </p>
   <p><a class="btn" href="/dokology/">View Dokology →</a></p>
 </div>
@@ -97,9 +241,9 @@ These are the notes.
 </div>
 
 <div class="card">
-  <h3>VISIT SUBSTACK</h3>
+  <h3>SUBSTACK</h3>
   <p class="text">
-   Exploring consciousness in strange times.
+   Stories, field reports and experiments in reality
   </p>
   <p><a class="btn" href="https://doktorsnake.io" target="_blank" rel="noopener noreferrer">View Substack →</a></p>
 </div>

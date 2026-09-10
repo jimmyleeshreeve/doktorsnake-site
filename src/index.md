@@ -270,7 +270,7 @@ DoktorSnake.io (newsletter) is where I drop the real code — too raw for social
 <div class="card">
   <h3>Newsletter</h3>
   <p class="text">
-   Dispatches from the edge of consciousness, AI, folklore, and occult technology.
+   Experiments in magick, consciousness and reality. Strange stories and practical methods for testing the edges of experience — from chaos magick and synchronicity to AI, dreams, folklore, and the unexplained. Results you can use, but not prove.
   </p>
   <p><a class="btn" href="/newsletter/">Subscribe now →</a></p>
 </div>

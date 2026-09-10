@@ -7,13 +7,15 @@ permalink: /newsletter/
 
 # Subscribe to Doktor Snake
 
-Dispatches from the edge of consciousness, AI, folklore, psychogeography, occult technology, and the strange signals leaking through modern life.
+### FREE — FIELD REPORTS
 
-No algorithm.
-No social-media sludge.
-Just the field reports.
+Experiments in magick, consciousness and reality.
 
-Free posts, private updates, occasional paid transmissions, and first notice of new workings, audios, essays, and experiments.
+Strange stories and practical methods for testing the edges of experience — from chaos magick and synchronicity to AI, dreams, folklore, and the unexplained.
+
+Results you can use, but not prove.
+
+Come along for the ride.
 
 **Enter the field.**
 
