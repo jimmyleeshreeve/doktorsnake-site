@@ -46,7 +46,7 @@ Below is where you can supply details and lay down what you would like to discus
    <p>
      <label>
      Upload any relevant photographs or documents (optional)<br>
-      <small>E.g. yourself, another person involved, a property, a document, anything directly connected with the intention</small><br>
+      <small>E.g. yourself, another person involved, a property, a document, anything directly connected with what you wish to discuss.</small><br>
      <small>You can upload more than one file if needed.</small><br>
           <input multiple type="file" name="attachment[]" accept="image/*,.pdf,.doc,.docx">
      </label>
