@@ -25,7 +25,7 @@ noindex: false
 
 </div>
 
-<img class="about-hero" src="/assets/img/pic.jpg"
+<img class="about-hero" src="/assets/img/consultation.png"
   alt="Private consultation with Doktor Snake">
 
 <div class="note">After you order, you'll receive an email directing you to a short questionnaire where you can tell me what you'd like to discuss. This means I can give the matter some thought before we speak.</div>
