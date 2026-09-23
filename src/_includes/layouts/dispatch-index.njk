@@ -6,13 +6,45 @@ layout: layout.njk
   <p class="eyebrow">Signal Archive</p>
   <h1>{{ title }}</h1>
 
-<p class="page-intro">
-  {{ intro | default("A private running log of workings, notes, and field reports.") }}
-</p>
-
+  <p class="page-intro">
+    {{ intro | default("A private running log of workings, notes, and field reports.") }}
+  </p>
 </section>
 
-{{ content | safe }}
+<section class="dispatch-standalone">
+  <p class="eyebrow">Standalone Workings</p>
 
+  <h2>High-Intensity Operations</h2>
 
+  <p>
+  For situations requiring a more specialised approach, I undertake a limited number of standalone operations. Each is individually prepared and conducted personally.
+  </p>
 
+  <div class="card">
+    <p class="eyebrow">Maximum Concentration</p>
+
+    <h3>Protocol X :: TeraBlast</h3>
+
+    <p>
+      <strong>One objective. Maximum concentration.</strong>
+      A seven-day field working built around the Hollow Hill, three
+      reinforcement transmissions, and a private signal artefact.
+    </p>
+
+    <p>
+      <strong>$1,750</strong>
+    </p>
+
+    <p>
+      <a href="/protocol-x/">View Protocol X →</a>
+    </p>
+  </div>
+</section>
+
+<br>
+
+<section class="dispatch-archive">
+  <p class="eyebrow">Dispatches</p>
+
+  {{ content | safe }}
+</section>
