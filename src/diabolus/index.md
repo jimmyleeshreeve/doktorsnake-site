@@ -110,14 +110,6 @@ These Faustian workings are conducted in the wilds of East Anglia. Often at a de
   <p><a class="btn" href="/diabolus/bune-ritual">View Bune Ritual →</a></p>
 </div>
 
-<div class="card">
-  <h3>Necrom</h3>
-  <p class="text">
-  Petitions the almighty, Earth-shattering power of this Underworld deity.
-  </p>
-  <p><a class="btn" href="/diabolus/necrom/">View Necrom →</a></p>
-</div>
-
 ---
 
 ## About Faustian Workings
