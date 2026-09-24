@@ -56,6 +56,14 @@ For outsiders that see too much, feel too deep, and refuse to quit.
 </div>
 
 <div class="card">
+  <h3>DISPATCH</h3>
+  <p class="text">
+   A private running log of workings, notes, and field reports. PLUS: High Intensity Operations.
+  </p>
+  <p><a class="btn" href="/dispatch/">View Dispatch →</a></p>
+</div>
+
+<div class="card">
   <h3>RETAINER</h3>
   <p class="text">
    Monthly Workings · Direct Access · Strategic Influence
@@ -77,14 +85,6 @@ For outsiders that see too much, feel too deep, and refuse to quit.
    Insight, perspective, and practical guidance for the road ahead.
   </p>
   <p><a class="btn" href="/readings/">View Readings →</a></p>
-</div>
-
-<div class="card">
-  <h3>DISPATCH</h3>
-  <p class="text">
-   A private running log of workings, notes, and field reports. PLUS: High Intensity Operations.
-  </p>
-  <p><a class="btn" href="/dispatch/">View Dispatch →</a></p>
 </div>
 
 <div class="card">
