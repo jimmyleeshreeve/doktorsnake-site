@@ -56,6 +56,14 @@ For outsiders that see too much, feel too deep, and refuse to quit.
 </div>
 
 <div class="card">
+  <h3>RETAINER</h3>
+  <p class="text">
+   Monthly Workings · Direct Access · Strategic Influence
+  </p>
+  <p><a class="btn" href="/retainer/">View Retainer →</a></p>
+</div>
+
+<div class="card">
   <h3>GOETIA (Diabolus)</h3>
   <p class="text">
     Heavy artillery. Opens locked doors. Commanding force.
@@ -72,11 +80,11 @@ For outsiders that see too much, feel too deep, and refuse to quit.
 </div>
 
 <div class="card">
-  <h3>OPERATORS</h3>
+  <h3>DISPATCH</h3>
   <p class="text">
-   Tactical transmissions — digital products designed to sharpen perception & clarity
+   A private running log of workings, notes, and field reports. PLUS: High Intensity Operations.
   </p>
-  <p><a class="btn" href="/operators/">View Operators →</a></p>
+  <p><a class="btn" href="/dispatch/">View Dispatch →</a></p>
 </div>
 
 <div class="card">
@@ -93,14 +101,6 @@ For outsiders that see too much, feel too deep, and refuse to quit.
     Full-spectrum 1-1 mentorship with Doktor Snake
   </p>
   <p><a class="btn" href="/dokology/">View Dokology →</a></p>
-</div>
-
-<div class="card">
-  <h3>RETAINER</h3>
-  <p class="text">
-   Monthly Workings · Direct Access · Strategic Influence
-  </p>
-  <p><a class="btn" href="/retainer/">View Retainer →</a></p>
 </div>
 
 ## Why They Come To Me (Again And Again)
