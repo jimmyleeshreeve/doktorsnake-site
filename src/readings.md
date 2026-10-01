@@ -6,102 +6,131 @@ layout: layout.njk
 noindex: false
 ---
 
-   <div class="card">
-   
+<div class="card">
+
 # Readings from Doktor Snake
 
 <p class="text">Insight, perspective, and practical guidance for the road ahead.</p>
 
-✔ Careers, relationship issues, business challenges, and more.
+✔ Careers, relationships, business challenges, difficult decisions, and more.
 
-✔ Delivered by email.
+✔ Delivered privately by email.
 
-✔ Suitable for people of any faith or none
+✔ Suitable for people of any faith or none.
 
 **$77**
 
 <a href='https://www.fatfreecartpro.com/ecom/gb.php?&c=cart&ejc=2&cl=434879&i=1896027' onclick='return EJEJC_lc(this);' style='display:inline-block;background: #26a269 url(https://www.e-junkie.com/ej/images/newaddtocart.png) center/100px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);text-decoration: none;' target='ej_ejc' class='ec_ejc_thkbx'>&nbsp;</a>&nbsp;<a href="https://www.fatfreecartpro.com/ecom/gb.php?c=cart&ejc=2&cl=434879" target="ej_ejc" class="ec_ejc_thkbx" onclick="return EJEJC_lc(this);" style="display:inline-block;background: #26a269 url(https://www.e-junkie.com/ej/images/newviewcart.png) center/90px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);cursor: pointer;text-decoration: none;">&nbsp;</a>
 
-<p class="text">→ Scroll down for Strategic Pattern Reading (Phone)</p>
-
-   </div>
+</div>
 
 <img class="about-hero" src="/assets/img/thoth-deck.jpg"
      alt="Thoth Tarot Deck">
 
-## Most people come to me when they're facing a decision.
+## Most people come to me when something isn't quite adding up.
 
-A relationship issue.  
-A career crossroads.  
-A business challenge.  
-A recurring pattern they can't quite make sense of.
+A relationship has changed.
 
-My readings combine symbolic prompts, intuition, and forty years of experience studying people, behaviour, decision-making, and unusual ideas.
+A decision has to be made.
+
+A business or career situation has reached a crossroads.
+
+The same problem keeps appearing in different forms.
+
+Or there is simply the feeling that something important is being missed.
+
+That's where a reading can be useful.
+
+I look at what you've told me, the people involved, the circumstances, the timing, and the patterns running through the situation.
+
+Sometimes I may use cards or other symbolic methods.
+
+Often I don't need to.
+
+The method isn't really the point.
+
+The point is to look at your situation from another angle and notice what might otherwise remain hidden.
+
+---
+
+## Patterns, not predictions
+
+I don't see a reading as fortune-telling.
+
+The future isn't fixed.
+
+But situations develop momentum. People repeat behaviours. Decisions create consequences. Opportunities appear and disappear.
+
+Often there are patterns already forming long before we consciously recognise them.
+
+A reading is a way of slowing things down and looking at those patterns clearly.
+
+What are you overlooking?
+
+What assumptions are you making?
+
+Where does the situation appear to be heading if nothing changes?
+
+What possibilities haven't you considered?
+
+Sometimes the answer is unexpected.
+
+Sometimes it's something you already suspected but hadn't quite put into words.
+
+Either way, the aim is the same:
+
+<p class="text"><strong>Clarity.</strong></p>
 
 ---
 
-I don't use tarot cards to predict the future.
+## What you receive
 
-I use them to reveal patterns.  
-The future is built from patterns.
+Send me your question together with the background I need to understand the situation.
 
-The cards help uncover blind spots, opportunities, hidden assumptions, and likely trajectories.
+I'll study what you've written and send you a private reading by email.
 
-Sometimes the answer is obvious.  
-Sometimes it's hiding in plain sight.
+This may include observations about:
 
-Either way, the goal is clarity.
+- the underlying pattern of the situation
+- the behaviour and motivations of the people involved
+- blind spots or assumptions worth questioning
+- possible developments and trajectories
+- practical options you may not have considered
 
-Not fortune-telling.
+There is no rigid formula.
 
-<p class="text">Clarity.</p>
-
----
-     
-A reading may use the Thoth Tarot, intuitive insight, or both.
-
-The cards act as symbolic prompts that help reveal patterns and possibilities that might otherwise be overlooked.
-
-Think of it as a structured conversation with your situation.
-
-The result is practical guidance you can actually use.
+Every situation is different.
 
 <div class="card">
-  <p><strong>Format:</strong> two options — email or phone/messenger</p>
+  <p><strong>Reading:</strong> $77</p>
+  <p><strong>Format:</strong> private email</p>
   <p><strong>Delivery:</strong> typically within 48 hours</p>
-  <p><strong>Private:</strong> confidential and secure</p>
+  <p><strong>Suitable for:</strong> one principal question or situation</p>
 </div>
 
-<div class="note">After you order you will receive an email directing you to a questionnaire where you can submit your question and details.</div>
+<div class="note">After ordering you will receive an email directing you to a questionnaire where you can send your question and any relevant background.</div>
 
 ---
 
-### Pattern Reading (Email)
+## Need to talk it through?
 
-**Investment :: $77**   
-Best for single issue situations.
+If your situation is complex and you'd rather discuss it directly, I also offer private one-hour consultations.
 
-<a href='https://www.fatfreecartpro.com/ecom/gb.php?&c=cart&ejc=2&cl=434879&i=1896027' onclick='return EJEJC_lc(this);' style='display:inline-block;background: #26a269 url(https://www.e-junkie.com/ej/images/newaddtocart.png) center/100px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);text-decoration: none;' target='ej_ejc' class='ec_ejc_thkbx'>&nbsp;</a>&nbsp;<a href="https://www.fatfreecartpro.com/ecom/gb.php?c=cart&ejc=2&cl=434879" target="ej_ejc" class="ec_ejc_thkbx" onclick="return EJEJC_lc(this);" style="display:inline-block;background: #26a269 url(https://www.e-junkie.com/ej/images/newviewcart.png) center/90px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);cursor: pointer;text-decoration: none;">&nbsp;</a>
+These are separate from readings and allow us to explore the situation in depth by phone, Signal, Telegram, Proton Meet, or another suitable method.
 
-<script type="text/javascript">function EJEJC_lc(th) { return false; }; </script>
-<script src="https://www.fatfreecartpro.com/ecom/box_fb_n.js" type="text/javascript"></script>
+**Consultations are $250.**
 
----
-
-### Strategic Pattern Reading (Phone)
-
-**Investment :: $147**   
-A deeper reading for more complex situations.
-
-<a href='https://www.fatfreecartpro.com/ecom/gb.php?&c=cart&ejc=2&cl=434879&i=1897713' onclick='return EJEJC_lc(this);' style='display:inline-block;background: #26a269 url(https://www.e-junkie.com/ej/images/newaddtocart.png) center/100px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);text-decoration: none;' target='ej_ejc' class='ec_ejc_thkbx'>&nbsp;</a>&nbsp;<a href="https://www.fatfreecartpro.com/ecom/gb.php?c=cart&ejc=2&cl=434879" target="ej_ejc" class="ec_ejc_thkbx" onclick="return EJEJC_lc(this);" style="display:inline-block;background: #26a269 url(https://www.e-junkie.com/ej/images/newviewcart.png) center/90px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);cursor: pointer;text-decoration: none;">&nbsp;</a>
+[View consultations →](/consultation/)
 
 ---
 
 ## Important note
 
-This is a strategic intuitive reading of your situation.
+A reading offers perspective on your situation.
 
-It is not legal, medical, psychiatric, or financial advice.  
+It is not legal, medical, psychiatric, or financial advice.
+
 You remain responsible for your own decisions and actions.
 
----
+<script type="text/javascript">function EJEJC_lc(th) { return false; }; </script>
+<script src="https://www.fatfreecartpro.com/ecom/box_fb_n.js" type="text/javascript"></script>
