@@ -1,20 +1,25 @@
 ---
 layout: layout.njk
-title: Magick That Works
-description: Occult Fixer. Spiritual Outlaw. Results Magician.
+title: Magick, Spells, & Mind Power
+description: Hardcore sorcery from the Devil's lair.
 ---
 
 # Doktor Snake
 
-<p class="text">Occult Fixer. Spiritual Outlaw. Results Magician</p>
+<p class="text"><strong>Magick, Spells &amp; Mind Power</strong><br>
+<em>Hardcore sorcery from the Devil's lair.</em></p>
 
 <p>"When the game around you stops playing straight...</br>
-When logic alone no longer moves the pieces...</br>
-That’s when people call Doktor Snake."</p>
+That’s when people call on Doktor Snake."</p>
+
+<div class="card">
+<p><a href="/contact/" class="btn">Contact Doktor Snake</a></p>
+  <p class="text">
+    For bookings, private enquiries, and urgent situations.
+  </p>
+  </div>
 
 <img class="about-hero" src="/assets/img/ds-logo.jpg" alt="Doktor Snake">
-
-<p class="note">“‘Spells’ in traditional terms. Here: structured influence workings applied with precision.”</p>
 
 ## Magick That Works. Power That Wins.
 
@@ -22,23 +27,15 @@ The game might be rigged.
 But you can still hack the system.   
 I can help you break the code.
 
-I'm Doktor Snake — magician, philosopher, fixer.
+I'm Doktor Snake — magician, spiritual outlaw, fixer.
 
-For outsiders that see too much, feel too deep, and refuse to quit.
-
-<div class="card">
-
-<p><a href="/contact/" class="btn">Contact Doktor Snake</a></p>
-  <p class="text">
-    For bookings, private enquiries, and urgent situations.
-  </p>
-  </div>
+> For outsiders that see too much, feel too deep, and refuse to quit.
   
   <div class="card">
 
 <p><a href="/newsletter/" class="btn">Subscribe to the Newsletter</a></p>
   <p class="text">
-    Field reports, videos, and updates from the edge.
+    Scribblings from a voodoo alchemist.
   </p>
 
 </div>
@@ -48,9 +45,9 @@ For outsiders that see too much, feel too deep, and refuse to quit.
 ## Choose Your Weapon
 
 <div class="card">
-  <h3>INFLUENCE (Strategic Spellworkings)</h3>
+  <h3>INFLUENCE — Strategic Spellworkings</h3>
   <p class="text">
-    Precise, powerful. Shifts outcomes, reshapes probabilities.
+    Precise &amp; powerful. Shifts outcomes.
   </p>
   <p><a class="btn" href="/influence/">View Influence →</a></p>
 </div>
@@ -58,7 +55,7 @@ For outsiders that see too much, feel too deep, and refuse to quit.
 <div class="card">
   <h3>DISPATCH</h3>
   <p class="text">
-   A private running log of workings, notes, and field reports. PLUS: High Intensity Operations.
+   Latest workings &amp; max power operations.
   </p>
   <p><a class="btn" href="/dispatch/">View Dispatch →</a></p>
 </div>
@@ -66,7 +63,7 @@ For outsiders that see too much, feel too deep, and refuse to quit.
 <div class="card">
   <h3>RETAINER</h3>
   <p class="text">
-   Monthly Workings · Direct Access · Strategic Influence
+   Monthly Workings · Direct Access
   </p>
   <p><a class="btn" href="/retainer/">View Retainer →</a></p>
 </div>
@@ -74,7 +71,7 @@ For outsiders that see too much, feel too deep, and refuse to quit.
 <div class="card">
   <h3>GOETIA (Diabolus)</h3>
   <p class="text">
-    Heavy artillery. Opens locked doors. Commanding force.
+    Heavy artillery · Commanding force.
   </p>
   <p><a class="btn" href="/diabolus/">View Goetia →</a></p>
 </div>
@@ -82,21 +79,21 @@ For outsiders that see too much, feel too deep, and refuse to quit.
 <div class="card">
   <h3>READINGS</h3>
   <p class="text">
-   Insight, perspective, and practical guidance for the road ahead.
+   Insight and guidance for the road ahead.
   </p>
   <p><a class="btn" href="/readings/">View Readings →</a></p>
 </div>
 
 <div class="card">
-  <h3>DIGITAL TALISMANS + OLD WORLD ARTEFACTS</h3>
+  <h3>DIGITAL TALISMANS — OLD WORLD ARTEFACTS</h3>
   <p class="text">
-   Charged with etheric power to impact the reality framework and actualise desires.
+   Charged with etheric power to actualise desires.
   </p>
   <p><a class="btn" href="/digital-talismans/">View Talismans →</a></p>
 </div>
 
 <div class="card">
-  <h3>DOKOLOGY (Mind-Tech)</h3>
+  <h3>DOKOLOGY (Mind-Power)</h3>
   <p class="text">
     Full-spectrum 1-1 mentorship with Doktor Snake
   </p>
@@ -191,7 +188,7 @@ The only question left is simple:
 
   <details>
     <summary>Do you do spells?</summary>
-    <p>Yes. What many call “spells,” I approach as <strong>structured influence workings</strong>—magick focused on real-world outcomes, not theatre.<br>
+    <p>Yes. What many call “spells,” I approach as <strong>strategic influence workings</strong>—magick focused on real-world outcomes, not theatre.<br>
     <a href="/influence/">→ See current workings</a></p>
   </details>
 
@@ -203,8 +200,8 @@ The only question left is simple:
 
   <details>
     <summary>Does this actually work?</summary>
-    <p>Yes—when applied correctly, to the right situation.<br>
-    This isn’t about belief. It’s about <strong>focus, timing, and pressure applied in the right place</strong>.<br>
+    <p>Yes — when applied correctly, to the right situation.<br>
+    This is about <strong>focus, timing, and pressure applied in the right place</strong>.<br>
     Some shifts are immediate. Others build over days or weeks.</p>
   </details>
 
@@ -216,7 +213,7 @@ The only question left is simple:
 
   <details>
     <summary>How will I know it's done?</summary>
-    <p>You’ll receive a written Field Report or Transmission direct from me.</p>
+    <p>You’ll receive a written Field Report direct from me.</p>
   </details>
 
   <details>
@@ -226,7 +223,7 @@ The only question left is simple:
   
   <details>
   <summary>Is this compatible with my religion?</summary>
-  <p>Many clients come from Christian and other religious backgrounds. Dokology does not require any change in religious belief. These workings are intended as practical exercises in focused intention, conscious awareness, and strategic action. They are not acts of religious conversion or worship.</p>
+  <p>Many clients come from Christian and other religious backgrounds. My workings don't require any change in religious belief. These workings are intended as practical methods to bring the results you need.</p>
   </details>
 
 </section>
@@ -270,7 +267,7 @@ DoktorSnake.io (newsletter) is where I drop the real code — too raw for social
 <div class="card">
   <h3>Newsletter</h3>
   <p class="text">
-   Experiments in magick, consciousness and reality. Strange stories and practical methods for testing the edges of experience — from chaos magick and synchronicity to AI, dreams, folklore, and the unexplained. Results you can use, but not prove.
+   Scribblings from a voodoo alchemist.
   </p>
   <p><a class="btn" href="/newsletter/">Subscribe now →</a></p>
 </div>
