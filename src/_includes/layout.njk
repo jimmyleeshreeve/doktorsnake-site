@@ -84,7 +84,7 @@
 <nav class="nav">
 
   <div class="nav-dropdown">
-    <button class="nav-dropbtn">Workings ▾</button>
+    <button class="nav-dropbtn" aria-expanded="false">Workings ▾</button>
     <div class="nav-dropdown-content">
       <a href="/influence/">Influence</a>
       <a href="/diabolus/">Diabolus</a>
@@ -153,5 +153,56 @@
   </footer>
 
   <script src="/assets/js/site.js"></script>
+  <script>
+  const dropdowns = document.querySelectorAll('.nav-dropdown');
+
+  dropdowns.forEach(dropdown => {
+    const button = dropdown.querySelector('.nav-dropbtn');
+
+    button.addEventListener('click', event => {
+      event.stopPropagation();
+
+      const isOpen = dropdown.classList.contains('is-open');
+
+      dropdowns.forEach(item => {
+        item.classList.remove('is-open');
+
+        const itemButton = item.querySelector('.nav-dropbtn');
+        if (itemButton) {
+          itemButton.setAttribute('aria-expanded', 'false');
+        }
+      });
+
+      if (!isOpen) {
+        dropdown.classList.add('is-open');
+        button.setAttribute('aria-expanded', 'true');
+      }
+    });
+  });
+
+  document.addEventListener('click', () => {
+    dropdowns.forEach(dropdown => {
+      dropdown.classList.remove('is-open');
+
+      const button = dropdown.querySelector('.nav-dropbtn');
+      if (button) {
+        button.setAttribute('aria-expanded', 'false');
+      }
+    });
+  });
+
+  document.addEventListener('keydown', event => {
+    if (event.key === 'Escape') {
+      dropdowns.forEach(dropdown => {
+        dropdown.classList.remove('is-open');
+
+        const button = dropdown.querySelector('.nav-dropbtn');
+        if (button) {
+          button.setAttribute('aria-expanded', 'false');
+        }
+      });
+    }
+  });
+</script>
 </body>
 </html>

@@ -124,9 +124,8 @@ a:hover{
   white-space: nowrap;
 }
 
-.nav-dropdown:hover .nav-dropdown-content,
-.nav-dropdown:focus-within .nav-dropdown-content {
-  display: block;
+.nav-dropdown.is-open .nav-dropdown-content{
+  display:block;
 }
 
 .nav-dropdown-content a:hover,
