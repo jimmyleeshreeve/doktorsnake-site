@@ -85,11 +85,11 @@ I'm Doktor Snake — magician, spiritual outlaw, fixer.
 </div>
 
 <div class="card">
-  <h3>DIGITAL TALISMANS — OLD WORLD ARTEFACTS</h3>
+  <h3>DIGITAL TALISMANS</h3>
   <p class="text">
-   Charged with etheric power to actualise desires.
+   Charged media for money, momentum, protection, and influence.
   </p>
-  <p><a class="btn" href="/digital-talismans/">View Talismans →</a></p>
+  <p><a class="btn" href="/digital-talismans/">View Digital Talismans →</a></p>
 </div>
 
 <div class="card">
@@ -98,6 +98,14 @@ I'm Doktor Snake — magician, spiritual outlaw, fixer.
     Full-spectrum 1-1 mentorship with Doktor Snake
   </p>
   <p><a class="btn" href="/dokology/">View Dokology →</a></p>
+</div>
+
+<div class="card">
+  <h3>PHYSICAL TALISMANS</h3>
+  <p class="text">
+   Mysterious Lucky Coins that bring luck and good fortune.
+  </p>
+  <p><a class="btn" href="/digital-talismans/">View Talismans →</a></p>
 </div>
 
 ## Why They Come To Me (Again And Again)
