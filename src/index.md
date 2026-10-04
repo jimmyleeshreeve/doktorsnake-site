@@ -284,6 +284,9 @@ Discover my workings and readings.
 
 ---
 
+<img class="about-hero" src="/assets/img/voodoo-spellbook.jpg"
+     alt="Doktor Snake — Voodoo Spellbook (Original Edition)">
+
 <img class="about-hero" src="/assets/img/own-god.png" alt="Be Your Own God">
 
 

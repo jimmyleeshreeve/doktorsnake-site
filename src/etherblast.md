@@ -1,7 +1,7 @@
 ---
 title: "Strategic Spellworking :: EtherBlast"
 layout: layout.njk
-description: Old-world working mixed with modern remote influence, tuned to a single outcome.
+description: Old-world working mixed with modern distance influence, tuned to a single outcome.
 permalink: /etherblast/
 ---
 
@@ -9,9 +9,11 @@ permalink: /etherblast/
 
 # Strategic Spellworking :: EtherBlast
 
-<p class="text">Old-world working mixed with modern remote influence, tuned to a single outcome</p>
+<p class="text">Old-world working mixed with modern distance influence, tuned to a single outcome</p>
 
 ✔ Money, love, luck, crossed conditions, and more
+
+✔ Conducted at an ancient place of power
 
 ✔ Progress updates
 
@@ -22,15 +24,15 @@ permalink: /etherblast/
 <a href='https://www.fatfreecartpro.com/ecom/gb.php?&c=cart&ejc=2&cl=434879&i=1896021' onclick='return EJEJC_lc(this);' style='display:inline-block;background: #26a269 url(https://www.e-junkie.com/ej/images/newaddtocart.png) center/100px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);text-decoration: none;' target='ej_ejc' class='ec_ejc_thkbx'>&nbsp;</a>&nbsp;<a href="https://www.fatfreecartpro.com/ecom/gb.php?c=cart&ejc=2&cl=434879" target="ej_ejc" class="ec_ejc_thkbx" onclick="return EJEJC_lc(this);" style="display:inline-block;background: #26a269 url(https://www.e-junkie.com/ej/images/newviewcart.png) center/90px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);cursor: pointer;text-decoration: none;">&nbsp;</a>
 
    </div>
-
-   <img class="about-hero" src="/assets/img/distance-influence.jpg"
-     alt="EtherBlast">
+   
+      <img class="about-hero" src="/assets/img/snakewood-mound.jpg"
+     alt="Ancient mound on the Norfolk Suffolk borders">
 
 ## When one problem rises above all others...
 
-Be it money, health, love, interference, protection, the **EtherBlast** strategic spellworking is the sharpest, cleanest way to redirect the current fast.
+Be it money, health, love, interference, protection, the **EtherBlast** strategic spellworking is the cleanest way to redirect the current fast and bring the outcome you need.
 
-This is old-world working guided by ancient symbolic systems and ancestral ground. It's results magick executed through modern remote influence: precise, discreet, and tuned to a single outcome.
+This is old-world working guided by ancient symbolism and ancestral ground. It's results magick that's precise, discreet, and tuned to a single outcome.
 
 ---
 
@@ -76,7 +78,7 @@ Bitcoin or other crypto accepted.<br>
 ---
 
 ## 🗣️ What People Say
- 
+ 
 > *Within two days I got a call about the job I’d been chasing for six months. It’s spooky how effective Doktor Snake’s work is.*<br>
 — **Tina R., London**
 
@@ -106,6 +108,9 @@ Bitcoin or other crypto accepted.<br>
     </li>
   </ol>
 </section>
+
+   <img class="about-hero" src="/assets/img/distance-influence.jpg"
+     alt="EtherBlast">
 
 <div class="operator-notice">
   
@@ -137,3 +142,5 @@ Bitcoin or other crypto accepted.<br>
   </p>
 
 </div>
+
+

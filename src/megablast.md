@@ -1,17 +1,20 @@
 ---
 title: "Strategic Spellworking ­:: MegaBlast"
 layout: layout.njk
-description: Old-world working mixed with high-end remote influence, configured to three outcomes.
+description: Old-world working mixed with distance influence, configured to three outcomes.
 permalink: /megablast/
 ---
 
    <div class="card">
+<a id="card-header"></a>
 
 # Strategic Spellworking :: MegaBlast
 
-<p class="text">Old-world working mixed with high-end remote influence, configured to three outcomes.</p>
+<p class="text">Old-world working mixed with distance influence, configured to three outcomes.</p>
 
 ✔ Financial flow, love, health, clearing negativity, and more
+
+✔ Conducted at an ancient place of power
 
 ✔ Progress updates
 
@@ -19,12 +22,23 @@ permalink: /megablast/
 
 **$667**
 
- <a href='https://www.fatfreecartpro.com/ecom/gb.php?&c=cart&ejc=2&cl=434879&i=1896023' onclick='return EJEJC_lc(this);' style='display:inline-block;background: #26a269 url(https://www.e-junkie.com/ej/images/newaddtocart.png) center/100px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);text-decoration: none;' target='ej_ejc' class='ec_ejc_thkbx'>&nbsp;</a>&nbsp;<a href="https://www.fatfreecartpro.com/ecom/gb.php?c=cart&ejc=2&cl=434879" target="ej_ejc" class="ec_ejc_thkbx" onclick="return EJEJC_lc(this);" style="display:inline-block;background: #26a269 url(https://www.e-junkie.com/ej/images/newviewcart.png) center/90px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);cursor: pointer;text-decoration: none;">&nbsp;</a>
+ <a href='https://www.fatfreecartpro.com/ecom/gb.php?&c=cart&ejc=2&cl=434879&i=1896023' onclick='return EJEJC_lc(this);' style='display:inline-block;background: #26a269 url(https://www.e-junkie.com/ej/images/newaddtocart.png) center/100px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);text-decoration: none;' target='ej_ejc' class='ec_ejc_thkbx'>&nbsp;</a>&nbsp;<a href="https://www.fatfreecartpro.com/ecom/gb.php?c=cart&ejc=2&cl=434879" target="ej_ejc" class="ec_ejc_thkbx" onclick="return EJEJC_lc(this);" style="display:inline-block;background: #26a269 url(https://www.e-junkie.com/ej/images/newviewcart.png) center/90px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);cursor: pointer;text-decoration: none;">&nbsp;</a>
+
+⇛ Payment plans available on request — <a href="/contact/">email me.</a>
+
+<div class="btc-badge">
+  ALTERNATIVE PAYMENT CHANNEL :: ₿ BITCOIN AVAILABLE
+</div>
+
+<div class="note--inline">
+Bitcoin or other crypto accepted.<br>
+<a href="/contact/">Contact</a> Doktor Snake to arrange.
+</div>
 
    </div>
    
-   <img class="about-hero" src="/assets/img/distance-influence.jpg"
-     alt="MegaBlast">
+      <img class="about-hero" src="/assets/img/snakewood-rise.jpg"
+     alt="Ancient tumulus on the Norfolk Suffolk borders">
 
 ## The MegaBlast is a bespoke, three-intention working...
 
@@ -54,33 +68,14 @@ Once you define the three intentions, I take over: the ritual is entirely person
 
 ## How the Working Operates
 
-I journey to a power-site in Suffolk — where ancestral charge and ancient symbolic systems meet. There, I conduct a deep trance working, aligning the three intentions into a unified energy field.
+I journey to a place of power in Suffolk — typically an ancient mound where the paleo-magnetic bedrock pulses beneath my feet. There, I conduct a deep trance working, aligning the three intentions into a unified field of energy.
 
-Through field-manipulation and remote influence, your three chosen intentions converge and pulse outward — reshaping your reality-stream on multiple levels simultaneously.
-
-### INVESTMENT :: $667 USD
-*All workings are conducted personally by Doktor Snake and prepared specifically for the client.*
-
- <a href='https://www.fatfreecartpro.com/ecom/gb.php?&c=cart&ejc=2&cl=434879&i=1896023' onclick='return EJEJC_lc(this);' style='display:inline-block;background: #26a269 url(https://www.e-junkie.com/ej/images/newaddtocart.png) center/100px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);text-decoration: none;' target='ej_ejc' class='ec_ejc_thkbx'>&nbsp;</a>&nbsp;<a href="https://www.fatfreecartpro.com/ecom/gb.php?c=cart&ejc=2&cl=434879" target="ej_ejc" class="ec_ejc_thkbx" onclick="return EJEJC_lc(this);" style="display:inline-block;background: #26a269 url(https://www.e-junkie.com/ej/images/newviewcart.png) center/90px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);cursor: pointer;text-decoration: none;">&nbsp;</a>
- 
- <script type="text/javascript">function EJEJC_lc(th) { return false; }; </script>
-<script src="https://www.fatfreecartpro.com/ecom/box_fb_n.js" type="text/javascript"></script>
-
-⇛ Payment plans available on request — <a href="/contact/">email me.</a>
-
-<div class="btc-badge">
-  ALTERNATIVE PAYMENT CHANNEL :: ₿ BITCOIN AVAILABLE
-</div>
-
-<div class="note--inline">
-Bitcoin or other crypto accepted.<br>
-<a href="/contact/">Contact</a> Doktor Snake to arrange.
-</div>
+Through etheric field-manipulation, your three chosen intentions converge and pulse outward — reshaping your reality-stream on multiple levels simultaneously, to bring the results you require.
 
 ---
- 
+ 
 ## ✨ Testimonials
- 
+ 
 > *I asked for love, money, and peace of mind. Two weeks later, a new job offer, unexpected check, and my ex left me alone. 10/10.*<br>
 — **Brian S., Toronto**
 
@@ -110,6 +105,11 @@ Bitcoin or other crypto accepted.<br>
     </li>
   </ol>
 </section>
+
+[ BEGIN THE WORKING ](#card-header)
+
+<img class="about-hero" src="/assets/img/distance-influence.jpg"
+     alt="MegaBlast">
 
 <div class="operator-notice">
  

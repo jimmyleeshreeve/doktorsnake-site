@@ -1,7 +1,7 @@
 ---
 title: "Influence :: Strategic Spellwork"
 layout: layout.njk
-description: Shifts the stuck patterns around situations to bring the results you need.
+description: Shifts the stuck patterns to bring the results you need.
 permalink: /influence/
 ---
 
@@ -9,11 +9,11 @@ permalink: /influence/
 
 # Influence :: Strategic Spellwork
 
-<p class="text">My flagship influence workings are structured into three operational tiers - EtherBlast, MegaBlast, and GigaBlast.</p>
+<p class="text">My flagship influence workings are structured into three tiers - EtherBlast, MegaBlast, and GigaBlast.</p>
 
 ✔ For when the stakes are real, and the situation matters.
 
-✔ Shifts the stuck patterns around situations to bring the results you need.
+✔ Shifts the stuck patterns to bring the results you need.
 
 ✔ Suitable for people of any faith or none.
 
