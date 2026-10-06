@@ -7,9 +7,7 @@ permalink: /newsletter/
 
 # Subscribe to Doktor Snake
 
-### FREE — MAGICK & MIND POWER
-
-Scribblings from a renegade alchemist.
+### FREE — SCRIBBLINGS FROM A RENEGADE ALCHEMIST
 
 Strange stories and practical methods for testing the edges of experience — from chaos magick and synchronicity to AI, dreams, folklore, and the unexplained.
 

@@ -276,7 +276,7 @@ DoktorSnake.io (newsletter) is where I drop the real code — too raw for social
 <div class="card">
   <h3>Newsletter</h3>
   <p class="text">
-   Scribblings from a voodoo alchemist.
+   Scribblings from a renegade alchemist.
   </p>
   <p><a class="btn" href="/newsletter/">Subscribe now →</a></p>
 </div>
