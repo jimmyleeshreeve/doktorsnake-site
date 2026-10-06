@@ -36,7 +36,7 @@ I'm Doktor Snake — magician, spiritual outlaw, fixer.
 
 <p><a href="/newsletter/" class="btn">Subscribe to the Newsletter</a></p>
   <p class="text">
-    Scribblings from a voodoo alchemist.
+    Scribblings from a renegade alchemist.
   </p>
 
 </div>
@@ -106,7 +106,7 @@ I'm Doktor Snake — magician, spiritual outlaw, fixer.
   <p class="text">
    Mysterious Lucky Coins that bring luck and good fortune.
   </p>
-  <p><a class="btn" href="/digital-talismans/">View Talismans →</a></p>
+  <p><a class="btn" href="/digital-talismans/">View Physical Talismans →</a></p>
 </div>
 
 ## Why They Come To Me (Again And Again)

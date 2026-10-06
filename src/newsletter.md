@@ -9,7 +9,7 @@ permalink: /newsletter/
 
 ### FREE — MAGICK & MIND POWER
 
-Scribblings from a voodoo alchemist.
+Scribblings from a renegade alchemist.
 
 Strange stories and practical methods for testing the edges of experience — from chaos magick and synchronicity to AI, dreams, folklore, and the unexplained.
 
@@ -21,5 +21,7 @@ Strange stories and practical methods for testing the edges of experience — fr
 
 </div>
 
-<img class="about-hero" src="/assets/img/voodoo-spellbook.jpg"
+   <img class="about-hero" src="/assets/img/voodoo-spellbook.jpg"
      alt="Doktor Snake — Voodoo Spellbook (Original Edition)">
+     
+   <img class="about-hero" src="/assets/img/voodoo-spellbook-new-edition.jpg" alt="Doktor Snake's Voodoo Spellbook (Black Edition">
