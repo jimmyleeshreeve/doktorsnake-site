@@ -1,17 +1,20 @@
 ---
 title: "Strategic Spellworking :: GigaBlast"
 layout: layout.njk
-description: Old-world working mixed with modern remote influence, tuned to five outcomes.
+description: Old-world working mixed with modern distance influence, tuned to five outcomes.
 permalink: /gigablast/
 ---
 
    <div class="card">
+   <a id="card-header"></a>
 
 # Strategic Spellworking :: GigaBlast
 
 <p class="text">Old-world working mixed with modern remote influence, tuned to five outcomes.</p>
 
 ✔ Finance, relationships, business, removing negativity, and more
+
+✔ Conducted at an ancient place of power
 
 ✔ Progress updates
 
@@ -21,10 +24,21 @@ permalink: /gigablast/
 
 <a href='https://www.fatfreecartpro.com/ecom/gb.php?&c=cart&ejc=2&cl=434879&i=1896024' onclick='return EJEJC_lc(this);' style='display:inline-block;background: #26a269 url(https://www.e-junkie.com/ej/images/newaddtocart.png) center/100px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);text-decoration: none;' target='ej_ejc' class='ec_ejc_thkbx'>&nbsp;</a>&nbsp;<a href="https://www.fatfreecartpro.com/ecom/gb.php?c=cart&ejc=2&cl=434879" target="ej_ejc" class="ec_ejc_thkbx" onclick="return EJEJC_lc(this);" style="display:inline-block;background: #26a269 url(https://www.e-junkie.com/ej/images/newviewcart.png) center/90px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);cursor: pointer;text-decoration: none;">&nbsp;</a>
 
+⇛ Payment plans available on request — <a href="/contact/">email me.</a>
+
+<div class="btc-badge">
+  ALTERNATIVE PAYMENT CHANNEL :: ₿ BITCOIN AVAILABLE
+</div>
+
+<div class="note--inline">
+Bitcoin or other crypto accepted.<br>
+<a href="/contact/">Contact</a> Doktor Snake to arrange.
+</div>
+
    </div>
    
-   <img class="about-hero" src="/assets/img/distance-influence.jpg"
-     alt="GigaBlast">
+   <img class="about-hero" src="/assets/img/bronze-age-mound-suffolk.jpg"
+     alt="Bronze Age Mound">
 
 ## Recommended when the situation carries significant consequences...
 
@@ -52,30 +66,9 @@ This GigaBlast working is bespoke. No pre-set formulas. Every sequence is config
 
 ## How The GigaBlast Is Cast
 
-The working is conducted at a secluded site in East Anglia — a place where the ether folds into itself. I enter a deep trance, utilising ancient symbolic systems, while directing modern remote influence to shift the probabilities in your favour.
+The working is conducted at a secluded site in East Anglia — a place where the ether folds into itself. I enter a deep trance, utilising ancient symbolic systems, while directing modern distance influence to shift the fate-streams in your favour.
 
-The five intentions are built separately, then bound into a single numinous pulse. This pulse radiates through the field, shifting circumstances on multiple levels: personal, social, emotional, material, and astral.
-
----
-
-### INVESTMENT :: $1,200 USD
-*All workings are conducted personally by Doktor Snake and prepared specifically for the client.*
-
-<a href='https://www.fatfreecartpro.com/ecom/gb.php?&c=cart&ejc=2&cl=434879&i=1896024' onclick='return EJEJC_lc(this);' style='display:inline-block;background: #26a269 url(https://www.e-junkie.com/ej/images/newaddtocart.png) center/100px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);text-decoration: none;' target='ej_ejc' class='ec_ejc_thkbx'>&nbsp;</a>&nbsp;<a href="https://www.fatfreecartpro.com/ecom/gb.php?c=cart&ejc=2&cl=434879" target="ej_ejc" class="ec_ejc_thkbx" onclick="return EJEJC_lc(this);" style="display:inline-block;background: #26a269 url(https://www.e-junkie.com/ej/images/newviewcart.png) center/90px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);cursor: pointer;text-decoration: none;">&nbsp;</a>
- 
- <script type="text/javascript">function EJEJC_lc(th) { return false; }; </script>
-<script src="https://www.fatfreecartpro.com/ecom/box_fb_n.js" type="text/javascript"></script>
-
-⇛ Payment plans available on request — <a href="/contact/">email me.</a>
- 
- <div class="btc-badge">
-  ALTERNATIVE PAYMENT CHANNEL :: ₿ BITCOIN AVAILABLE
-</div>
-
-<div class="note--inline">
-Bitcoin or other crypto accepted.<br>
-<a href="/contact/">Contact</a> Doktor Snake to arrange.
-</div>
+The five intentions are built separately, then bound into a single numinous pulse. This pulse radiates through the etheric field, shifting circumstances on multiple levels: personal, social, emotional, material, and astral.
 
 ---
  
@@ -111,7 +104,10 @@ Bitcoin or other crypto accepted.<br>
   </ol>
 </section>
 
----
+[ → BEGIN THE WORKING ](#card-header)
+
+   <img class="about-hero" src="/assets/img/distance-influence.jpg"
+     alt="GigaBlast">
 
 <div class="operator-notice">
  
@@ -150,7 +146,7 @@ Bitcoin or other crypto accepted.<br>
 
 This working is rooted in a real-life case documented in the second edition of my *Doktor Snake’s Voodoo Spellbook*. It draws on the same deep-field ritual technology and spirit negotiation developed in that infamous case.
 
-You can read an abridged version of the story here:
+You can read an abridged version of the story here:   
 [Grimoire of the Seven Obsidian Kings →](https://www.doktorsnake.io/p/grimoire-of-the-seven-obsidian-kings-e9d)
 
 ---
