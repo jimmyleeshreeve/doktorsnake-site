@@ -1,13 +1,14 @@
 ---
 layout: layout.njk
-title: Magick, Spells, & Mind Power
-description: Hardcore sorcery from the Devil's lair.
+title: Magick, Spellcasting, Mind Power
+description: "Hacking the system · Breaking the code"
+date: 2026-10-05
 ---
 
 # Doktor Snake
 
-<p class="text"><strong>Magick, Spells &amp; Mind Power</strong><br>
-<em>Hardcore sorcery from the Devil's lair.</em></p>
+<p class="text"><strong>Magick, Spellcasting, Mind Power</strong><br>
+<em>Hacking the system · Breaking the code</em></p>
 
 <p>"When the game around you stops playing straight...</br>
 That’s when people call on Doktor Snake."</p>

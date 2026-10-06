@@ -106,7 +106,7 @@ Through etheric field-manipulation, your three chosen intentions converge and pu
   </ol>
 </section>
 
-[ BEGIN THE WORKING ](#card-header)
+[ → BEGIN THE WORKING ](#card-header)
 
 <img class="about-hero" src="/assets/img/distance-influence.jpg"
      alt="MegaBlast">

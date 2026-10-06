@@ -6,6 +6,7 @@ permalink: /etherblast/
 ---
 
    <div class="card">
+   <a id="card-header"></a>
 
 # Strategic Spellworking :: EtherBlast
 
@@ -22,6 +23,15 @@ permalink: /etherblast/
 **$375**
 
 <a href='https://www.fatfreecartpro.com/ecom/gb.php?&c=cart&ejc=2&cl=434879&i=1896021' onclick='return EJEJC_lc(this);' style='display:inline-block;background: #26a269 url(https://www.e-junkie.com/ej/images/newaddtocart.png) center/100px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);text-decoration: none;' target='ej_ejc' class='ec_ejc_thkbx'>&nbsp;</a>&nbsp;<a href="https://www.fatfreecartpro.com/ecom/gb.php?c=cart&ejc=2&cl=434879" target="ej_ejc" class="ec_ejc_thkbx" onclick="return EJEJC_lc(this);" style="display:inline-block;background: #26a269 url(https://www.e-junkie.com/ej/images/newviewcart.png) center/90px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);cursor: pointer;text-decoration: none;">&nbsp;</a>
+
+<div class="btc-badge">
+  ALTERNATIVE PAYMENT CHANNEL :: ₿ BITCOIN AVAILABLE
+</div>
+
+<div class="note--inline">
+Bitcoin or other crypto accepted.<br>
+<a href="/contact/">Contact</a> Doktor Snake to arrange.
+</div>
 
    </div>
    
@@ -58,25 +68,6 @@ There I enter trance, tune into the field, and push your chosen intention into t
 
 ---
 
-### INVESTMENT :: $375 USD
-*All workings are conducted personally by Doktor Snake and prepared specifically for the client.*
-
-<a href='https://www.fatfreecartpro.com/ecom/gb.php?&c=cart&ejc=2&cl=434879&i=1896021' onclick='return EJEJC_lc(this);' style='display:inline-block;background: #26a269 url(https://www.e-junkie.com/ej/images/newaddtocart.png) center/100px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);text-decoration: none;' target='ej_ejc' class='ec_ejc_thkbx'>&nbsp;</a>&nbsp;<a href="https://www.fatfreecartpro.com/ecom/gb.php?c=cart&ejc=2&cl=434879" target="ej_ejc" class="ec_ejc_thkbx" onclick="return EJEJC_lc(this);" style="display:inline-block;background: #26a269 url(https://www.e-junkie.com/ej/images/newviewcart.png) center/90px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);cursor: pointer;text-decoration: none;">&nbsp;</a>
-
-<script type="text/javascript">function EJEJC_lc(th) { return false; }; </script>
-<script src="https://www.fatfreecartpro.com/ecom/box_fb_n.js" type="text/javascript"></script>
-
-<div class="btc-badge">
-  ALTERNATIVE PAYMENT CHANNEL :: ₿ BITCOIN AVAILABLE
-</div>
-
-<div class="note--inline">
-Bitcoin or other crypto accepted.<br>
-<a href="/contact/">Contact</a> Doktor Snake to arrange.
-</div>
-
----
-
 ## 🗣️ What People Say
  
 > *Within two days I got a call about the job I’d been chasing for six months. It’s spooky how effective Doktor Snake’s work is.*<br>
@@ -108,6 +99,8 @@ Bitcoin or other crypto accepted.<br>
     </li>
   </ol>
 </section>
+
+[ → BEGIN THE WORKING ](#card-header)
 
    <img class="about-hero" src="/assets/img/distance-influence.jpg"
      alt="EtherBlast">
