@@ -296,7 +296,7 @@ Discover my workings and readings.
 <img class="about-hero" src="/assets/img/voodoo-spellbook.jpg"
      alt="Doktor Snake — Voodoo Spellbook (Original Edition)">
 
-<img class="about-hero" src="/assets/img/voodoo-spellbook-new-edition" alt="Doktor Snake's Voodoo Spellbook (Black Edition">
+<img class="about-hero" src="/assets/img/voodoo-spellbook-new-edition.jpg" alt="Doktor Snake's Voodoo Spellbook (Black Edition">
 
 
 
