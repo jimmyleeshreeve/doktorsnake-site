@@ -173,7 +173,7 @@ You simply tell me what you want the operation directed toward.
 
 **Limited availability.**
 
-[ BEGIN THE WORKING ](#card-header)
+[ → BEGIN THE WORKING ](#card-header)
 
 <script type="text/javascript">function EJEJC_lc(th) { return false; }; </script>
 <script src="https://www.fatfreecartpro.com/ecom/box_fb_n.js" type="text/javascript"></script>

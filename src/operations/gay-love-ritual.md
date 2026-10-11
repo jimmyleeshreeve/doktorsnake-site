@@ -1,10 +1,15 @@
 ---
 title: "Gay Love Ritual"
-description: Based on the old Follow Me Boy conjuration, but geared to same-sex relationships.
+description: Based on the old Follow Me Boy conjuration, but geared to same-sex relationships
+layout: layout.njk
 date: 2026-03-25
-tags:
-  - dispatch
+permalink: /operations/gay-love-ritual/
 ---
+
+# Gay Love Ritual
+
+<p class="text">Based on the old Follow Me Boy conjuration, but geared to same-sex relationships.</p>
+
 
 <img class="about-hero" src="/assets/img/gay-love-ritual.jpg"
      alt="Gay Love Ritual">
@@ -37,6 +42,25 @@ Here I call on the spirits of the land itself to "help our dear friend in need",
 
 When done, I leave three old British sixpences as an offering. As I leave, the Bronze Age mound returns to its serene stillness, concealing the echoes of ancient enchantments within its heart.
 
+### INVESTMENT :: $375.00 USD
+*All workings are conducted personally by Doktor Snake and prepared specifically for the client.*
+
+<a href='https://www.fatfreecartpro.com/ecom/gb.php?&c=cart&ejc=2&cl=434879&i=1896994' onclick='return EJEJC_lc(this);' style='display:inline-block;background: #26a269 url(https://www.e-junkie.com/ej/images/newaddtocart.png) center/100px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);text-decoration: none;' target='ej_ejc' class='ec_ejc_thkbx'>&nbsp;</a>&nbsp;<a href="https://www.fatfreecartpro.com/ecom/gb.php?c=cart&ejc=2&cl=434879" target="ej_ejc" class="ec_ejc_thkbx" onclick="return EJEJC_lc(this);" style="display:inline-block;background: #26a269 url(https://www.e-junkie.com/ej/images/newviewcart.png) center/90px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);cursor: pointer;text-decoration: none;">&nbsp;</a>
+
+<script type="text/javascript">function EJEJC_lc(th) { return false; }; </script>
+<script src="https://www.fatfreecartpro.com/ecom/box_fb_n.js" type="text/javascript"></script>
+
+<div class="btc-badge">
+  ALTERNATIVE PAYMENT CHANNEL :: ₿ BITCOIN AVAILABLE
+</div>
+
+<div class="note--inline">
+Bitcoin or other crypto accepted.<br>
+<a href="/contact/">Contact</a> Doktor Snake to arrange.
+</div>
+
+---
+
 <section class="after-order">
   <h2>After You Order</h2>
   <p class="after-order-intro">
@@ -58,25 +82,6 @@ When done, I leave three old British sixpences as an offering. As I leave, the B
     </li>
   </ol>
 </section>
-
-### INVESTMENT :: $375.00 USD
-*All workings are conducted personally by Doktor Snake and prepared specifically for the client.*
-
-<a href='https://www.fatfreecartpro.com/ecom/gb.php?&c=cart&ejc=2&cl=434879&i=1896994' onclick='return EJEJC_lc(this);' style='display:inline-block;background: #26a269 url(https://www.e-junkie.com/ej/images/newaddtocart.png) center/100px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);text-decoration: none;' target='ej_ejc' class='ec_ejc_thkbx'>&nbsp;</a>&nbsp;<a href="https://www.fatfreecartpro.com/ecom/gb.php?c=cart&ejc=2&cl=434879" target="ej_ejc" class="ec_ejc_thkbx" onclick="return EJEJC_lc(this);" style="display:inline-block;background: #26a269 url(https://www.e-junkie.com/ej/images/newviewcart.png) center/90px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);cursor: pointer;text-decoration: none;">&nbsp;</a>
-
-<script type="text/javascript">function EJEJC_lc(th) { return false; }; </script>
-<script src="https://www.fatfreecartpro.com/ecom/box_fb_n.js" type="text/javascript"></script>
-
-<div class="btc-badge">
-  ALTERNATIVE PAYMENT CHANNEL :: ₿ BITCOIN AVAILABLE
-</div>
-
-<div class="note--inline">
-Bitcoin or other crypto accepted.<br>
-<a href="/contact/">Contact</a> Doktor Snake to arrange.
-</div>
-
----
 
 <div class="operator-notice">
   
@@ -110,14 +115,3 @@ Bitcoin or other crypto accepted.<br>
 </div>
 
 
-<div class="dispatch-follow">
-
-  <p class="dispatch-follow-text">
-    Follow on Substack.
-  </p>
-
-  <a href="https://doktorsnake.io/welcome" class="btn">
-    Follow
-  </a>
-
-</div>

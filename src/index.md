@@ -10,7 +10,7 @@ date: 2026-10-05
 <p class="text"><strong>Magick, Spellcasting, Mind Power</strong><br>
 <em>Hacking the system · Breaking the code</em></p>
 
-<p>"When the game around you stops playing straight...</br>
+<p>"When the game around you stops playing straight...<br>
 That’s when people call on Doktor Snake."</p>
 
 <div class="card">
@@ -32,13 +32,28 @@ I'm Doktor Snake — magician, spiritual outlaw, fixer.
 
 > For outsiders that see too much, feel too deep, and refuse to quit.
   
-  <div class="card">
+ <div class="footer-follow home-follow">
+  <p class="eyebrow">FOLLOW THE SIGNAL</p>
 
-<p><a href="/newsletter/" class="btn">Subscribe to the Newsletter</a></p>
+  <div class="footer-follow-links">
+    <a href="https://doktorsnakenews.substack.com/welcome">
+      SUBSTACK →
+    </a>
+<a href="https://x.com/DoktorSnakeHQ">
+      X →
+    </a>
+  </div>
+</div>
+
+<br>
+
+<div class="card">
+  <p class="eyebrow">SIGNAL ARCHIVE</p>
+  <h3>DISPATCH</h3>
   <p class="text">
-    Scribblings from a renegade alchemist.
+    Essays, field reports, experiments &amp; transmissions.
   </p>
-
+  <p><a class="btn" href="/dispatch/">Enter Dispatch →</a></p>
 </div>
 
 ---
@@ -51,14 +66,6 @@ I'm Doktor Snake — magician, spiritual outlaw, fixer.
     Precise &amp; powerful. Shifts outcomes.
   </p>
   <p><a class="btn" href="/influence/">View Influence →</a></p>
-</div>
-
-<div class="card">
-  <h3>DISPATCH</h3>
-  <p class="text">
-   Latest workings &amp; max power operations.
-  </p>
-  <p><a class="btn" href="/dispatch/">View Dispatch →</a></p>
 </div>
 
 <div class="card">
@@ -106,7 +113,7 @@ I'm Doktor Snake — magician, spiritual outlaw, fixer.
   <p class="text">
    Mysterious Lucky Coins that bring luck and good fortune.
   </p>
-  <p><a class="btn" href="/digital-talismans/">View Physical Talismans →</a></p>
+  <p><a class="btn" href="/talismans/">View Physical Talismans →</a></a></p>
 </div>
 
 ## Why They Come To Me (Again And Again)
@@ -268,18 +275,6 @@ The only question left is simple:
 </section>
 
 ---
-
-## The Deep Dive Lives Here
-
-DoktorSnake.io (newsletter) is where I drop the real code — too raw for social media.
-
-<div class="card">
-  <h3>Newsletter</h3>
-  <p class="text">
-   Scribblings from a renegade alchemist.
-  </p>
-  <p><a class="btn" href="/newsletter/">Subscribe now →</a></p>
-</div>
 
 ## Explore
 

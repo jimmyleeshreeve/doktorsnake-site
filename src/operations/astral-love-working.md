@@ -1,10 +1,14 @@
 ---
 title: "Astral Love Working"
 description: Transmits your feelings to the one you love — and draws out their feelings for you.
+layout: layout.njk
 date: 2026-04-17
-tags:
-  - dispatch
+permalink: /operations/astral-love-working/
 ---
+
+# Astral Love Working
+
+<p class="text">Transmits your feelings to the one you love — and draws out their feelings for you.</p>
 
 `Ancient • Love • Ritual`
 
@@ -107,14 +111,3 @@ Bitcoin or other crypto accepted.<br>
 
 </div>
 
-<div class="dispatch-follow">
-
-  <p class="dispatch-follow-text">
-    Follow on Substack.
-  </p>
-
-  <a href="https://doktorsnake.io/welcome" class="btn">
-    Follow
-  </a>
-
-</div>

@@ -1,12 +1,14 @@
 ---
 title: "Addiction Annihilator"
-description: If you're hooked on drugs or alcohol, this will help you kick the habit
+description: Lose damaging addictions that adversely impact your life, family and friends
+layout: layout.njk
 date: 2026-07-23
-tags:
-  - dispatch
+permalink: /operations/addiction-annihilator/
 ---
 
-   <div class="card">
+<div class="card">
+   
+<h1>Addiction Annihilator</h1>
 
 <p class="text">Lose damaging addictions that adversely impact your life, family and friends.</p>
 
@@ -109,17 +111,5 @@ Through field-manipulation and remote influence, I reshape your reality-stream t
   <p class="operator-small">
   Fraudulent chargebacks will be disputed using payment and delivery records.
   </p>
-
-</div>
-
-<div class="dispatch-follow">
-
-  <p class="dispatch-follow-text">
-    Follow on Substack.
-  </p>
-
-  <a href="https://doktorsnake.io/welcome" class="btn">
-    Follow
-  </a>
 
 </div>

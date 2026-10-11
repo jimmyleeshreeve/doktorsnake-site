@@ -1,10 +1,14 @@
 ---
 title: "Gris Gris Ritual — Spiritual Cleansing"
 description: Aura purification - black magic and negativity removal - protection from wrongdoers
+layout: layout.njk
 date: 2026-04-04
-tags:
-  - dispatch
+permalink: /operations/gris-gris-ritual/
 ---
+
+# Gris Gris Ritual — Spiritual Cleansing
+
+<p class="text">Aura purification - black magic and negativity removal - protection from wrongdoers.</p>
 
 <img class="about-hero" src="/assets/img/magician-top-hat.jpg"
      alt="Magician wearing top hat, holding gris gris, sinister">
@@ -36,13 +40,13 @@ My old magical mentor Earl Marlowe, featured in my *Doktor Snake's Voodoo Spell
 
 > Doc, your gris-gris ritual is sure powerful, those unlucky spirits gone now, took their evil ways with them. I feel healed and good again.   
 Sam (Texas, USA)
-
+>
 > She’s finished, she aint’ do nothin bad to me again, that gris-gris protect me.   
 Martha (South Carolina, USA)
-
+>
 > Doc, your Gris-Gris Ritual cleared the evil and my luck is back with me again.   
 Janice (London, UK)_
-
+>
 > Doktor Snake, your spiritual cleansing gris-gris took away all that terrible negativity that was surrounding me, stopping me having a life, now I feel great!   Elroy (Atlanta, USA)
 
 ## INVESTMENT :: $475 USD
@@ -86,8 +90,6 @@ Bitcoin or other crypto accepted.<br>
   </ol>
 </section>
 
----
-
 <div class="operator-notice">
   
     <div class="operator-header">
@@ -119,15 +121,5 @@ Bitcoin or other crypto accepted.<br>
 
 </div>
 
-<div class="dispatch-follow">
 
-  <p class="dispatch-follow-text">
-    Follow on Substack.
-  </p>
-
-  <a href="https://doktorsnake.io/welcome" class="btn">
-    Follow
-  </a>
-
-</div>
 

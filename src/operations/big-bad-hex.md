@@ -1,10 +1,14 @@
 ---
 title: "The Big Bad Hex — Nasty Neighbour Zapper Edition"
 description: Takes out evil neighbours ­— even if they're working baleful witchcraft against you.
+layout: layout.njk
 date: 2026-03-31
-tags:
-  - dispatch
+permalink: /operations/big-bad-hex/
 ---
+
+# The Big Bad Hex — Nasty Neighbour Zapper Edition
+
+<p class="text">Takes out evil neighbours ­— even if they're working baleful witchcraft against you.</p>
 
 <img class="about-hero" src="/assets/img/doll-mojo-fire.jpg"
      alt="Big Bad Hex voodoo doll mojo hand on fire">
@@ -110,14 +114,3 @@ Bitcoin or other crypto accepted.<br>
 
 </div>
 
-<div class="dispatch-follow">
-
-  <p class="dispatch-follow-text">
-    Follow on Substack.
-  </p>
-
-  <a href="https://doktorsnake.io/welcome" class="btn">
-    Follow
-  </a>
-
-</div>

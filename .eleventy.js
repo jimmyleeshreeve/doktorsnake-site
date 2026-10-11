@@ -4,12 +4,17 @@ module.exports = function (eleventyConfig) {
   // Copy entire assets folder (img, audio, etc.)
   eleventyConfig.addPassthroughCopy({ "src/assets": "assets" });
 
+  // Copy EPUB and PDF book downloads
+  eleventyConfig.addPassthroughCopy({
+    "src/books/downloads": "books/downloads"
+  });
+
   eleventyConfig.addCollection("latestDispatches", function(collectionApi) {
     return collectionApi.getFilteredByTag("dispatch")
       .sort((a, b) => b.date - a.date)
       .slice(0, 3);
   });
-
+  
   // Copy favicon directly to root
   eleventyConfig.addPassthroughCopy({ "src/assets/img/favicon.ico": "favicon.ico" });
 

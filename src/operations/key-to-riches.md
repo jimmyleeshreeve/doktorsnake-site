@@ -1,10 +1,15 @@
 ---
 title: "Key To Riches"
 description: A graveyard-forged wealth ritual that pulls money, opportunity, and financial power into your life.
+layout: layout.njk
 date: 2026-03-28
-tags:
-  - dispatch
+permalink: /operations/key-to-riches/
 ---
+
+# Key To Riches
+
+<p class="text">A graveyard-forged wealth ritual that pulls money, opportunity, and financial power into your life.</p>
+
 
 <img class="about-hero" src="/assets/img/key-riches.jpg"
      alt="Key To Riches">
@@ -51,7 +56,7 @@ With the gates open, the spirit grants blessings of wealth, timing, confidence, 
 
 If you need a serious advantage in uncertain economic times, the Key To Riches ritual is your secret weapon for wealth, stability, and growth.
 
-🔑 **Activate the Key To Riches**
+ 🗝 **Activate the Key To Riches**  🗝
 
 ### INVESTMENT :: $750 USD
 
@@ -106,14 +111,3 @@ Bitcoin or other crypto accepted.<br>
 
 </div>
 
-<div class="dispatch-follow">
-
-  <p class="dispatch-follow-text">
-    Follow on Substack.
-  </p>
-
-  <a href="https://doktorsnake.io/welcome" class="btn">
-    Follow
-  </a>
-
-</div>

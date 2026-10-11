@@ -728,6 +728,12 @@ audio{
   margin:0 0.35rem;
 }
 
+.footer-follow-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+}
+
 /* Copy note */
 .copy-note{
   display:block;

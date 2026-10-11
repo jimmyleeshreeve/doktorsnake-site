@@ -1,10 +1,14 @@
 ---
 title: "Police Shield"
 description: Psionic working to keep the police off your back.
+layout: layout.njk
 date: 2026-03-21
-tags:
-  - dispatch
+permalink: /operations/police-shield/
 ---
+
+# Police Shield
+
+<p class="text">Psionic working to keep the police off your back.</p>
 
 <img class="about-hero" src="/assets/img/police-car.jpg"
      alt="Police Car">
@@ -31,6 +35,25 @@ At twilight, I head to an ancient Neolithic zone in Suffolk — barrow-rooted la
 
 There I enter trance, tune into the field, call on spirit and ancestral allies, and push your chosen intention into the ether with targeted force. Your situation is carried, aligned, and set in motion.
 
+### INVESTMENT :: $777 USD
+*All workings are conducted personally by Doktor Snake and prepared specifically for the client.*
+
+<a href='https://www.fatfreecartpro.com/ecom/gb.php?&c=cart&ejc=2&cl=434879&i=1896750' onclick='return EJEJC_lc(this);' style='display:inline-block;background: #26a269 url(https://www.e-junkie.com/ej/images/newaddtocart.png) center/100px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);text-decoration: none;' target='ej_ejc' class='ec_ejc_thkbx'>&nbsp;</a>&nbsp;<a href="https://www.fatfreecartpro.com/ecom/gb.php?c=cart&ejc=2&cl=434879" target="ej_ejc" class="ec_ejc_thkbx" onclick="return EJEJC_lc(this);" style="display:inline-block;background: #26a269 url(https://www.e-junkie.com/ej/images/newviewcart.png) center/90px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);cursor: pointer;text-decoration: none;">&nbsp;</a>
+
+<script type="text/javascript">function EJEJC_lc(th) { return false; }; </script>
+<script src="https://www.fatfreecartpro.com/ecom/box_fb_n.js" type="text/javascript"></script>
+
+<div class="btc-badge">
+  ALTERNATIVE PAYMENT CHANNEL :: ₿ BITCOIN AVAILABLE
+</div>
+
+<div class="note--inline">
+Bitcoin or other crypto accepted.<br>
+<a href="/contact/">Contact</a> Doktor Snake to arrange.
+</div>
+
+---
+
 <section class="after-order">
   <h2>After You Order</h2>
   <p class="after-order-intro">
@@ -52,25 +75,6 @@ There I enter trance, tune into the field, call on spirit and ancestral allies, 
     </li>
   </ol>
 </section>
-
-### INVESTMENT :: $777 USD
-*All workings are conducted personally by Doktor Snake and prepared specifically for the client.*
-
-<a href='https://www.fatfreecartpro.com/ecom/gb.php?&c=cart&ejc=2&cl=434879&i=1896750' onclick='return EJEJC_lc(this);' style='display:inline-block;background: #26a269 url(https://www.e-junkie.com/ej/images/newaddtocart.png) center/100px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);text-decoration: none;' target='ej_ejc' class='ec_ejc_thkbx'>&nbsp;</a>&nbsp;<a href="https://www.fatfreecartpro.com/ecom/gb.php?c=cart&ejc=2&cl=434879" target="ej_ejc" class="ec_ejc_thkbx" onclick="return EJEJC_lc(this);" style="display:inline-block;background: #26a269 url(https://www.e-junkie.com/ej/images/newviewcart.png) center/90px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);cursor: pointer;text-decoration: none;">&nbsp;</a>
-
-<script type="text/javascript">function EJEJC_lc(th) { return false; }; </script>
-<script src="https://www.fatfreecartpro.com/ecom/box_fb_n.js" type="text/javascript"></script>
-
-<div class="btc-badge">
-  ALTERNATIVE PAYMENT CHANNEL :: ₿ BITCOIN AVAILABLE
-</div>
-
-<div class="note--inline">
-Bitcoin or other crypto accepted.<br>
-<a href="/contact/">Contact</a> Doktor Snake to arrange.
-</div>
-
----
 
 <div class="operator-notice">
   
@@ -100,17 +104,5 @@ Bitcoin or other crypto accepted.<br>
   <p class="operator-small">
   Fraudulent chargebacks will be disputed using payment and delivery records.
   </p>
-
-</div>
-
-<div class="dispatch-follow">
-
-  <p class="dispatch-follow-text">
-    Follow on Substack.
-  </p>
-
-  <a href="https://doktorsnake.io/welcome" class="btn">
-    Follow
-  </a>
 
 </div>

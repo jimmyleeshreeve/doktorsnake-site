@@ -1,10 +1,14 @@
 ---
 title: "SnakeWood Talismans"
 description: Prepared and worked in an ancient English ritual landscape
+layout: layout.njk
 date: 2026-06-14
-tags:
-  - dispatch
+permalink: /operations/snakewood-talismans/
 ---
+
+# SnakeWood Talismans
+
+<p class="text">Prepared and worked in an ancient English ritual landscape.</p>
 
 <img class="about-hero" src="/assets/img/snakewood-rise.jpg"
      alt="SnakeWood Rise">

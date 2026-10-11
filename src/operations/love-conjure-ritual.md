@@ -1,10 +1,14 @@
 ---
 title: Love Conjure Ritual
 description: Cast at ancient Romano-Celtic mounds — high-octane relationship working
+layout: layout.njk
 date: 2026-04-03
-tags:
-  - dispatch
+permalink: /operations/love-conjure-ritual/
 ---
+
+# Love Conjure Ritual
+
+<p class="text">Cast at ancient Romano-Celtic mounds — high-octane relationship working</p>
 
 <img class="about-hero" src="/assets/img/bartlow-hills.jpg"
      alt="Bartlow Hills ancient mounds">
@@ -36,16 +40,15 @@ When the spirits arrive — shimmering beings of plasma — I petition them to "
 
 > Doc brought my baby daddy back. It all good now. He not straying no more.   
 Desiree (Louisiana, USA)
-
+>
 > Removed the hex on my relationship, we’re all good now. We can move forwards again. I’m very happy.   
 Jaylee (New Mexico, USA)
-
 > I had a very difficult case and you were honest with me, you said, maybe we’ll pull it off and that you’d give it your best shot – and by god, it worked! She came back to me.   
 Jeremy (Aylesbury, UK)
-
+>
 > It brought me the perfect woman, thank you Doc. You’re the business!   
 Dave (Milwaukee, USA)
-
+>
 > I had a very difficult case with a relationship and you were honest with me, you said, maybe we’ll pull it off and that you’d give it your best shot – and by god, it worked!   
 Jeremy (Aylesbury, UK)
 
@@ -125,14 +128,3 @@ Bitcoin or other crypto accepted.<br>
 
 </div>
 
-<div class="dispatch-follow">
-
-  <p class="dispatch-follow-text">
-    Follow on Substack.
-  </p>
-
-  <a href="https://doktorsnake.io/welcome" class="btn">
-    Follow
-  </a>
-
-</div>

@@ -1,10 +1,14 @@
 ---
 title: CourtWork
 description: Sway The Judge — Get Leniency or Sentence Overturned
+layout: layout.njk
 date: 2026-03-26
-tags:
-  - dispatch
+permalink: /operations/courtwork/
 ---
+
+# Courtwork
+
+<p class="text">Sway The Judge — Get Leniency or Sentence Overturned</p>
 
 <img class="about-hero" src="/assets/img/judge-psi-influence.jpg"
      alt="Judge psionics influence">
@@ -99,14 +103,3 @@ Bitcoin or other crypto accepted.<br>
 </div>
 
 
-<div class="dispatch-follow">
-
-  <p class="dispatch-follow-text">
-    Follow on Substack.
-  </p>
-
-  <a href="https://doktorsnake.io/welcome" class="btn">
-    Follow
-  </a>
-
-</div>

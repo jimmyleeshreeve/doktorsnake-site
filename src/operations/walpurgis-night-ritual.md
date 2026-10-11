@@ -1,10 +1,14 @@
 ---
 title: Walpurgis Night Ritual
 description: Conducted yearly on April 30th, I channel the spirit of a medieval witch to enhance your psychic abilities, bring luck, protection, and financial fortune.
+layout: layout.njk
 date: 2026-04-02
-tags:
-  - dispatch
+permalink: /operations/walpurgis-night-ritual/
 ---
+
+# Walpurgis Night Ritual
+
+<p class="text">Conducted yearly on April 30th, I channel the spirit of a medieval witch to enhance your psychic abilities, bring luck, protection, and financial fortune.</p>
 
 <img class="about-hero" src="/assets/img/church-witch-familiar.jpg"
      alt="Ghost of a witch at medieval church">
@@ -144,14 +148,4 @@ Bitcoin or other crypto accepted.<br>
 
 </div>
 
-<div class="dispatch-follow">
 
-  <p class="dispatch-follow-text">
-    Follow on Substack.
-  </p>
-
-  <a href="https://doktorsnake.io/welcome" class="btn">
-    Follow
-  </a>
-
-</div>

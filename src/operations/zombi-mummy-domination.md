@@ -1,10 +1,14 @@
 ---
 title: "Zombi Mummy Domination Formula No.7"
 description: Bend any man or woman to your will. Gain dominant power. Influence others with unstoppable will
+layout: layout.njk
 date: 2026-03-19
-tags:
-  - dispatch
+permalink: /operations/zombi-mummy-domination/
 ---
+
+# Zombi Mummy Domination Formula No.7
+
+<p class="text">Bend any man or woman to your will. Gain dominant power. Influence others with unstoppable will.</p>
 
 <img class="about-hero" src="/assets/img/zombie-mummy-formulation.jpg"
      alt="Zombie Mummy Formulation No.7">
@@ -41,8 +45,9 @@ In the workplace, you find the following applies:
 
 The Zombi Mummy Formulation No. 7 was originally taught to me by my Voodoo mentor, Earl Marlowe. This is how he described it:
 
-> This working go back to Africa, to Egypt, and the original man, the Nubian, the black man. Make no mistake, this is black arts one of the strongest spells, known within the occult world. But you gotta remember that another word for Egypt was was ‘black.’ So this is the conjuration of the Egypts, the Egyptian arts, and the way of knowledge and understanding.   
-This working based on the pyramids that was built by the original man. Them pyramids was based on sound. The original man conjured sonic entities from the primal layers of the etheric lane. These entities live in the pyramids. The pyramids was mystic architecture.
+> This working go back to Africa, to Egypt, and the original man, the Nubian, the black man. Make no mistake, this is black arts one of the strongest spells, known within the occult world. But you gotta remember that another word for Egypt was was ‘black.’ So this is the conjuration of the Egypts, the Egyptian arts, and the way of knowledge and understanding.
+> 
+>This working based on the pyramids that was built by the original man. Them pyramids was based on sound. The original man conjured sonic entities from the primal layers of the etheric lane. These entities live in the pyramids. The pyramids was mystic architecture.
 
 <img class="about-hero" src="/assets/img/great-pyramid-burne-jones.jpg"
      alt="Great Pyramid Edward Burne Jones style">
@@ -134,15 +139,5 @@ Bitcoin or other crypto accepted.<br>
 
 </div>
 
-<div class="dispatch-follow">
 
-  <p class="dispatch-follow-text">
-    Follow on Substack.
-  </p>
-
-  <a href="https://doktorsnake.io/welcome" class="btn">
-    Follow
-  </a>
-
-</div>
 

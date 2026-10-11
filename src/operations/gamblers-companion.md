@@ -1,15 +1,19 @@
 ---
 title: "Gamblers' Companion Ritual"
 description: Packs a lucky power punch — xtreme "cash yo' check" juju
+layout: layout.njk
 date: 2026-03-20
-tags:
-  - dispatch
+permalink: /operations/gamblers-companion/
 ---
+
+# Gamblers' Companion Ritual
+
+<p class="text">Packs a lucky power punch — xtreme "cash yo' check" juju</p>
 
 <img class="about-hero" src="/assets/img/gamblers-companion.jpg"
      alt="Casino Gamblers Companion">
 
-<p class="text">Powerhouse ritual for gambling. Configured to make Lady Luck smile on you when you hit the casino, play lotteries or slots, and other games of chance.</p>
+**Powerhouse ritual for gambling. Configured to make Lady Luck smile on you when you hit the casino, play lotteries or slots, and other games of chance.**
 
 > It'll make the dog run outta the house, with his tail between his legs.
 
@@ -144,14 +148,4 @@ Bitcoin or other crypto accepted.<br>
 
 </div>
 
-<div class="dispatch-follow">
 
-  <p class="dispatch-follow-text">
-    Follow on Substack.
-  </p>
-
-  <a href="https://doktorsnake.io/welcome" class="btn">
-    Follow
-  </a>
-
-</div>
