@@ -31,6 +31,35 @@ I can help you break the code.
 I'm Doktor Snake — magician, spiritual outlaw, fixer.
 
 > For outsiders that see too much, feel too deep, and refuse to quit.
+
+
+<div class="card">
+  <p class="eyebrow">NEW BOOK · FREE DOWNLOAD</p>
+
+  <h3>The People Beneath England</h3>
+
+  <p class="text">
+    <em>Neanderthals, Wild Men, UFOs and the Secret of Hyperborea</em>
+  </p>
+
+  <img
+    class="about-hero"
+    src="/assets/img/people-beneath-england-cover.jpg"
+    alt="The People Beneath England book cover: Santon Downham church tower at twilight"
+    loading="lazy">
+
+  <p class="text">
+    A journey through the forests and villages of England,
+    where prehistoric archaeology, strange encounters and
+    ancient folklore begin to overlap.
+  </p>
+
+  <p>
+    <a class="btn" href="/books/">Explore the Book →</a>
+  </p>
+</div>
+
+<br>
   
  <div class="footer-follow home-follow">
   <p class="eyebrow">FOLLOW THE SIGNAL</p>
