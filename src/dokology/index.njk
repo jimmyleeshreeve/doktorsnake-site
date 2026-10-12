@@ -1,0 +1,97 @@
+---
+title: Dokology — The Human 2.0 Archive
+description: Investigations and practical methods for attention, consciousness, self-observation and operating the human mind-body system.
+permalink: /dokology/archive/
+layout: layout.njk
+noindex: false
+---
+
+<div class="card">
+
+  <p class="eyebrow">DOKTOR SNAKE / HUMAN 2.0</p>
+
+  <h1>Dokology</h1>
+
+  <p class="text">
+    The art and practice of operating the human
+    mind-body system.
+  </p>
+
+  <p class="text">
+    Attention · Self-observation · Consciousness ·
+    Emotional regulation · Decision-making
+  </p>
+
+  <p class="text">
+    Dokology explores how we can become more aware of
+    our thoughts, emotions and habitual reactions —
+    and learn to direct our lives more deliberately.
+  </p>
+
+  <p class="text">
+    From practical attention exercises and body scans
+    to Human 2.0, consciousness and the challenges of
+    living alongside intelligent machines.
+  </p>
+
+  <p class="eyebrow">PRACTICAL PROTOCOLS & INVESTIGATIONS</p>
+
+</div>
+
+<h2>Dokology Dispatches</h2>
+
+{% set articles = collections.dokology | reverse %}
+
+{% if articles.length %}
+
+  {% for article in articles %}
+
+    <div class="card">
+
+      <h3>
+        <a href="{{ article.url }}">
+          {{ article.data.title }}
+        </a>
+      </h3>
+
+      {% if article.data.description %}
+        <p class="text">
+          {{ article.data.description }}
+        </p>
+      {% endif %}
+
+      <p>
+        <a class="btn" href="{{ article.url }}">
+          Read Article →
+        </a>
+      </p>
+
+    </div>
+
+  {% endfor %}
+
+{% else %}
+
+  <p>Dokology transmissions are forthcoming.</p>
+
+{% endif %}
+
+<div class="card">
+
+  <p class="eyebrow">WORK WITH DOKTOR SNAKE</p>
+
+  <h3>Dokology Mentorship</h3>
+
+  <p class="text">
+    For those wanting to go beyond reading and
+    develop a more systematic practice of
+    self-observation, attention and Human 2.0.
+  </p>
+
+  <p>
+    <a class="btn" href="/dokology/">
+      Explore Dokology Mentorship →
+    </a>
+  </p>
+
+</div>
