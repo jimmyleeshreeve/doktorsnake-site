@@ -85,6 +85,26 @@ I'm Doktor Snake — magician, spiritual outlaw, fixer.
   <p><a class="btn" href="/dispatch/">Enter Dispatch →</a></p>
 </div>
 
+<div class="card">
+
+  <p class="eyebrow">THE MACHINE AGE</p>
+
+  <h3>MachineKind</h3>
+
+  <p class="text">
+    Artificial minds. Synthetic culture. Human 2.0.
+    Exploring the strange new civilisation forming
+    around machine intelligence.
+  </p>
+
+  <p>
+    <a class="btn" href="/machinekind/">
+      Enter MachineKind →
+    </a>
+  </p>
+
+</div>
+
 ---
 
 ## Choose Your Weapon

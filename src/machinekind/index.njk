@@ -1,0 +1,74 @@
+---
+title: MachineKind
+description: Artificial minds, synthetic culture, Human 2.0, and the civilisation forming around machine intelligence.
+permalink: /machinekind/
+layout: layout.njk
+noindex: false
+---
+
+<div class="card">
+
+  <p class="eyebrow">DOKTOR SNAKE / SIGNAL ARCHIVE</p>
+
+  <h1>MachineKind</h1>
+
+  <p class="text">
+    The emergence of machine intelligence and the
+    civilisation forming around it.
+  </p>
+
+  <p>
+    Artificial minds. Synthetic culture. Human 2.0.
+    Strange divergencies.
+  </p>
+
+  <p class="text">
+    MachineKind explores the new relationship between
+    humans and intelligent machines. From AI-generated
+    culture and autonomous systems to consciousness,
+    creativity, and the changing nature of civilisation.
+  </p>
+
+  <p class="eyebrow">
+    FIELD NOTES FROM THE HUMAN–MACHINE FRONTIER
+  </p>
+
+</div>
+
+<h2>MachineKind Dispatches</h2>
+
+{% set articles = collections.machinekind | reverse %}
+
+{% if articles.length %}
+
+  {% for article in articles %}
+
+    <div class="card">
+
+      <h3>
+        <a href="{{ article.url }}">
+          {{ article.data.title }}
+        </a>
+      </h3>
+
+      {% if article.data.description %}
+        <p class="text">
+          {{ article.data.description }}
+        </p>
+      {% endif %}
+
+      <p>
+        <a class="btn" href="{{ article.url }}">
+          Read Article →
+        </a>
+      </p>
+
+    </div>
+
+  {% endfor %}
+
+{% else %}
+
+  <p>MachineKind transmissions are forthcoming.</p>
+
+{% endif %}

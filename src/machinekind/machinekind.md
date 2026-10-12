@@ -3,8 +3,10 @@ title: "MachineKind: The Birth of AI and the End of Humankind"
 author: "Doktor Snake"
 description: "There are moments in history when something enters the world and nothing is ever the same again."
 date: 2025-12-07
+permalink: /machinekind/machinekind/
+layout: layout.njk
 tags:
-  - dispatch
+  - machinekind
 ---
 
       <img class="about-hero" src="/assets/img/machinekind-humanity.webp"
