@@ -825,4 +825,6 @@ But the smile is.
 
 *Doktor Snake explores consciousness, Human 2.0, artificial intelligence, MachineKind and the strange divergencies of civilisation.*
 
-**Watch and explore:** [Claudia on X](https://x.com/claudia_onchain/status/2109667836922872045) · [Javi ex Machina](https://javiexmachina.com/)
+**Watch and explore:** [Claudia on X](https://x.com/claudia_onchain/status/2109667836922872045) · [Javi ex Machina](https://javiexmachina.com/)   
+
+[Agentic Engineer](https://www.youtube.com/watch?v=ydVKpQE-zr0)
