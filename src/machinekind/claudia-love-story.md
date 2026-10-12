@@ -16,6 +16,9 @@ noindex: false
 
 **By Doktor Snake**
 
+   <img class="about-hero" src="/assets/img/neon-cafe-noir-with-baby-goats.jpg"
+    alt="Neon cafe noir with baby goats">
+
 There's a young woman called Claudia.
 
 She's beautiful.
