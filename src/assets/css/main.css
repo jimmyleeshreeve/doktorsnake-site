@@ -133,6 +133,31 @@ a:hover{
   background: #111;
 }
 
+/* Keep mobile navbar rows compact */
+.nav {
+  align-content: flex-start;
+  row-gap: 12px;
+}
+
+/* Keep dropdown triggers aligned with normal links */
+.nav-dropdown {
+  display: inline-flex;
+  align-items: center;
+}
+
+/* Float dropdowns over page content */
+.nav-dropdown-content {
+  top: calc(100% + 8px);
+}
+
+/* Prevent right-side dropdowns escaping mobile viewport */
+@media (max-width: 700px) {
+  .nav-dropdown:last-of-type .nav-dropdown-content {
+    left: auto;
+    right: 0;
+  }
+}
+
 
 /* Typography */
 p{
