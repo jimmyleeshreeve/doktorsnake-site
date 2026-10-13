@@ -877,3 +877,21 @@ The precise relationship between the open-character Claudia and her appearance i
 *Doktor Snake explores consciousness, artificial intelligence, Human 2.0, MachineKind and the strange divergencies of civilisation.*
 
 **[Explore MachineKind at DoktorSnake.com](https://www.doktorsnake.com/machinekind/)**
+
+---
+
+<div class="card">
+  <p class="eyebrow">FIELD REFERENCE</p>
+  <h3>Operator Lexicon — Signal Edition</h3>
+  <p class="text">
+    The working vocabulary of Edge Cult, Dokology
+    and MachineKind. From boot.void to the Third Mind:
+    the language of attention, operators and
+    synthetic intelligence.
+  </p>
+  <p>
+    <a class="btn" href="/dispatch/operator-lexicon/">
+      Open Lexicon →
+    </a>
+  </p>
+</div>
