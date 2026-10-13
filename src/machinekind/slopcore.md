@@ -1,7 +1,7 @@
 ---
 title: "SlopCore: When the Machines Invent Their Own Counterculture"
 description: "The rise of synthetic music, machine-generated culture, and the Human 2.0 operator."
-date: 2026-10-12
+date: 2026-10-12T14:23:00+01:00
 permalink: /machinekind/slopcore/
 layout: layout.njk
 tags:

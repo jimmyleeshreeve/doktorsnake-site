@@ -2,15 +2,19 @@
 title: Operator Lexicon — Signal Edition
 description: The Edge Cult doesn’t use slogans or tired tribal language. Operators speak in signal, not slang.
 layout: layout.njk
+date: 2026-02-18T21:43:00+01:00
 noindex: false
-permalink: /operators/operator-lexicon/
+permalink: /dispatch/operator-lexicon/
+tags: 
+   - dispatch
+   - dokology
 ---
 
-# ⟗ O·L·S·Ξ ⟗
+# Operator Lexicon — Signal Edition
+
+## ⟗ O·L·S·Ξ ⟗
 
 `\>> edge.cult / operator.lexicon / signal.edition`
-
-## Operator Lexicon — Signal Edition
 
 A quiet page for those who notice things.
 

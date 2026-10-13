@@ -1,7 +1,7 @@
 ---
 title: "CLAUDIA :: A LOVE STORY"
 description: "Artificial women, the chemistry of attraction, and the Human 2.0 problem of falling in love."
-date: 2026-10-11
+date: 2026-10-12T20:49:00+1:00
 permalink: /machinekind/claudia-love-story/
 layout: layout.njk
 tags:
@@ -820,6 +820,20 @@ And I find myself smiling.
 She's not real.
 
 But the smile is.
+
+---
+
+### A Note About Claudia
+
+Claudia is part of an emerging experiment in **Open Characters** — synthetic personalities whose visual references and character specifications can be shared and reused by different AI creators.
+
+Rather than belonging exclusively to one video or fictional universe, an open character can potentially appear in numerous independent productions while retaining a recognisable identity.
+
+It's an intriguing development for MachineKind: fictional personalities becoming portable across creative systems.
+
+The precise relationship between the open-character Claudia and her appearance in *Agentic Engineer* hasn't yet been formally established.
+
+**Explore:** [Claudia.gallery](https://claudia.gallery/) · [Claudia on X](https://x.com/claudia_onchain)
 
 ---
 
