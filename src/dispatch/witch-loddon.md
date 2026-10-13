@@ -36,13 +36,13 @@ The charm to divine a future husband was a verse, a poetic meter that could see 
 
 The young girl had to go to Loddon Church, the foreboding monument to the one God. Then she had to pick roses from the graveyard and form crosses out from them. If she received the answer as to whom her husband would be, she forsook a full 12 full months from her life, and not a day shorter.
 
-* How many in the fair and quaint village of Loddon gave up one year of their lives for Mother Chergrave’s aid?
+**How many in the fair and quaint village of Loddon gave up one year of their lives for Mother Chergrave’s aid?**
 
-* How many saw her bat-winged familiars fly around in the night air?
+**How many saw her bat-winged familiars fly around in the night air?**
 
-* How many regretted that they’d sacrificed the last year of their lives for some wish or another?
+**How many regretted that they’d sacrificed the last year of their lives for some wish or another?**
 
-* How many lay on their deathbeds knowing that they could have had another year?
+**How many lay on their deathbeds knowing that they could have had another year?**
 
 Satan merely laughed and looked on from the top of the tower of the looming church of the one God, and muttered:
 
