@@ -2,6 +2,7 @@
 title: Operators
 description: Tactical transmissions — digital products designed to sharpen perception, interrupt automatic thinking, strengthen independent judgment.
 layout: layout.njk
+permalink: /operators/
 noindex: false
 ---
 
@@ -42,12 +43,21 @@ Observe what changes.
 </div>
 
 </div>
-<br>
-<div class="operator-card">
-  <h3>Read The Operator Lexicon</h3>
-  <div class="operator-title">A quiet page for those who notice things.</div>
-  <p class="operator-desc">
-  The Edge Cult doesn’t use slogans or tired tribal language. Operators speak in signal, not slang. If you’ve found this page, you’re already inside the layer.
+
+---
+
+<div class="card">
+  <p class="eyebrow">FIELD REFERENCE</p>
+  <h3>Operator Lexicon — Signal Edition</h3>
+  <p class="text">
+    The working vocabulary of Edge Cult, Dokology
+    and MachineKind. From boot.void to the Third Mind:
+    the language of attention, operators and
+    synthetic intelligence.
   </p>
-  <p><a class="btn" href="/operators/operator-lexicon/">Open File →</a></p>
+  <p>
+    <a class="btn" href="/dispatch/operator-lexicon/">
+      Open Lexicon →
+    </a>
+  </p>
 </div>
