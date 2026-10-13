@@ -1,11 +1,18 @@
 ---
 title: "The Faustian Pact"
-author: "Doktor Snake"
 description: "Selling Your Soul to the Machine"
 date: 2026-10-01
+permalink: /dispatch/the-faustian-pact/
+layout: layout.njk
 tags:
   - dispatch
+noindex: false
 ---
+
+# The Faustian Pact
+*Selling Your Soul to the Machine*
+
+**By Doktor Snake**
 
       <img class="about-hero" src="/assets/img/man-crossroads-night.webp"
      alt="A man standing at a country crossroads in rural Mississippi at night">

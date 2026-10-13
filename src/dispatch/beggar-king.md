@@ -3,9 +3,14 @@ title: "The Beggar King"
 author: "Doktor Snake"
 description: "An Encounter With The Beggar King"
 date: 2017-05-30
+layout: layout.njk
+permalink: /dispatch/beggar-king/
 tags:
   - dispatch
 ---
+
+# The Beggar King
+*An Encounter With The Beggar King*
 
 <img class="about-hero" src="/assets/img/overlooking-norwich-cathedral.jpg"
      alt="A misty scene overlooking Norwich Cathedral">

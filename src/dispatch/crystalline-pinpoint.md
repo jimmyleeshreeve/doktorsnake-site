@@ -3,15 +3,17 @@ title: "The Crystalline Pinpoint"
 author: "Doktor Snake"
 description: "A Night of Chaos Magick at an Abandoned Norfolk Airbase"
 date: 2017-06-18
+layout: layout.njk
 tags:
   - dispatch
 ---
 
+# The Crystalline Pinpoint
+*A Night of Chaos Magick at an Abandoned Norfolk Airbase*
+
       <img class="about-hero" src="/assets/img/rackheath-airbase-runway.webp"
      alt="Dilapidated runway at Rackheath airbase">
      
-     <!-- This one might need a better title, also needs a description -->
-
 It was RedJack’s birthday, September 18th, 2017. He didn’t much like birthdays as twelve years before he’d been robbed at knife point in London on his birthday. And the balefulness of this event had stuck with him.
 
 But this birthday it would be different.

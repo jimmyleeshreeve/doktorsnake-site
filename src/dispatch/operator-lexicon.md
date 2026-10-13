@@ -1,6 +1,5 @@
-
 ---
-title: Operator Lexicon — Signal Edition
+title: "Operator Lexicon — Signal Edition"
 description: The working vocabulary of Edge Cult, Dokology and MachineKind. Field terminology, attention protocols and command-line operations for strange times.
 layout: layout.njk
 date: 2026-10-13
