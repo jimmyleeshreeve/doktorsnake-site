@@ -579,6 +579,26 @@ The experience may arise through pattern recognition, coincidence, projection, d
 
 The operator records the impression without immediately converting it into a supernatural explanation.
 
+**DOOMJOY**  
+*Category: Edge Cult / MachineKind / Cultural Response*
+
+The exhilaration of creative liberation occurring alongside the possible collapse of familiar cultural, economic and professional structures.
+
+Not optimism. Not pessimism.
+
+An ecstatic willingness to ride the technological upheaval without requiring guarantees about the destination.
+
+DoomJoy is particularly evident among experienced creators who spent decades constrained by budgets, institutions, employers and production infrastructure — and suddenly find themselves able to make work independently.
+
+The future may be catastrophic.
+
+The tools are extraordinary.
+
+The operator gets to work anyway.
+
+<p class="note"><strong>Slop Shock</strong> — the machine-made artefact unexpectedly moves you. <strong>MajikGen</strong> — you set the creative process in motion and allow the machine to generate possibilities. <strong>DoomJoy</strong> — you experience the freedom of making things while the old world trembles.</p>
+
+---
 ### FIELD NOTE
 
 `>> field.report / slop.shock / 001`
