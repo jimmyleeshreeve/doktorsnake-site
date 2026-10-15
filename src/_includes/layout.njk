@@ -4,8 +4,9 @@
 
 {% set metaDescription = description | default("Hacking the system · Breaking the code") %}
 {% set canonicalUrl = "https://www.doktorsnake.com" + page.url %}
-{% set ogImage = ogImage | default("https://doktorsnake.com/assets/img/og-doktorsnake.jpg") %}
-{% set ogImageAlt = ogImageAlt | default("Doktor Snake — Magick, Spellcasting, Mind Power") %}
+{% set shareImage = image | default("/assets/img/og-doktorsnake.jpg", true) %}
+{% set ogImage = "https://www.doktorsnake.com" + shareImage %}
+{% set ogImageAlt = ogImageAlt | default(title | default("Doktor Snake")) %}
 {% set ogType = ogType | default("website") %}
 
 {% if title %}
@@ -60,16 +61,6 @@
   <meta name="twitter:description" content="{{ metaDescription }}" />
   <meta name="twitter:image" content="{{ ogImage }}" />
   <meta name="twitter:site" content="@DoktorSnakeHQ" />
-  
-  
-{% set shareImage = image or "/assets/img/default-share.jpg" %}
-
-<meta property="og:type" content="article">
-<meta property="og:title" content="{{ title | default('Doktor Snake') | escape }}">
-<meta property="og:description" content="{{ description | default('Hacking the system. Breaking the code.') | escape }}">
-<meta property="og:image" content="https://www.doktorsnake.com{{ shareImage }}">
-<meta property="og:url" content="https://www.doktorsnake.com{{ page.url }}">
-<meta name="twitter:card" content="summary_large_image">
 
   <title>{{ metaTitle }}</title>
   <link rel="stylesheet" href="/assets/css/main.css">

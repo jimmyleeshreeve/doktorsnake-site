@@ -5,7 +5,9 @@ layout: layout.njk
 date: 2026-10-13
 noindex: false
 permalink: /dispatch/operator-lexicon/
-image: ""
+image: "/assets/img/operator-lexicon-signal-edition.jpg"
+ogType: "article"
+ogImageAlt: "Operator Lexicon — Signal Edition"
 tags:
   - dispatch
   - dokology
