@@ -4,6 +4,7 @@ author: "Doktor Snake"
 description: "There are moments in history when something enters the world and nothing is ever the same again."
 date: 2025-12-07
 permalink: /machinekind/machinekind/
+image: "/assets/img/machinekind-humanity.webp"
 layout: layout.njk
 tags:
   - machinekind

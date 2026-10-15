@@ -5,6 +5,7 @@ layout: layout.njk
 date: 2026-10-13
 noindex: false
 permalink: /dispatch/operator-lexicon/
+image: ""
 tags:
   - dispatch
   - dokology
@@ -16,6 +17,9 @@ tags:
 ## ⟗ O·L·S·Ξ ⟗
 
 `> edge.cult / operator.lexicon / signal.edition`
+
+   <img class="about-hero" src="/assets/img/operator-lexicon-signal-edition.jpg"
+    alt="Operator Lexicon — Signal Edition">
 
 **STATUS: ACTIVE — VOCABULARY EXPANDING**
 

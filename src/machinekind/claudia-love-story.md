@@ -3,6 +3,7 @@ title: "CLAUDIA :: A LOVE STORY"
 description: "Artificial women, the chemistry of attraction, and the Human 2.0 problem of falling in love."
 date: 2026-10-12T20:49:00+1:00
 permalink: /machinekind/claudia-love-story/
+image: "/assets/img/neon-cafe-noir-with-baby-goats.jpg"
 layout: layout.njk
 tags:
   - machinekind

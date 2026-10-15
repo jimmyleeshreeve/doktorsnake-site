@@ -5,4 +5,13 @@ description:
 noindex: true
 ---
 
+```mermaid
+flowchart TD
+    A[Start] --> B{Decision?}
+    B -->|Yes| C[Process A]
+    B -->|No| D[Process B]
+    C --> E[End]
+    D --> E
+```
+
 
