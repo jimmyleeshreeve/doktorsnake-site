@@ -63,8 +63,35 @@ I've practised for decades.
       <a href="/necrom/">Enter Necrom →</a>
     </p>
   </div>
+  
+  
+<div class="card">
+  <p class="eyebrow">Reality Engineering</p>
 
-  <br>
+  <h3>PIPELINE</h3>
+
+  <p>
+    <strong>One intention. One operation. Send the signal.</strong>
+    Money, love, luck, opportunity, protection — a bespoke
+    working built around your desired outcome, identifying
+    the channels through which change might occur.
+  </p>
+
+  <p>
+    Traditional spellcraft meets the new operating system.
+    You declare the intention. Doktor Snake builds the Pipeline.
+  </p>
+
+  <p>
+    <strong>$375</strong>
+  </p>
+
+  <p>
+    <a href="/operations/pipeline/">Commission PIPELINE →</a>
+  </p>
+</div>
+
+  <br><br>
 
   <p class="eyebrow">Wanga Formulations</p>
 
