@@ -3,6 +3,7 @@ title: "Stop Typing, Start Conducting"
 description: "The philosophy of Agentic Engineer — Javi ex Machina's SlopCore anthem for Human 2.0 and the rise of MachineKind."
 date: 2026-10-13T12:38:00+01:00
 permalink: /machinekind/agentic-engineer/
+image: "/assets/img/xxx.jpg"
 layout: layout.njk
 tags:
   - machinekind
