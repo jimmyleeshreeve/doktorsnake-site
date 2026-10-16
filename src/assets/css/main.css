@@ -1558,3 +1558,36 @@ body::after{
   }
 
 }
+
+/* Pipeline Terminal Form */
+
+.pipeline-terminal {
+  border: 1px solid #17c200;
+  padding: 1.5rem;
+}
+
+.pipeline-terminal input[type="text"] {
+  display: block;
+  width: 100%;
+  max-width: 420px;
+  box-sizing: border-box;
+  padding: 0.8rem;
+  margin: 0.75rem 0;
+  background: #080e08;
+  color: #aaffaa;
+  border: 1px solid #17c200;
+  border-radius: 4px;
+  font: inherit;
+}
+
+.pipeline-terminal input:focus {
+  outline: 2px solid #17c200;
+  outline-offset: 2px;
+}
+
+#pipeline-status {
+  font-family: monospace;
+  color: #17c200;
+  font-size: 0.9rem;
+  margin: 1rem 0;
+}

@@ -42,27 +42,83 @@ No two Pipelines are necessarily alike.
 3. You'll receive an email with a link to your private intake questionnaire, where you can explain your circumstances in greater detail.
 4. Doktor Snake reviews your information and prepares the operation.
 
-**$375 — Commission PIPELINE**
-
+### $375 — Commission PIPELINE
 *One intention. One operation. Send the signal.*
 
-"Decelaration is not a strategy. Move fast — fate will catch up."
 
-<input
-  type="text"
-  name="os0"
-  maxlength="60"
-  placeholder="Money, Love, Luck..."
-  required
-/>
+<div class="card pipeline-terminal">
 
-<form method='GET' action='https://www.fatfreecartpro.com/ecom/gb.php' target='ej_ejc' accept-charset='UTF-8'>
-<input type='hidden' name='cl' value='434879'>
-<input type='hidden' name='i' value='1904586'>
-<input type='hidden' name='c' value='cart'><input type='hidden' name='ejc' value='2'>
-Declare your intention (1-3 words)<input type='hidden' name='on0' value='Declare your intention (1-3 words)'><input type='text' name='os0' maxlength='60' placeholder="money, Love, Luck..." required /><br/><br/>
-<input style='display:inline-block;background: #17c200 url(https://www.e-junkie.com/ej/images/newaddtocart.png) center/100px no-repeat;border: none;padding: 7px 55px;border-radius: 3px;box-shadow: 1px 2px 2px rgba(0,0,0,0.2);cursor: pointer;' type='submit' value='' onclick='return EJEJC_lc(this.parentNode);' class='ec_ejc_thkbx'>
-</form>
+  <p class="eyebrow">PIPELINE // INTENTION TERMINAL</p>
+  <h3>Declare Your Intention</h3>
+  <p>One to three words. State the desired outcome.</p>
+
+  <form id="pipeline-form"
+        method="GET"
+        action="https://www.fatfreecartpro.com/ecom/gb.php"
+        target="ej_ejc"
+        accept-charset="UTF-8">
+
+    <input type="hidden" name="cl" value="434879">
+    <input type="hidden" name="i" value="1904586">
+    <input type="hidden" name="c" value="cart">
+    <input type="hidden" name="ejc" value="2">
+
+    <input type="hidden" name="on0"
+           value="Declare your intention (1-3 words)">
+
+    <label for="pipeline-intent">INTENTION:</label>
+
+    <input type="text"
+           id="pipeline-intent"
+           name="os0"
+           maxlength="60"
+           placeholder="Money / Love / Luck..."
+           required>
+
+    <p id="pipeline-status" role="status" aria-live="polite">
+      &gt; AWAITING INTENTION_
+    </p>
+
+    <button type="submit" class="btn">
+      INITIATE PIPELINE →
+    </button>
+
+  </form>
+
+</div>
+
+<script>
+document.getElementById("pipeline-form")
+  .addEventListener("submit", function(event) {
+
+    event.preventDefault();
+
+    const field = document.getElementById("pipeline-intent");
+    const status = document.getElementById("pipeline-status");
+    const intention = field.value.trim();
+
+    if (!intention) {
+      status.textContent = "> ERROR: NO INTENTION DETECTED";
+      field.focus();
+      return;
+    }
+
+    field.value = intention;
+    status.textContent = "> INTENTION ACCEPTED. OPENING CHECKOUT...";
+
+    // Pass the validated form to E-junkie's cart handler.
+    if (typeof EJEJC_lc === "function") {
+      EJEJC_lc(this);
+    } else {
+      status.textContent = "> CHECKOUT UNAVAILABLE. PLEASE RETRY.";
+    }
+
+  });
+</script>
+
+
+> Decelaration is not a strategy. Move fast — fate will catch up.
+
 
 ---
 
