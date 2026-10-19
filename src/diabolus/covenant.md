@@ -2,6 +2,7 @@
 title: Satan's Money Covenant
 layout: layout.njk
 description: Brings you money – even in a shot-up economy.
+image: "/assets/img/satan-treasure-chest.jpg"
 noindex: true
 ---
 

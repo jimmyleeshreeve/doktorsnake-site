@@ -3,6 +3,7 @@ title: "Strategic Spellworking :: GigaBlast"
 layout: layout.njk
 description: Old-world working mixed with modern distance influence, tuned to five outcomes.
 permalink: /gigablast/
+image: "/assets/img/bronze-age-mound-suffolk.jpg"
 ---
 
    <div class="card">

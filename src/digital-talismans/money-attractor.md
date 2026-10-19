@@ -3,6 +3,7 @@ title: Money Attractor — Digital Talisman
 layout: layout.njk
 description: A short audio-visual talisman designed to shift your state around money, opportunity, and receptivity, bringing practical momentum.
 permalink: /digital-talismans/money-attractor/
+image: "/assets/img/money-attractor-sigil.png"
 ---
 
 # Money Attractor — Digital Talisman

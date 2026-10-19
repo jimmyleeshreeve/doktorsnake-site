@@ -5,6 +5,7 @@ date: 2026-09-23
 layout: layout.njk
 description: A seven-day maximum-intensity field working focused on one objective.
 permalink: /protocol-x/
+image: "/assets/img/protocol-x.jpg"
 ---
 
 <div class="card">

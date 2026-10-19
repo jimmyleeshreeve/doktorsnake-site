@@ -1,9 +1,10 @@
 ---
 title: Zungo Ritual
+description: "Mantras · Spells · Obeah · Wanga"
 author: Doktor Snake
 date: 2026-10-02
 layout: layout.njk
-description: "Mantras · Spells · Obeah · Wanga"
+image: "/assets/img/moonlit-ritual-ancient-barrow.jpg"
 permalink: /zungo-ritual/
 ---
 

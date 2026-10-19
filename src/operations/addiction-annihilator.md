@@ -4,6 +4,7 @@ description: Lose damaging addictions that adversely impact your life, family an
 layout: layout.njk
 date: 2026-07-23
 permalink: /operations/addiction-annihilator/
+image: "/assets/img/mound-serpent.jpg"
 ---
 
 <div class="card">

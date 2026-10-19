@@ -4,6 +4,7 @@ description: Cast at ancient Romano-Celtic mounds — high-octane relationship w
 layout: layout.njk
 date: 2026-04-03
 permalink: /operations/love-conjure-ritual/
+image: "/assets/img/bartlow-hills.jpg"
 ---
 
 # Love Conjure Ritual

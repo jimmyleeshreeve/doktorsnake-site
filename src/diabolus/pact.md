@@ -1,7 +1,8 @@
 ---
 title: The Devil's Pact
 layout: layout.njk
-description: Gain wealth, power and dominance (and any other damn thing you desire) 
+description: Gain wealth, power and dominance (and any other damn thing you desire)
+image: "/assets/img/ds-logo.jpg"
 noindex: false
 ---
 

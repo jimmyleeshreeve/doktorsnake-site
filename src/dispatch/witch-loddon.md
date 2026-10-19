@@ -4,6 +4,7 @@ description: Mother Chergrave, known as a witch, was a dispenser of charms and t
 date: 2022-09-23
 layout: layout.njk
 permalink: /dispatch/witch-loddon/
+image: "/assets/img/loddon-church.webp"
 tags:
     - dispatch
 noindex: false

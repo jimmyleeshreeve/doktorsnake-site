@@ -3,6 +3,7 @@ title: "Delirium Demonizer Hex - The Great Tormentor"
 description: Take 'em down, drive  'em insane
 layout: layout.njk
 permalink: /diabolus/delirium/
+image: "/assets/img/delirium-torment.png"
 noindex: false
 ---
 

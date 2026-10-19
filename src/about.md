@@ -2,6 +2,7 @@
 layout: layout.njk
 title: About Doktor Snake
 description: Author. Magician. Former national newspaper journalist. Investigator. Experimenter.
+image: "/assets/img/og-doktorsnake.jpg"
 ---
 
 # About Doktor Snake

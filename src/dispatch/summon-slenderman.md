@@ -3,6 +3,7 @@ title: How To Summon Slenderman
 description: They did it for fun — to experiment with the nature of reality - but things got seriously out of hand.
 date: 2023-01-12
 permalink: /dispatch/summon-slenderman/
+image: "/assets/img/slenderman-fog.webp"
 layout: layout.njk
 tags:
    - dispatch

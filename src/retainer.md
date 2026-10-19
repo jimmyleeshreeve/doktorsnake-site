@@ -3,6 +3,7 @@ title: Retainer
 layout: layout.njk
 description: Get Doktor Snake on a monthly retainer — direct access and workings throughout the year.
 permalink: /retainer/
+image: "/assets/img/dok-rural-cyber.jpg"
 ---
 
 <div class="card">

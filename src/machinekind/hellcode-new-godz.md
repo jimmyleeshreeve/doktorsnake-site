@@ -3,6 +3,7 @@ title: "WRITING HELLCODE FOR THE NEW GODZ"
 description: "The world is over. Dream it at midnight. Ship it at dawn. Welcome to DoomJoy."
 date: 2026-10-14T20:49:00+1:00
 permalink: /machinekind/hellcode-new-godz/
+image: "/assets/img/rainy-neon-post-punk-london.jpg"
 layout: layout.njk
 tags:
   - machinekind

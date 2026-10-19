@@ -1,12 +1,12 @@
 ---
-
 title: "Necrom: The God With No Name"
 author: Doktor Snake
 date: 2026-09-21
 layout: layout.njk
 description: A private three-day field operation centred upon one seemingly immovable objective.
 permalink: /necrom/
--------------------
+image: "/assets/img/necrom-underworld.jpg"
+---
 
 <div class="card">
 

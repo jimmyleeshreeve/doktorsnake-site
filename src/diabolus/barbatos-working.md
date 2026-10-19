@@ -3,6 +3,7 @@ title: "Barbatos :: Hidden Money Working"
 layout: layout.njk
 description: Unearth hidden channels of money and attract unexpected windfalls.
 permalink: /diabolus/barbatos-working/
+image: "/assets/img/duke-barbatos.jpg"
 noindex: false
 ---
 

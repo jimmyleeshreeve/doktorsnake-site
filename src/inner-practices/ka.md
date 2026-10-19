@@ -3,6 +3,7 @@ title: The Ka
 description: An Ancient Egyptian Meditation on the Vital Self
 layout: layout.njk
 permalink: /inner-practices/ka/
+image: "/assets/img/ka.jpg"
 ---
 
 # The Ka

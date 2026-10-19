@@ -4,6 +4,7 @@ description: Conducted yearly on April 30th, I channel the spirit of a medieval 
 layout: layout.njk
 date: 2026-04-02
 permalink: /operations/walpurgis-night-ritual/
+image: "/assets/img/church-witch-familiar.jpg"
 ---
 
 # Walpurgis Night Ritual

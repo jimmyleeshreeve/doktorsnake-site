@@ -4,6 +4,7 @@ description: Packs a lucky power punch — xtreme "cash yo' check" juju
 layout: layout.njk
 date: 2026-03-20
 permalink: /operations/gamblers-companion/
+image: "/assets/img/gamblers-companion.jpg"
 ---
 
 # Gamblers' Companion Ritual

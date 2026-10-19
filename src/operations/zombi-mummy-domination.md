@@ -4,6 +4,7 @@ description: Bend any man or woman to your will. Gain dominant power. Influence 
 layout: layout.njk
 date: 2026-03-19
 permalink: /operations/zombi-mummy-domination/
+image: "/assets/img/zombie-mummy-formulation.jpg"
 ---
 
 # Zombi Mummy Domination Formula No.7

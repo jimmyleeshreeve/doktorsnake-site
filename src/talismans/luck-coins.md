@@ -3,6 +3,7 @@ title: Lucky Coins
 layout: layout.njk
 description: People have been at their very wits end of despair, but when they stumbled across a lucky coin it all changed.
 permalink: /digital-talismans/lucky-coins/
+image: "/assets/img/old-british-pennies.jpg"
 ---
 
 # Lucky Coins

@@ -3,6 +3,7 @@ title: "Daimonic Money Machine — Digital Talisman"
 layout: layout.njk
 description: Invocation of daemon Prince Clauneck to draw money and revenue — audio and epub
 permalink: /digital-talismans/money-machine/
+image: "/assets/img/clauneck-pan.jpg"
 ---
 
 ## Daimonic Money Machine

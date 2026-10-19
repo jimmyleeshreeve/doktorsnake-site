@@ -3,6 +3,7 @@ title: Archangel Ritual
 description: Spiritual cleansing and protection from malevolent forces.
 layout: layout.njk
 permalink: /diabolus/archangel/
+image: "/assets/img/archangel-ritual.webp"
 ---
 
 # Archangel Ritual

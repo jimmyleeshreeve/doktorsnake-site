@@ -3,6 +3,7 @@ title: GameMaster — For Extraordinary Gambling Luck
 layout: layout.njk
 description: Petition to Asmodeus for getting the edge in casinos, and all games of chance.
 permalink: /diabolus/game-master/
+image: "/assets/img/asmodeus-cyber.jpg"
 noindex: false
 ---
 

@@ -3,6 +3,7 @@ title: "Strategic Spellworking ­:: MegaBlast"
 layout: layout.njk
 description: Old-world working mixed with distance influence, configured to three outcomes.
 permalink: /megablast/
+image: "/assets/img/snakewood-rise.jpg"
 ---
 
    <div class="card">

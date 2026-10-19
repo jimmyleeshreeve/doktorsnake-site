@@ -2,6 +2,7 @@
 title: Books by Doktor Snake and Jimmy Lee Shreeve
 description: The People Beneath England — a free book exploring East Anglian folklore, Neanderthals, UFOs and Hyperborea — plus books by Doktor Snake and Jimmy Lee Shreeve.
 permalink: /books/
+image: "/assets/img/people-beneath-england-cover.jpg"
 layout: layout.njk
 noindex: false
 ---

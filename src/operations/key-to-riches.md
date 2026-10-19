@@ -4,6 +4,7 @@ description: A graveyard-forged wealth ritual that pulls money, opportunity, and
 layout: layout.njk
 date: 2026-03-28
 permalink: /operations/key-to-riches/
+image: "/assets/img/key-riches.jpg"
 ---
 
 # Key To Riches

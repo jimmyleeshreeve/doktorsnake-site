@@ -3,6 +3,7 @@ title: "Strategic Spellworking :: EtherBlast"
 layout: layout.njk
 description: Old-world working mixed with modern distance influence, tuned to a single outcome.
 permalink: /etherblast/
+image: "/assets/img/snakewood-mound.jpg"
 ---
 
    <div class="card">

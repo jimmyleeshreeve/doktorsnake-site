@@ -3,6 +3,7 @@ title: The Summoning — 72 Spirits of Power
 layout: layout.njk
 description: Harnesses the world-shattering power of the infernal spirits.
 permalink: /diabolus/summoning/
+image: "/assets/img/covehithe-church-cyber.jpg"
 noindex: false
 ---
 

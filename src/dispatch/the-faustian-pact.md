@@ -3,6 +3,7 @@ title: "The Faustian Pact"
 description: "Selling Your Soul to the Machine"
 date: 2026-10-01
 permalink: /dispatch/the-faustian-pact/
+image: "/assets/img/man-crossroads-night.webp"
 layout: layout.njk
 tags:
   - dispatch

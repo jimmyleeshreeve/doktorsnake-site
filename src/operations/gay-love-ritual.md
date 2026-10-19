@@ -4,6 +4,7 @@ description: Based on the old Follow Me Boy conjuration, but geared to same-sex 
 layout: layout.njk
 date: 2026-03-25
 permalink: /operations/gay-love-ritual/
+image: "/assets/img/gay-love-ritual.jpg"
 ---
 
 # Gay Love Ritual

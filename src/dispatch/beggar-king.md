@@ -5,6 +5,7 @@ description: "An Encounter With The Beggar King"
 date: 2017-05-30
 layout: layout.njk
 permalink: /dispatch/beggar-king/
+image: "/assets/img/overlooking-norwich-cathedral.jpg"
 tags:
   - dispatch
 ---

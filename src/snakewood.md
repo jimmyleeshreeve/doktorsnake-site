@@ -3,6 +3,7 @@ title: "SnakeWood Rite"
 layout: layout.njk
 description: Your intention becomes a personal sigil, created by hand, carried into a private working at the ancient twin Bronze Age mounds of SnakeWood, then returned to you as a unique digital talisman.
 permalink: /snakewood/
+image: "/assets/img/snakewood-sigil-mound.jpg"
 noindex: false
 ---
 

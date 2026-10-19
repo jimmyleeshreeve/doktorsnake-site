@@ -4,6 +4,7 @@ description: Boosts body/mind life force and vitality.
 layout: layout.njk
 date: 2026-03-24
 permalink: /operations/healing-ray/
+image: "/assets/img/bronze-age-mound.jpg"
 ---
 
 # Healing Ray

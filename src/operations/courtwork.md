@@ -4,6 +4,7 @@ description: Sway The Judge — Get Leniency or Sentence Overturned
 layout: layout.njk
 date: 2026-03-26
 permalink: /operations/courtwork/
+image: "/assets/img/judge-psi-influence.jpg"
 ---
 
 # Courtwork

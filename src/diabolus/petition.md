@@ -2,6 +2,7 @@
 title: Petition to Lord Satan
 layout: layout.njk
 description: Old Nick Still Grants Wishes… If You Know Where to Ask.
+image: "/assets/img/lord-satan.jpg"
 permalink: /diabolus/petition/
 ---
 

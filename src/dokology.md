@@ -3,6 +3,7 @@ title: "Dokology :: Ride the Storm"
 layout: layout.njk
 description: "Dokology is private mentorship for the age of MachineKind. Master attention, navigate uncertainty, work with AI, and learn to ride the storms of a rapidly changing world."
 permalink: /dokology/
+image: "/assets/img/rural-cyberpunk.jpg"
 ---
 
 # DOKOLOGY :: RIDE THE STORM

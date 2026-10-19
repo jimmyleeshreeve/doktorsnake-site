@@ -4,6 +4,7 @@ description: Takes out evil neighbours ­— even if they're working baleful wit
 layout: layout.njk
 date: 2026-03-31
 permalink: /operations/big-bad-hex/
+image: "/assets/img/doll-mojo-fire.jpg"
 ---
 
 # The Big Bad Hex — Nasty Neighbour Zapper Edition

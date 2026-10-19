@@ -4,6 +4,7 @@ description: Aura purification - black magic and negativity removal - protection
 layout: layout.njk
 date: 2026-04-04
 permalink: /operations/gris-gris-ritual/
+image: "/assets/img/magician-top-hat.jpg"
 ---
 
 # Gris Gris Ritual — Spiritual Cleansing

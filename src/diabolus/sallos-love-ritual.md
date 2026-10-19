@@ -3,6 +3,7 @@ title: "Duke Sallos' Remarkable Love Ritual"
 layout: layout.njk
 description: For bringing that special person into your life for a committed relationship and/or marriage.
 permalink: /diabolus/sallos-love-ritual/
+image: "/assets/img/duke-sallos-ruined-church.jpg"
 noindex: false
 ---
 

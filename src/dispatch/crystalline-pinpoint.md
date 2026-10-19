@@ -4,6 +4,8 @@ author: "Doktor Snake"
 description: "A Night of Chaos Magick at an Abandoned Norfolk Airbase"
 date: 2017-06-18
 layout: layout.njk
+permalink: /dispatch/crystalline-pinpoint/
+image: "/assets/img/rackheath-airbase-runway.webp"
 tags:
   - dispatch
 ---

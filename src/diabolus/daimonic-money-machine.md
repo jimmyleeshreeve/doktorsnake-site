@@ -3,6 +3,7 @@ title: Daimonic Money Machine
 layout: layout.njk
 description: Harnesses the power of "Clauneck" to kick start your finances and get you the cash.
 permalink: /diabolus/daimonic-money-machine/
+image: "/assets/img/clauneck-cyber.jpg"
 noindex: false
 ---
 

@@ -3,6 +3,7 @@ title: DOKOLOGY 001 — Tactical Mind System
 description: Personal Performance & Cognitive Control in a World of Noise
 layout: layout.njk
 permalink: /operators/dokology-001/
+image: "/assets/img/tms-page.jpg"
 ---
 
 # DOKOLOGY 001

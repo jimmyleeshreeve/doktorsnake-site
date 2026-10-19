@@ -4,6 +4,7 @@ description: Psionic working to keep the police off your back.
 layout: layout.njk
 date: 2026-03-21
 permalink: /operations/police-shield/
+image: "/assets/img/police-car.jpg"
 ---
 
 # Police Shield

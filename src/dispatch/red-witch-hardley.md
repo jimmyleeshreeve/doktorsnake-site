@@ -3,6 +3,7 @@ title: The Red Witch of Hardley
 description: According to local folklore a mysterious spirit haunts a crossroads near a Norfolk village, one that can be called upon or petitioned for protection and help.
 date: 2022-09-22
 permalink: /dispatch/red-witch-hardley/
+image: "/assets/img/red-witch-illustration.webp"
 layout: layout.njk
 tags:
    - dispatch

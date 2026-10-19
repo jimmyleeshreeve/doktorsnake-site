@@ -3,6 +3,7 @@ title: Duke Bune's Powerful Ritual
 layout: layout.njk
 description: Your finances — “material question” — taken care of.
 permalink: /diabolus/bune-ritual/
+image: "/assets/img/twilight-chapel-bune.jpg"
 noindex: false
 ---
 

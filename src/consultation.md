@@ -1,11 +1,11 @@
 ---
-
 title: Consultation with Doktor Snake
 description: A private one-hour consultation with Doktor Snake, focused on whatever you want to explore, understand or work through.
 permalink: /consultation/
 layout: layout.njk
+image: "/assets/img/consultation.png"
 noindex: false
---------------
+---
 
 <div class="card">
 

@@ -4,6 +4,7 @@ description: Brings money and abundance into your life
 layout: layout.njk
 date: 2026-06-09
 permalink: /operations/moneystorm-888/
+image: "/assets/img/moneystorm-888.jpg"
 ---
 
         <div class="card">

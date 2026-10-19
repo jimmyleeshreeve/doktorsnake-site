@@ -3,6 +3,7 @@ title: Anointing Oil
 layout: layout.njk
 description: My anointing oils are hand-formulated by the original methods, steeped in plant and root essences—but infused with etheric current.
 permalink: /digital-talismans/anointing-oil/
+image: "/assets/img/conjuration-oil.jpg"
 ---
 
 # Anointing Oil | Etheric Conjure Serum

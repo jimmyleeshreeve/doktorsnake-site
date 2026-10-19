@@ -4,6 +4,7 @@ description: Prepared and worked in an ancient English ritual landscape
 layout: layout.njk
 date: 2026-06-14
 permalink: /operations/snakewood-talismans/
+image: "/assets/img/snakewood-rise.jpg"
 ---
 
 # SnakeWood Talismans

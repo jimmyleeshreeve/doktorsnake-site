@@ -3,6 +3,7 @@ layout: layout.njk
 title: "Doktor Snake — Hacking the System, Breaking the Code"
 description: "Exploring AI, consciousness, magick, MachineKind and DoomJoy. Dokology, field reports and unconventional operations for a world in transition."
 date: 2026-10-14
+image: "/assets/img/ds-logo.jpg"
 ---
 
 # Doktor Snake

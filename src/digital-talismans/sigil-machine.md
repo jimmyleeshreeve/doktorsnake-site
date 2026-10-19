@@ -2,6 +2,7 @@
 title: The Sigil Machine
 description: Custom Sigil — Built from Your Intent. A personal sigil constructed and set using the Cybernaut Protocol.
 permalink: /digital-talismans/sigil-machine/
+image: "/assets/img/sigil-machine-hero.jpg"
 layout: layout.njk
 ---
 

@@ -2,6 +2,7 @@
 title: Black Work Of Hell
 layout: layout.njk
 description: A curse working that works on evil-doers, troublemakers, and those that endeavour to exploit you.
+image: "/assets/img/satan-goat.jpg"
 permalink: /diabolus/hex/
 ---
 

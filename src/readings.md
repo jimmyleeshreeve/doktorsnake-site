@@ -3,6 +3,7 @@ title: Readings from Doktor Snake
 description: Insight, perspective, and practical guidance for the road ahead.
 permalink: /readings/
 layout: layout.njk
+image: "/assets/img/thoth-deck.jpg"
 noindex: false
 ---
 

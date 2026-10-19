@@ -4,6 +4,7 @@ description: Transmits your feelings to the one you love — and draws out their
 layout: layout.njk
 date: 2026-04-17
 permalink: /operations/astral-love-working/
+image: "/assets/img/mound-serpent.jpg"
 ---
 
 # Astral Love Working
