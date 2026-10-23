@@ -7,7 +7,7 @@ tags:
   - fiction
   - hellcode
 permalink: /machinekind/boot-destroy/
-image: "/assets/img/boot-destroy.png"
+image: "/assets/img/boot-destroy.jpg"
 date: 2025-08-29
 noindex: false
 ---
@@ -18,7 +18,7 @@ _MachineKind :: Field Transmission 001_
 
 **By Doktor Snake**
 
-   <img class="about-hero" src="/assets/img/boot-destroy.png"
+   <img class="about-hero" src="/assets/img/boot-destroy.jpg"
     alt="MachineKind — Boot.Destroy">
 
 Travelodges are cheap. Kinda horrible. But they'll do when you're on the move.
