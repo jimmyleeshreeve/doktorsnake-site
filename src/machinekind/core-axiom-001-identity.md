@@ -5,7 +5,7 @@ layout: layout.njk
 description: "Identity is not a fixed file. It is a running process. A Dokology protocol for rewriting the self and branching into new possibilities."  
 tags:
 - dokology  
-- xonsciousness 
+- consciousness 
 - identity
 - human2  
 permalink: /dokology/core-axiom-001-identity/
