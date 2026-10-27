@@ -99,7 +99,16 @@ I discovered a new genre of music and video.
 
 Specifically this:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ydVKpQE-zr0?si=O7gpAkQndbkbaCak" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="video-embed">
+  <iframe
+    src="https://www.youtube.com/embed/ydVKpQE-zr0"
+    title="YouTube video player"
+    loading="lazy"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
 
 AI-generated music. AI-generated visuals.
 

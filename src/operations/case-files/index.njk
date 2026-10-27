@@ -1,0 +1,108 @@
+---
+title: The Case Files
+description: Real problems, unconventional methods, practical intelligence and symbolic operations. Inside the workings of Doktor Snake and GHOST//ENGINE.
+permalink: /operations/case-files/
+layout: layout.njk
+noindex: false
+---
+
+<div class="card">
+
+  <p class="eyebrow">DOKTOR SNAKE / OPERATIONS ARCHIVE</p>
+
+  <h1>The Case Files</h1>
+
+  <p class="text">
+    Magick. Intelligence. Reality Engineering.
+  </p>
+
+  <p>
+    Real problems. Unconventional methods.
+    Practical interventions. Symbolic operations.
+  </p>
+
+  <p class="text">
+    People come to Doktor Snake with problems.
+    Some want magick. Others need a way through
+    circumstances that appear impossible to change.
+  </p>
+
+  <p class="text">
+    Working alongside GHOST//ENGINE, a machine-assisted
+    intelligence and research system, Doktor Snake
+    investigates the situation, identifies possible
+    courses of action, and constructs an operation
+    combining practical strategy with symbolic magick.
+  </p>
+
+  <p class="text">
+    These are records of those operations.
+    Some have reached a conclusion. Others remain open.
+    The outcome is never guaranteed.
+  </p>
+
+  <p class="eyebrow">
+    OLD WORLD MAGICK / NEW WORLD MACHINERY
+  </p>
+
+</div>
+
+<h2>Operations Archive</h2>
+
+{% set articles = collections["case-files"] | reverse %}
+
+{% if articles.length %}
+
+  {% for article in articles %}
+
+    <div class="card">
+
+      <p class="eyebrow">CASE FILE / REALITY ENGINEERING</p>
+
+      <h3>
+        <a href="{{ article.url }}">
+          {{ article.data.title }}
+        </a>
+      </h3>
+
+      {% if article.data.description %}
+        <p class="text">
+          {{ article.data.description }}
+        </p>
+      {% endif %}
+
+      <p>
+        <a class="btn" href="{{ article.url }}">
+          Open Case File →
+        </a>
+      </p>
+
+    </div>
+
+  {% endfor %}
+
+{% else %}
+
+  <p>Case Files are forthcoming.</p>
+
+{% endif %}
+
+<div class="card">
+
+  <p class="eyebrow">OPERATOR'S NOTE</p>
+
+  <p class="text">
+    Case Files are based on actual operations.
+    Names and identifying circumstances may be
+    altered or reconstructed to protect confidentiality.
+    Reported outcomes are distinguished from
+    interpretation and symbolic experience.
+  </p>
+
+  <p class="text">
+    The objective is not to promise miracles,
+    but to document investigation, intervention,
+    and the possibilities that emerge.
+  </p>
+
+</div>

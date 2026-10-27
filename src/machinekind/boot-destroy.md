@@ -71,7 +71,17 @@ Lounge on the bed. Headphones on.
 
 _Resist & Disorder_ — Rezodrone & The Cartesian Duelists.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XfUo2mPYQ2E?si=h2XRyd6LclQJFXCG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<div class="video-embed">
+  <iframe
+    src="https://www.youtube.com/embed/XfUo2mPYQ2E"
+    title="YouTube video player"
+    loading="lazy"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
 
 Appropriate tune.
 

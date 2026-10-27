@@ -18,7 +18,16 @@ noindex: false
 
 ### First, watch the video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ydVKpQE-zr0?si=zqLH_HuFL-GCHfwm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="video-embed">
+  <iframe
+    src="https://www.youtube.com/embed/ydVKpQE-zr0"
+    title="YouTube video player"
+    loading="lazy"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
 
 It's worth watching before reading further. The music, voice, surreal imagery and increasingly ridiculous goats are essential to the experience.
 
