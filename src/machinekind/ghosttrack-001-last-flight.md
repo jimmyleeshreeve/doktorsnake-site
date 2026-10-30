@@ -16,8 +16,7 @@ permalink: /machinekind/ghosttrack-001-last-flight/
 ### An audio expedition into a world that no longer exists.
 
 <div class="video-embed">
-  <iframe
-    src="https://www.youtube.com/embed/ppqZ6VNyLOg"
+  <iframe src="https://www.youtube.com/embed/ppqZ6VNyLOg"
     title="YouTube video player"
     loading="lazy"
     referrerpolicy="strict-origin-when-cross-origin"
