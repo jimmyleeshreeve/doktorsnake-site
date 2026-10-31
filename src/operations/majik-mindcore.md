@@ -2,7 +2,8 @@
 title: "MAJIK//MINDCORE"
 description: "GHOST//ENGINE — Human Intention. Machine Intelligence. Real-World Action."
 layout: layout.njk
-permalink:
+permalink: /operations/majik-mindcore/
+image: "/assets/img/magik-mindcore.png"
 noindex: false
 ---
 
@@ -217,5 +218,5 @@ _Majik//MindCore combines symbolic practice with practical analysis and support.
 
 _The working is only the beginning._
 
-<img class="about-hero" src="/assets/img/magik-mindcore.png"
+<img class="about-hero" src="/assets/img/majik-mindcore.png"
      alt="MAJIK-MINDCORE GHOST-ENGINE">
