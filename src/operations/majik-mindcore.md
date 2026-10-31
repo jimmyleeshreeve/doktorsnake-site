@@ -218,4 +218,4 @@ _Majik//MindCore combines symbolic practice with practical analysis and support.
 _The working is only the beginning._
 
 <img class="about-hero" src="/assets/img/magik-mindcore.png"
-     alt="MAJIK//MINDCORE GHOST//ENGINE">
+     alt="MAJIK-MINDCORE GHOST-ENGINE">
