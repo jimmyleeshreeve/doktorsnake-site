@@ -11,7 +11,7 @@ Send me an e-mail and I'll reply personally.
   <form action="https://formspree.io/f/xjgeveba" method="POST">
     <p>
       <label>Your name<br>
-      <input type="text" name="name" id="ds_name" required>
+      <input type="text" name="name" id="ds_name" required></label>
     </p>
 
     <p>

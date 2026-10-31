@@ -64,6 +64,20 @@ I've practised for decades.
     limited number of standalone operations. Each is individually prepared
     and conducted personally.
   </p>
+  
+  <div class="card">
+    <p class="eyebrow">Applied Majik</p>
+
+<h3>MAJIK//MINDCORE — GHOST//ENGINE</h3>
+
+<p>Symbolic workings meet machine intelligence and real-world strategy. Bespoke interventions for business, money, personal and unusual situations.</p>
+
+<p><strong>Operations from $400. Case assessment required.</strong></p>
+
+    <p>
+      <a href="/operations/majik-mindcore/">Run Your Case →</a>
+    </p>
+  </div>
 
   <div class="card">
     <p class="eyebrow">Maximum Concentration</p>
