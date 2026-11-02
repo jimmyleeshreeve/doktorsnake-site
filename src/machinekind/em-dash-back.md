@@ -8,6 +8,7 @@ layout: layout.njk
 tags:
   - machinekind
   - dokology
+  - dispatch
 noindex: false
 ---
 

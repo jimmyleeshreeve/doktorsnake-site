@@ -335,6 +335,21 @@ the doors remain open.
 </div>
 
 <div class="card">
+  <p class="eyebrow">THE WORKING IS ONLY THE BEGINNING</p>
+
+  <h3>MAJIK//MINDCORE — GHOST//ENGINE</h3>
+
+  <p>
+    Real-world problems rarely belong to one category.
+    Research, strategy, attention and symbolic working can operate together.
+  </p>
+
+  <p>
+    <a class="btn" href="/operations/majik-mindcore/">Explore Majik MindCore Services →</a>
+  </p>
+</div>
+
+<div class="card">
 
   <p class="eyebrow">TALISMANX :: DIGITAL</p>
 

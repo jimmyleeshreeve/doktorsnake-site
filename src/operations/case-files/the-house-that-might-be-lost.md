@@ -7,6 +7,7 @@ permalink: /operations/case-files/the-house-that-might-be-lost/
 tags:
   - case-files
   - dokology
+  - dispatch
 ---
 
 # CASE FILE 001
@@ -296,3 +297,18 @@ _The world is the laboratory._
 ---
 
 _Editorial note: The Case Files are reconstructed operational narratives inspired by real-world research and practice. Characters, circumstances and symbolic operations may be fictionalised or combined to protect confidentiality. The cases demonstrate investigative methods rather than document individual client histories. They are not guarantees of outcomes or substitutes for professional advice._
+
+<div class="card casefile-cta">
+  <p class="eyebrow">THE WORKING IS ONLY THE BEGINNING</p>
+
+  <h3>MAJIK//MINDCORE — GHOST//ENGINE</h3>
+
+  <p>
+    Real-world problems rarely belong to one category.
+    Research, strategy, attention and symbolic working can operate together.
+  </p>
+
+  <p>
+    <a href="/operations/majik-mindcore/">Explore Majik MindCore Services →</a>
+  </p>
+</div>
