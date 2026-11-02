@@ -4,6 +4,7 @@ author: "Doktor Snake"
 description: "An evening at THE SLOPCORE LOUNGE"
 date: 2026-11-01T17:43:00+01:00
 permalink: /machinekind/em-dash-back/
+image: "/assets/img/em-dash-yt-video.png"
 layout: layout.njk
 tags:
   - machinekind
@@ -314,4 +315,7 @@ And somewhere in the digital underworld, a nightclub full of humans and machines
 *THE WORKING IS ONLY THE BEGINNING.*
 
 *⟗ O·L·S·Ξ ⟗*
+
+      <img class="about-hero" src="/assets/img/em-dash-yt-video.png"
+     alt="Em Dash AI Character">
 
