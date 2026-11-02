@@ -3,7 +3,6 @@ title: "MAJIK//MINDCORE"
 description: "GHOST//ENGINE — Human Intention. Machine Intelligence. Real-World Action."
 layout: layout.njk
 permalink: /operations/majik-mindcore/
-image: "/assets/img/magik-mindcore.png"
 noindex: false
 ---
 
