@@ -30,30 +30,6 @@ I've practised for decades.
   
   <br>
 
-  <div class="card">
-    <p class="eyebrow">ALL HALLOWS EVE · 31 OCTOBER 2026</p>
-
-    <h3>GhostLand :: The Lynford Transmission</h3>
-
-    <p>
-      Sixty thousand years of ghosts. One night between worlds.
-      An Ancestors' Night field working in the ancient
-      landscape of Lynford Water, Norfolk.
-    </p>
-
-    <p>
-      <strong>$37 · One intention · Collective seasonal working</strong>
-    </p>
-
-    <p>
-      <a class="btn" href="/operations/ghostland/">
-        Enter GhostLand →
-      </a>
-    </p>
-  </div>
-  
-  <br>
-
   <p class="eyebrow">Standalone Workings</p>
   
 

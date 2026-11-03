@@ -3,6 +3,7 @@ title: "Influence :: Strategic Spellwork"
 layout: layout.njk
 description: Shifts the stuck patterns to bring the results you need.
 permalink: /influence/
+image: "/assets/img/distance-influence-dok.jpg"
 ---
 
    <div class="card">
@@ -17,7 +18,7 @@ permalink: /influence/
 
 ✔ Suitable for people of any faith or none.
 
-   </div>
+    </div>
 
 <div class="card">
   <h3>TIER I — ETHERBLAST</h3>
@@ -44,5 +45,5 @@ permalink: /influence/
 </div>
 
 <img class="about-hero" src="/assets/img/distance-influence-dok.jpg"
-     alt="Doktor Snake — Strategic Spellwork + Readings">
+     alt="Doktor Snake — Strategic Spellwork">
 

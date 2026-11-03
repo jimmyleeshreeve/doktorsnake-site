@@ -8,7 +8,10 @@ image: "/assets/img/machinekind-humanity.webp"
 layout: layout.njk
 tags:
   - machinekind
+  - dispatch
 ---
+     
+# MachineKind: The Birth of AI and the End of Humankind
 
       <img class="about-hero" src="/assets/img/machinekind-humanity.webp"
      alt="A male figure standing in darkness with cosmic sparks and glitching light around him the caption says MachineKind humanity has ended">

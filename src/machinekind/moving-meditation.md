@@ -3,6 +3,7 @@ title: "Moving Meditation :: Cyberpunk Mindfulness"
 date: 2025-06-10  
 layout: layout.njk  
 description: "A cyberpunk protocol for interrupting the narrative loop, returning to the body, and reclaiming attention while moving through the world."  
+image: "/assets/img/psychotronics-magician.jpg"
 tags:
 - dokology
 - machinekind
@@ -456,3 +457,7 @@ And for a few minutes, stop telling yourself the story of being there.
 **Be there.**
 
 `:: boot.void ::`
+
+      <img class="about-hero" src="/assets/img/psychotronics-magician.jpg"
+     alt="Moving meditation cyberpunk mindfulness psychotronics magician">
+     
