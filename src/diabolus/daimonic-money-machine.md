@@ -18,6 +18,9 @@ noindex: false
 - Bestows affluence and abundance.
 - Gets you into the money mindset.
 
+> **PLUS: For insurance and good measure:**  
+> Cleansing of negative energies that may be surrounding you (or lurking covertly) — opening the currents for wealth and abundance to flow.
+
 Drawing upon my deep experience working with powerful aspects of the occult, I formulated my own take on a ritual formula from the *Grimorium Verum*, an old book of magic from the 18th century, but purportedly originating from medieval times.
 
 This working involves evoking the powers of a demon called Clauneck, much loved by Lucifer, who has the ability to bestow wealth. You may recognize his name from the King Solomon grimoires.
