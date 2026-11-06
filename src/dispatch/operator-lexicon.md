@@ -734,6 +734,36 @@ What happens when intention is established, but execution is partially surrender
 
 ---
 
+## ADD-ONS
+
+**AGENTIC AUTHORS** — autonomous systems capable of researching, composing, revising and producing personalised books, with the human acting as commissioner, curator or reader.
+
+Not simply a chatbot writing a story, but a complete miniature publishing operation.
+
+### DODOKIND
+
+*Category: Edge Cult / MachineKind / Evolutionary Satire*
+
+A cultural tendency to defend human-made work as inherently superior to machine-generated or machine-assisted work, regardless of its actual qualities.
+
+DodoKind is characterised by reflexive resistance to technological change, particularly when new tools threaten established assumptions about creativity, identity and human exceptionalism.
+
+Not to be confused with informed criticism of AI, which may be entirely justified.
+
+**Typical declaration:** "But a human made it!"
+
+**Operator response:** "And?"
+
+DodoKind inhabits the last remaining Brontosaurus nests of the technological Pleistocene — a geological impossibility entirely consistent with its worldview.
+
+**Related entries:** Human 1.0, Human 2.0, MachineKind, SlopCore, DoomJoy, Slop Shock.
+
+`>> evolutionary.status: uncertain`
+
+⟗ O·L·S·Ξ ⟗
+
+---
+
 ## THE LEXICON REMAINS OPEN
 
 Nothing here is final.

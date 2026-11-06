@@ -15,20 +15,60 @@ I've practised for decades.
 
 <section class="dispatch-standalone">
 
-<br>
+<p class="eyebrow">Seasonal Transmissions</p>
 
-  <p class="eyebrow">Seasonal Transmissions</p>
+<p>
+  Seasonal workings, field experiences and special
+  engagements — drawing on the strange landscapes
+  of the old world and the possibilities of the new.
+  A little mystery, a little inspiration, and an
+  invitation to explore what might be possible.
+</p>
+
+<div class="card">
+  <p class="eyebrow">NEW RELEASE · NEW YEAR 2027</p>
+
+  <h3>New Year 2027 :: The Crystalline Pinpoint</h3>
+
+  <p>
+    The Doomers doom. The Bloomers bloom.
+    And the Bedlam Clowns have the keys to the kingdom.
+  </p>
+
+  <p>
+    <strong>But you don't have to join the circus.</strong>
+  </p>
+
+  <p>
+    Enter the Crystalline Pinpoint — a position of clarity,
+    concentration and self-command as the world moves
+    towards 2027.
+  </p>
+
+  <p>
+    Two New Year workings, from a focused seasonal
+    operation to an extended engagement.
+  </p>
+
+  <p>
+    <strong>Two tiers available · From $375</strong>
+  </p>
+
+  <p>
+    <a class="btn" href="/operations/new-year-2027/">
+      Explore New Year 2027 →
+    </a>
+  </p>
+</div>
 
   <h2>Field Experiences</h2>
 
-  <p>
+  <p style="margin-bottom: 30pt">
     Atmospheric, collective workings from the strange
     landscapes of the old world. A little mystery,
     a little inspiration, and an invitation to
     explore what might be possible.
   </p>
-  
-  <br>
 
   <p class="eyebrow">Standalone Workings</p>
   
