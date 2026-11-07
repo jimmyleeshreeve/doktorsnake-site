@@ -22,7 +22,7 @@ tags:
 `> edge.cult / operator.lexicon / signal.edition`
 
    <img class="about-hero" src="/assets/img/operator-lexicon-signal-edition.jpg"
-    alt="Operator Lexicon — Signal Edition">
+    alt="Operator Lexicon — Signal Edition" loading="lazy">
 
 **STATUS: ACTIVE — VOCABULARY EXPANDING**
 
