@@ -9,10 +9,10 @@ noindex: false
 
 # Daimonic Money Machine
 
-<p class="text">Harnesses the power of "Clauneck" to kick start your finances and get you the cash.</p>
+<p class="text">Harnesses the power of "Clauneck" to elevate your finances and attract wealth to you.</p>
 
-<img class="about-hero" src="/assets/img/clauneck-cyber.jpg"
-     alt="Clauneck cyber">
+<img class="about-hero" src="/assets/img/clauneck-emerald-network.jpg"
+     alt="Claunec in the emerald network">
 
 - Attracts cash 24/7, even when you sleep.
 - Bestows affluence and abundance.
@@ -41,7 +41,9 @@ Magic is all about *will and intent*. Both have to be strong and focused. If the
 
 ## What I do
 
-In the dimming light of the setting sun, a secluded and forgotten church stands as a gateway to the daimonic regions, nestled near the desolate and windswept coast of Eastern England. Here, where the veil between the worlds is thin, I perform the ancient rite of summoning Clauneck.
+In the dimming light of the setting sun, a secluded and forgotten church stands as a gateway to the daimonic regions, nestled between the wild-woods and a village mentioned in the Doomsday Book.
+
+Here, where the veil between the worlds is thin, I perform the ancient rite of summoning Clauneck.
 
 As twilight descends, a hush falls over the ritual site. The air becomes heavy, the silence broken only by the faint rustle of leaves in the wind. I begin to chant in "unknown tongues," words that resonate with the primal rhythms of nature.
 
@@ -51,7 +53,7 @@ I address Clauneck directly, articulating a petition on your behalf, a plea for 
 
 > "Oh, Favorite of Lucifer, and loyal servant of Duke Syrach, I beseech you on behalf of my dear friend. You hold the keys to power and prosperity, I ask you to bestow your blessings of abundance upon them."
 
-With that, and the echo of my petition still lingering in the air, my ritual is complete. Leaving an offering of nine old British sixpences, I set off for home, the winds seeping through the coastal landscape and the ruins of the old church.
+With that, and the echo of my petition still lingering in the air, my ritual is complete. Leaving an offering of nine old British sixpences, I set off for home, the winds seeping through the trees and the majestic resonance of the old church.
 
 ### Ready to call on infernal power?
 
