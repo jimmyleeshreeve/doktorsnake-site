@@ -1,0 +1,448 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>GOODBYE — A Cyber Oracle | Doktor Snake</title>
+<meta name="description" content="Step into a ruined church and touch the glass. GOODBYE is a playable digital artefact from The Keys to the Tarot.">
+<link rel="canonical" href="https://www.doktorsnake.com/apps/goodbye/">
+<meta property="og:type" content="website">
+<meta property="og:title" content="GOODBYE — A Cyber Oracle">
+<meta property="og:description" content="Step into a ruined church and touch the glass. A playable digital artefact from The Keys to the Tarot.">
+<meta property="og:url" content="https://www.doktorsnake.com/apps/goodbye/">
+<meta name="twitter:card" content="summary">
+<style>
+  :root {
+    color-scheme: dark;
+    --ink: #e3ebe3;
+    --muted: #a5b9ae;
+    --signal: #abffcb;
+    --line: #3c584c;
+    --mono: ui-monospace, "DejaVu Sans Mono", monospace;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: #09100e; color: var(--ink); font: 17px/1.55 Georgia, serif; }
+  [hidden] { display: none !important; }
+  .landscape { position: fixed; inset: 0; width: 100%; height: 100%; pointer-events: none; z-index: -1; }
+  .mist { animation: drift 21s ease-in-out infinite alternate; }
+  .mist:last-of-type { animation-duration: 31s; animation-direction: alternate-reverse; }
+  @keyframes drift { from { transform: translateX(-55px); } to { transform: translateX(75px); } }
+  @media (prefers-reduced-motion: reduce) { .mist { animation: none; } }
+  main { max-width: 810px; min-height: 100svh; margin: auto; padding: 24px clamp(15px,4vw,30px); }
+  .quiet { display: grid; align-content: center; min-height: calc(100svh - 48px); max-width: 520px; padding: 80px 0 20px; }
+  .quiet p:not(.label) { margin: 0 0 16px; text-shadow: 0 2px 14px #000; }
+  h1, h2 { font-weight: normal; line-height: 1.06; margin: 0 0 16px; }
+  h1 { font-size: clamp(47px, 12vw, 86px); }
+  h2 { font-size: clamp(35px, 8vw, 59px); }
+  .label, .hud, .instructions, button, .transcript { font-family: var(--mono); }
+  .label { color: var(--signal); font-size: 11px; letter-spacing: .15em; text-transform: uppercase; }
+  button {
+    color: var(--signal); background: #0a1c17; border: 1px solid var(--line);
+    border-radius: 3px; padding: 12px 15px; font-size: 13px; cursor: pointer;
+  }
+  button:hover { background: #18362b; }
+  .quiet .artefact-note {
+    margin-top: 22px;
+    color: var(--muted);
+    font: 13px/1.6 var(--mono);
+  }
+  .site-link { color: var(--signal); text-underline-offset: .22em; }
+  .site-link:focus-visible { outline: 2px solid var(--signal); outline-offset: 4px; }
+  button:focus-visible { outline: 2px solid var(--signal); outline-offset: 4px; }
+  h1:focus, h2:focus { outline: none; }
+  .primary { width: fit-content; margin-top: 14px; background: var(--signal); color: #0b1d15; font-weight: 700; }
+  .primary:hover { background: #d3ffdf; }
+  .hud { display: flex; justify-content: space-between; align-items: center; gap: 12px; color: var(--muted); font-size: 12px; }
+  .hud h2 { font: 700 clamp(15px,4vw,23px)/1.1 var(--mono); letter-spacing: .16em; color: var(--signal); margin: 0; }
+  .hud p { margin: 4px 0 0; }
+  #time { font-variant-numeric: tabular-nums; white-space: nowrap; }
+  .board {
+    display: block; width: 100%; max-height: 59svh; margin: 12px auto 0;
+    filter: drop-shadow(0 10px 24px #0009);
+  }
+  .board text { text-anchor: middle; dominant-baseline: central; user-select: none; }
+  .letter { fill: #c9dfd0; font: 28px Georgia, serif; }
+  .marks { fill: #a0b9a7; font: 16px var(--mono); letter-spacing: 5px; }
+  #goodbye text { fill: #a0b9a7; font: bold 22px var(--mono); letter-spacing: 4px; }
+  #goodbye.ready text { fill: var(--signal); }
+  #goodbye.ready rect { stroke: #65aa83; }
+  #glint { fill: #aaffc922; stroke: #aaffc986; }
+  #piece { pointer-events: none; }
+  #piece .window { fill: #0d271a99; stroke: #a9e1bd; stroke-width: 2; }
+  #piece.lock .window { fill: #ecfff1; stroke: white; }
+  .lockline { height: 3px; background: #2b4236; margin: 8px 0 12px; border-radius: 2px; }
+  #lock-fill { display: block; width: 0; height: 100%; background: var(--signal); }
+  .readout { display: flex; flex-wrap: wrap; gap: 4px 18px; align-items: baseline; min-height: 64px; }
+  .transcript { min-width: 7.5em; font-size: clamp(16px,4vw,23px); letter-spacing: .22em; color: var(--signal); }
+  #status { flex: 1 1 240px; margin: 0; color: var(--ink); font-size: 16px; }
+  .controls { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
+  .controls button { min-width: 44px; min-height: 44px; padding: 8px 11px; touch-action: none; user-select: none; }
+  .controls button.active { background: #b1edc4; color: #102317; }
+  .controls button[data-key="Space"] { margin-left: 4px; }
+  .instructions { color: var(--muted); font-size: 11px; margin: 8px 0 0; }
+  #ending .fragment { color: var(--signal); font: 14px var(--mono); letter-spacing: .14em; }
+  .ending-card {
+    padding: clamp(18px, 5vw, 36px);
+    border: 1px solid var(--line);
+    background: #0a1915f2;
+    border-radius: 4px;
+  }
+  noscript { display: block; margin: 1rem; }
+  @media(max-width: 520px) {
+    .board { max-height: none; margin-top: 17px; }
+    .quiet { padding-top: 120px; }
+  }
+</style>
+</head>
+<body>
+<svg class="landscape" viewBox="0 0 1000 750" preserveAspectRatio="xMidYMid slice" aria-hidden="true">
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop stop-color="#263c37"/><stop offset=".54" stop-color="#344b41"/><stop offset="1" stop-color="#0a1310"/>
+    </linearGradient>
+    <radialGradient id="moon"><stop stop-color="#adc2b5" stop-opacity=".45"/><stop offset="1" stop-color="#8ea299" stop-opacity="0"/></radialGradient>
+    <radialGradient id="fog"><stop stop-color="#b1c9bc" stop-opacity=".25"/><stop offset="1" stop-color="#aec4b8" stop-opacity="0"/></radialGradient>
+    <linearGradient id="shade" x2="0" y2="1"><stop stop-color="#060b09" stop-opacity=".05"/><stop offset="1" stop-color="#060b09" stop-opacity=".97"/></linearGradient>
+  </defs>
+  <rect width="1000" height="750" fill="url(#sky)"/>
+  <ellipse cx="750" cy="215" rx="275" ry="220" fill="url(#moon)"/>
+  <path d="M0 478 104 460 195 466 281 450 380 470 474 451 550 472 632 456 722 477 837 448 1000 465V750H0Z" fill="#152822"/>
+  <g fill="#101d19" stroke="#182922" stroke-width="2">
+    <path d="M392 509V351l37-22 27 8 23-28 45 19 38-23 27 11v-88h20v-17h23v14h24v-16h21v17h19v-15h25v18h21v133l37-6 18 19 42-13 27 19 28-4v126Z"/>
+    <path d="M318 509v-70l46-18 30 9v79Z"/>
+  </g>
+  <g fill="#40564b" opacity=".72">
+    <path d="M633 337v-59q18-32 36 0v59Z"/>
+    <path d="M655 507v-93q29-49 58 0v93Z"/>
+    <path d="M470 450v-66q17-29 34 0v66Z"/>
+    <path d="M783 449v-57q13-26 26 0v57Z"/>
+  </g>
+  <path d="M0 534 161 513 258 525 394 502 513 520 649 506 782 523 878 505 1000 519V750H0Z" fill="#0c1914"/>
+  <g class="mist" fill="url(#fog)"><ellipse cx="570" cy="481" rx="550" ry="78"/><ellipse cx="891" cy="444" rx="346" ry="43"/></g>
+  <g class="mist" fill="url(#fog)"><ellipse cx="260" cy="535" rx="520" ry="75"/><ellipse cx="659" cy="523" rx="356" ry="32"/></g>
+  <rect width="1000" height="750" fill="url(#shade)"/>
+</svg>
+<main>
+  <section id="entrance" class="quiet">
+    <p class="label">Doktor Snake · A cyber oracle</p>
+    <h1>GOODBYE</h1>
+    <p>You step through the church doorway. The roof has been gone for years, but the rain stops at the threshold.</p>
+    <p>You turn to look back. For a moment there are two doorways.</p>
+    <p>Something in the mist is waiting for your hand.</p>
+    <button id="enter" class="primary">Touch the glass</button>
+    <p class="artefact-note">A playable artefact from <cite>The Keys to the Tarot</cite>.<br>
+      <a class="site-link" href="/">DoktorSnake.com</a>
+    </p>
+  </section>
+
+  <section id="session" hidden aria-label="Oracle board">
+    <header class="hud">
+      <div><h2 id="session-title" tabindex="-1">SESSION RESUMED</h2><p>Is anyone here?</p></div>
+      <span id="time" aria-label="Time remaining">1:00</span>
+    </header>
+    <svg class="board" viewBox="0 0 720 414" role="img" aria-labelledby="board-title">
+      <title id="board-title">A glass spirit board with letters A to Z and a Goodbye landing area</title>
+      <defs>
+        <radialGradient id="glass"><stop stop-color="#18392c"/><stop offset="1" stop-color="#0a1915"/></radialGradient>
+        <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><path d="M0 0h4" stroke="#d8ffe0" stroke-opacity=".055"/></pattern>
+      </defs>
+      <rect x="3" y="3" width="714" height="408" rx="23" fill="url(#glass)" stroke="#557968" stroke-width="2"/>
+      <rect x="14" y="14" width="692" height="386" rx="16" fill="url(#scan)" stroke="#344e42"/>
+      <path d="M34 89h652M34 312h652" stroke="#3a584a" fill="none"/>
+      <text class="marks" x="123" y="59">YES</text>
+      <text class="marks" x="597" y="59">NO</text>
+      <path d="M360 36l20 23-20 23-20-23Z M360 47l10 12-10 12-10-12Z" fill="none" stroke="#8aaa97"/>
+      <g id="alphabet"></g>
+      <g id="goodbye">
+        <rect x="265" y="331" width="190" height="51" rx="7" fill="#0d211a" stroke="#3c5a4c"/>
+        <text x="360" y="357">GOODBYE</text>
+      </g>
+      <circle id="glint" r="22" visibility="hidden"/>
+      <g id="piece">
+        <path d="M0-37C8-29 27-9 31 5 39 31-39 31-31 5-27-9-8-29 0-37Z" fill="#7ab39555" stroke="#bdffda" stroke-width="2"/>
+        <circle class="window" r="11"/>
+      </g>
+    </svg>
+    <div class="lockline" aria-hidden="true"><span id="lock-fill"></span></div>
+    <div class="readout">
+      <output id="message" class="transcript" aria-label="Received letters" aria-live="polite">·····</output>
+      <p id="status" role="status">Let it drift towards the glow. Hold steady as it reaches the letter.</p>
+    </div>
+    <div class="controls" aria-label="Planchette controls">
+      <button type="button" data-key="ArrowLeft" aria-label="Nudge left">←</button>
+      <button type="button" data-key="ArrowUp" aria-label="Nudge up">↑</button>
+      <button type="button" data-key="ArrowDown" aria-label="Nudge down">↓</button>
+      <button type="button" data-key="ArrowRight" aria-label="Nudge right">→</button>
+      <button type="button" data-key="Space">Steady</button>
+    </div>
+    <p class="instructions">Arrows to nudge · Space or Steady to brake and hold · After the first letter, settle on GOODBYE to leave.</p>
+  </section>
+
+  <section id="ending" class="quiet" hidden>
+    <div class="ending-card">
+      <p id="end-label" class="label"></p>
+      <h2 id="end-title" tabindex="-1"></h2>
+      <p id="end-copy"></p>
+      <p id="end-fragment" class="fragment"></p>
+      <button id="retry" class="primary">Play again</button>
+    </div>
+  </section>
+</main>
+<noscript>GOODBYE needs JavaScript to move the planchette.</noscript>
+<script>
+"use strict";
+
+const get = id => document.getElementById(id);
+const transmissions = [
+  {"word": "ABOVE", "title": "Part of the sky is missing.", "scene": "Smoky clouds slide across an opaque blue patch. A servitor lies in the grass with its eye out. When the power went down, something up there went with it. The patch is exactly the colour of the back of a Tarot card."},
+  { word: "BELOW", title: "The floor is still there.", scene: "Beneath the chancel, three knocks answer. A fourth comes from under your own feet. By the time you turn, the doorway is empty." },
+  {"word": "BIND", "title": "The cage is warm.", "scene": "You settle back into the chair. It knows how you like the room. The door has no lock. Every time you put your hand on the handle, the kettle clicks."},
+  {"word": "FLAG", "title": "Your arms go up.", "scene": "You know when to cheer. So does everybody else. You lower your arms for a moment and look at the flag. From this angle you can see where an older design was unpicked."},
+  {"word": "CASTLE", "title": "The gate opens outwards.", "scene": "You spent years laying stone to keep the hordes out. From the battlements, you see one person on the road. They have set down a bag and are waiting for a bus."},
+  {"word": "FLOAT", "title": "The ground is being held.", "scene": "Look down. Seven angels have their hands under the earth. One takes a hand away to scratch its nose. In the churchyard, all the headstones lean a little to the left."},
+  {"word": "SEVEN", "title": "Seven takes up more room than 7.", "scene": "You set the word and the digit side by side on the board. Add them, says the servitor. You ask what the result is supposed to count. The servitor asks which seven you meant."},
+  {"word": "WORK", "title": "The word is still on the door.", "scene": "You cross out WORK on the rota. At six in the morning the alarm goes off anyway. You lie there for a minute, trying to remember which of the two you agreed to."},
+  {"word": "GHOST", "title": "The ghost holds the door for you.", "scene": "You thank her. She asks if you can see her too. It takes a moment to realise that she said too."},
+  {"word": "PHONE", "title": "You hear yourself answer.", "scene": "The line hums like an arc welder. You ask who else is there. Your own voice says it was about to ask you the same thing. Then the hum stops and the voice carries on."},
+  { word: "LISTEN", title: "The rain has a voice.", scene: "You lift your hand from the glass. Rain strikes the flagstones in two quick taps and a long one. From the empty bell tower, someone taps back." },
+  {"word": "MONEY", "title": "You can pretend to eat it.", "scene": "Gold digits glow in the dark. You cup your hands under the screen. At the end of the counter, someone has left a piece of bread. It is going stale."},
+  {"word": "HOUSE", "title": "The house is a waiting room.", "scene": "Your coat hangs where it always hangs. A train pulls up on the other side of the kitchen wall. You can hear the doors open. You have time to fetch your coat if you move now."},
+  { word: "STAY", title: "Your coat is already here.", scene: "In the far pew, someone has left a wet coat. You recognise the tear in its lining. You look down. You're still wearing yours." },
+  {"word": "SHIP", "title": "The ship has two wakes.", "scene": "You took the same ship as everyone else. From the port rail you see a winter sea. From starboard, the water is warm and green. The captain asks which side you boarded from."},
+  {"word": "BELIEF", "title": "The engine has stalled.", "scene": "You sit at the wheel with both hands in place. The hedges are still going by. A fox on the verge has been looking at you for eleven miles."},
+  {"word": "GOD", "title": "The socket is behind the altar.", "scene": "You follow the wire down through the stone. Under the citadel, a clerk is selling minutes of the voice in your head. He looks up and asks whether you want to renew."},
+  {"word": "FISH", "title": "The ocean can't swim.", "scene": "The fish heads downriver. Every evening it asks how much farther. The ocean stays where it is. One night the river asks the fish why it always takes the same bend."},
+  {"word": "ANGEL", "title": "The angel asks what you want.", "scene": "Its voice makes you feel you can tell it anything. By the time it leaves, you feel much better. You can still remember everything you asked for. You just can't remember why you wanted any of it."},
+  {"word": "DEMON", "title": "The demon knows where the fuse is.", "scene": "The grid goes down. In the dark you hear a chair scrape back. A hand reaches past yours and throws a switch. Across the churchyard, the servitors open their eyes."},
+];
+let storyIndex = 0;
+let shuffledCards = [];
+let lastTransmission;
+
+function selectTransmission() {
+  if (storyIndex < transmissions.length) {
+    // Keep the finale available until the player sees its closing card.
+    const card = transmissions[storyIndex];
+    if (storyIndex < transmissions.length - 1) storyIndex += 1;
+    return card;
+  }
+
+  if (shuffledCards.length === 0) {
+    shuffledCards = transmissions.slice();
+    for (let i = shuffledCards.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [shuffledCards[i], shuffledCards[j]] = [shuffledCards[j], shuffledCards[i]];
+    }
+    const lastIndex = shuffledCards.length - 1;
+    if (shuffledCards[lastIndex] === lastTransmission) {
+      const j = Math.floor(Math.random() * lastIndex);
+      [shuffledCards[lastIndex], shuffledCards[j]] = [shuffledCards[j], shuffledCards[lastIndex]];
+    }
+  }
+  return shuffledCards.pop();
+}
+const tiles = {};
+const exitTile = { x: 360, y: 357 };
+const arrows = ["ArrowLeft", "ArrowUp", "ArrowDown", "ArrowRight", "Space"];
+const held = new Set();
+const touches = new Map();
+const pressed = key => held.has(key) || [...touches.values()].includes(key);
+const clamp = (value, min, max) => Math.min(max, Math.max(min, value));
+const distance = (point, tile) => Math.hypot(point.x - tile.x, point.y - tile.y);
+
+for (const [row, letters] of ["ABCDEFGHI", "JKLMNOPQR", "STUVWXYZ"].entries()) {
+  for (const [column, letter] of [...letters].entries()) {
+    const x = 360 + (column - (letters.length - 1) / 2) * 68;
+    const y = 128 + row * 73;
+    tiles[letter] = { x, y };
+    const node = document.createElementNS("http://www.w3.org/2000/svg", "text");
+    node.setAttribute("x", x);
+    node.setAttribute("y", y);
+    node.setAttribute("class", "letter");
+    node.textContent = letter;
+    get("alphabet").append(node);
+  }
+}
+
+let run;
+let frameId;
+const piece = get("piece");
+const glint = get("glint");
+const controlButtons = [...document.querySelectorAll("[data-key]")];
+
+function show(screen, focus) {
+  for (const id of ["entrance", "session", "ending"]) get(id).hidden = id !== screen;
+  get(focus).focus();
+}
+
+function updateControls() {
+  for (const button of controlButtons) button.classList.toggle("active", pressed(button.dataset.key));
+}
+
+function clearControls() {
+  held.clear();
+  touches.clear();
+  updateControls();
+}
+
+function start() {
+  clearControls();
+  run = {
+    transmission: selectTransmission(),
+    active: true, x: 360, y: 205, vx: 0, vy: 0, count: 0,
+    elapsed: 0, dwell: 0, locking: null, flash: 0, last: null
+  };
+  lastTransmission = run.transmission;
+  get("status").textContent = "Let it drift towards the glow. Hold steady as it reaches the letter.";
+  show("session", "session-title");
+  draw();
+  frameId = requestAnimationFrame(tick);
+}
+
+function finish(outcome) {
+  run.active = false;
+  if (outcome === "full" && storyIndex === transmissions.length - 1
+      && run.transmission === transmissions[storyIndex]) {
+    storyIndex += 1;
+  }
+  cancelAnimationFrame(frameId);
+  clearControls();
+  const endings = {
+    early: ["Session closed", "The rain comes back.", "You step outside carrying only the fragment. From this side, the church has one doorway. Something on the far side of it is still dry."],
+    full: ["Transmission recovered", run.transmission.title, run.transmission.scene],
+    lost: ["Contact lost", "The church has a roof.", "The board goes dark. Above you, rain drums on a roof that has been gone for years. You can hear someone inside the wall asking whether anyone is here."]
+  };
+  const [label, title, copy] = endings[outcome];
+  get("end-label").textContent = label;
+  get("end-title").textContent = title;
+  get("end-copy").textContent = copy;
+  get("end-fragment").textContent = run.count ? "Received · " + run.transmission.word.slice(0, run.count) : "No letters received";
+  show("ending", "end-title");
+}
+
+function move(dt) {
+  const { word } = run.transmission;
+  const letter = tiles[word[run.count]];
+  const target = letter || exitTile;
+  // After the first letter, the current pulls beside the mark. Nudge across it to register.
+  const driftOffset = letter && run.count > 0 ? (letter.x < 360 ? 39 : -39) : 0;
+  const pullX = target.x + driftOffset - run.x;
+  const pullY = target.y - run.y;
+  const steady = pressed("Space");
+  const dx = Number(pressed("ArrowRight")) - Number(pressed("ArrowLeft"));
+  const dy = Number(pressed("ArrowDown")) - Number(pressed("ArrowUp"));
+  const gap = Math.hypot(pullX, pullY);
+  const drag = steady && gap > 35 ? 0.35 : 1;
+  const pull = (!letter ? 95 : 100 + run.count * 31) * Math.min(1, gap / 42) * drag;
+  const disturbance = (11 + run.count * 7) * Math.min(1, gap / 35);
+  const damping = Math.exp(-(steady ? 9 : 1.9) * dt);
+  const thrust = steady ? 440 : 560;
+
+  run.vx = (run.vx + (thrust * dx + pull * pullX / Math.max(1, gap)
+    + disturbance * Math.sin(run.elapsed * 3.1)) * dt) * damping;
+  run.vy = (run.vy + (thrust * dy + pull * pullY / Math.max(1, gap)
+    + disturbance * Math.cos(run.elapsed * 2.3)) * dt) * damping;
+  const x = run.x + run.vx * dt;
+  const y = run.y + run.vy * dt;
+  run.x = clamp(x, 29, 691);
+  run.y = clamp(y, 33, 381);
+  if (x !== run.x) run.vx *= -0.35;
+  if (y !== run.y) run.vy *= -0.35;
+
+  if (run.flash > 0) run.flash -= dt;
+  const settled = steady && Math.hypot(run.vx, run.vy) < 36;
+  const atExit = run.count > 0 && Math.abs(run.x - exitTile.x) < 85 && Math.abs(run.y - exitTile.y) < 23;
+  const atLetter = letter && distance(run, letter) < 23;
+  const lock = settled ? (atExit ? "exit" : atLetter ? "letter" : null) : null;
+  if (lock !== run.locking) run.dwell = 0;
+  run.locking = lock;
+  if (!lock) return;
+  run.dwell += dt;
+  if (run.dwell < 0.65) return;
+
+  if (lock === "exit") {
+    finish(letter ? "early" : "full");
+    return;
+  }
+
+  run.count += 1;
+  run.flash = 0.23;
+  run.dwell = 0;
+  run.locking = null;
+  get("status").textContent = run.count === word.length
+    ? "Message received. The clock has stopped. Let it drift to GOODBYE, then hold Space or Steady there."
+    : "Crystalline Pinpoint. Nudge into the next glow, or hold Space or Steady on GOODBYE to leave.";
+}
+
+function draw() {
+  const { word } = run.transmission;
+  const target = tiles[word[run.count]];
+  const near = target && distance(run, target) < 63;
+  piece.setAttribute("transform", "translate(" + run.x + " " + run.y + ")");
+  piece.classList.toggle("lock", run.flash > 0);
+  glint.setAttribute("visibility", near ? "visible" : "hidden");
+  if (near) {
+    glint.setAttribute("cx", target.x);
+    glint.setAttribute("cy", target.y);
+  }
+  get("goodbye").classList.toggle("ready", run.count > 0);
+  get("lock-fill").style.width = (100 * run.dwell / 0.65) + "%";
+  const seconds = Math.ceil(Math.max(0, 60 - run.elapsed));
+  const clock = target ? Math.floor(seconds / 60) + ":" + String(seconds % 60).padStart(2, "0") : "SIGNAL COMPLETE";
+  const message = word.slice(0, run.count) + "·".repeat(word.length - run.count);
+  if (get("time").textContent !== clock) get("time").textContent = clock;
+  if (get("message").textContent !== message) get("message").textContent = message;
+}
+
+function tick(now) {
+  if (!run.active) return;
+  const dt = run.last === null ? 0 : Math.min((now - run.last) / 1000, 0.05);
+  run.last = now;
+  if (!document.hidden) {
+    run.elapsed += dt;
+    move(dt);
+    if (!run.active) return;
+    if (run.elapsed >= 60 && run.count < run.transmission.word.length) {
+      finish("lost");
+      return;
+    }
+    draw();
+  }
+  frameId = requestAnimationFrame(tick);
+}
+
+window.addEventListener("keydown", event => {
+  if (!run?.active || !arrows.includes(event.code) || event.ctrlKey || event.altKey || event.metaKey) return;
+  event.preventDefault();
+  held.add(event.code);
+  updateControls();
+});
+window.addEventListener("keyup", event => {
+  held.delete(event.code);
+  updateControls();
+});
+window.addEventListener("blur", clearControls);
+document.addEventListener("visibilitychange", () => {
+  clearControls();
+  if (run?.active) run.last = null;
+});
+for (const button of controlButtons) {
+  button.addEventListener("pointerdown", event => {
+    if (event.button !== 0) return;
+    event.preventDefault();
+    button.setPointerCapture(event.pointerId);
+    touches.set(event.pointerId, button.dataset.key);
+    updateControls();
+  });
+  for (const name of ["pointerup", "pointercancel", "lostpointercapture"]) {
+    button.addEventListener(name, event => {
+      touches.delete(event.pointerId);
+      updateControls();
+    });
+  }
+}
+get("enter").addEventListener("click", start);
+get("retry").addEventListener("click", () => show("entrance", "enter"));
+</script>
+</body>
+</html>

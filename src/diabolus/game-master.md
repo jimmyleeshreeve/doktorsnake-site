@@ -3,7 +3,7 @@ title: GameMaster — For Extraordinary Gambling Luck
 layout: layout.njk
 description: Petition to Asmodeus for getting the edge in casinos, and all games of chance.
 permalink: /diabolus/game-master/
-image: "/assets/img/asmodeus-cyber.jpg"
+image: "/assets/img/three-headed-asmodeus-circuit-dragon.jpg"
 noindex: false
 ---
 
@@ -11,12 +11,12 @@ noindex: false
 
 <p class="text">Petition to Asmodeus for getting the edge in casinos, and all games of chance.</p>
 
-<img class="about-hero" src="/assets/img/asmodeus-cyber.jpg"
-     alt="Asmodeus cyber">
+<img class="about-hero" src="/assets/img/three-headed-asmodeus-circuit-dragon.jpg"
+     alt="Three-headed Asmodeus and his circuit dragon">
 
 **Step into the realm of the extraordinary and become a GameMaster with the legendary power of Asmodeus.**
 
-Whether it’s roulette, slots, blackjack, poker — or even a risky $500 bet on an unpredictable twist of fate — you can stack the odds in your favour with this potent gambling luck spell.
+Whether it’s roulette, slots, blackjack, poker — or even a risky sizeable bet on an unpredictable twist of fate — you can stack the odds in your favour with this potent gambling luck working.
 
 ---
 
@@ -32,9 +32,9 @@ Through this ancient and powerful ritual, I channel his energy to bestow upon yo
 
 ## The Secret of Asmodeus
 
-The demon offers his favor with one crucial condition — a secret all gamblers should know but few ever discover.
+The demon offers his favour with one crucial condition — a secret all gamblers should know but few ever discover.
 
-After the spell is cast on your behalf, you’ll receive an exclusive audio message revealing this essential insight. This is the key to aligning your fortune with the demon’s will and unlocking the potential for extraordinary wins.
+After the spell is cast on your behalf, you’ll receive an exclusive audio message revealing this essential insight. This is the key to aligning your fortune with the demon’s will and unlocking the potential for wins that cannot be explained by mere chance.
 
 ---
 
@@ -44,18 +44,9 @@ After the spell is cast on your behalf, you’ll receive an exclusive audio mess
 
 *All workings are conducted personally by Doktor Snake and prepared specifically for the client.*
 
-<p class="text">→ If you wish to move ahead with this working, <strong><a href="/contact/">fire me an email</a></strong>, and I'll send you a Paypal (or Stripe) payment request — from there we'll get the show on the road.</p>
+<a class="btn btn-deploy ec_ejc_thkbx" href="https://www.fatfreecartpro.com/ecom/gb.php?&c=cart&ejc=2&cl=434879&i=1905449" onclick="return EJEJC_lc(this);" target="ej_ejc">Add to Cart — $999</a>
 
-⇛ Payment plans available on request — <a href="/contact/">email me.</a>
-
-<div class="btc-badge">
-  ALTERNATIVE PAYMENT CHANNEL :: ₿ BITCOIN AVAILABLE
-</div>
-
-<div class="note--inline">
-Bitcoin or other crypto accepted.<br>
-<a href="/contact/">Contact</a> Doktor Snake to arrange.
-</div>
+<small class="copy-note">The shopping cart offers PayPal and Stripe. Bitcoin and payment plans are available on request.</small>
 
 ---
 

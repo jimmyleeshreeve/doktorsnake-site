@@ -3,7 +3,7 @@ title: Duke Bune's Powerful Ritual
 layout: layout.njk
 description: Your finances — “material question” — taken care of.
 permalink: /diabolus/bune-ritual/
-image: "/assets/img/twilight-chapel-bune.jpg"
+image: "/assets/img/three-headed-bune-emerald-code.jpg"
 noindex: false
 ---
 
@@ -11,8 +11,8 @@ noindex: false
 
 <p class="text">Your finances — “material question” — taken care of.</p>
 
-<img class="about-hero" src="/assets/img/twilight-chapel-bune.jpg"
-     alt="Twilight Chapel Duke Bune">
+<img class="about-hero" src="/assets/img/three-headed-bune-emerald-code.jpg"
+     alt="Three-headed Duke Bune in emerald code">
 
 **If it’s money you need, or all-out wealth and power, Duke Bune can get it. He's a powerful spirit, known mostly from the medieval manuscript, the *Ars Goetia*.**
 
