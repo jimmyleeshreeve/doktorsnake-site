@@ -1,24 +1,23 @@
 ---
-title: "THE KEYS TO THE TAROT"
+title: "THE KEYS TO THE TAROT, PART ONE — MOON GLITCH"
 author: "Doktor Snake"
 description: "Seventy-eight cards. One virtual reality. And a cat that knows too much."
 date: 2026-11-06
 layout: layout.njk
 permalink: /machinekind/keys-tarot/
-image: "/assets/img/keys-tarot-cat.webp"
+image: "/assets/img/whiskers-moonlit-tarot.jpg"
 tags:
      - machinekind
      - dispatch
 ---
 
-# THE KEYS TO THE TAROT
+# THE KEYS TO THE TAROT, PART ONE — MOON GLITCH
 
 ### Seventy-eight cards. One virtual reality. And a cat that knows too much.
 
 DOKTOR SNAKE | TRANSMISSIONS FROM THE SLOPCORE LOUNGE
 
-<img class="about-hero" src="/assets/img/keys-tarot-cat.webp" alt="Cat overlooking dream virtual reality landscape" loading="lazy">
-
+<img class="about-hero" src="/assets/img/whiskers-moonlit-tarot.jpg" alt="Whiskers and his moonlit tarot" loading="lazy">
 
 I was in my teens when I bought my first Tarot deck.
 
@@ -1034,5 +1033,8 @@ The SlopCore Lounge and its events are speculative fiction, with the conversatio
 For readers interested in the history behind the fiction, the [Metropolitan Museum of Art](https://www.metmuseum.org/fr/perspectives/tarot-2) and [Victoria and Albert Museum](https://www.vam.ac.uk/articles/tarot-cards) document the early card-game history. Pamela Colman Smith’s 1909 illustrations and Waite’s Golden Dawn associations are discussed in [Llewellyn’s Tarot history](https://www.llewellyn.com/encyclopedia/term/Rider-Waite-Smith).
 
 </div>
+
+<img class="about-hero" src="/assets/img/keys-tarot-cat.webp" alt="Cat overlooking dream virtual reality landscape" loading="lazy">
+
 
 ⟗ O·L·S·Ξ ⟗
