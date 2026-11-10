@@ -44,11 +44,9 @@ Spend a few quiet moments looking at the sigil. Close your eyes and let the shap
 
 <p class="text"><strong>INVESTMENT</strong> :: $150 USD</p>
 
-<!-- Insert the live E-junkie link and uncomment this block before publishing.
-<a class="btn btn-deploy ec_ejc_thkbx" href="EJ_LINK_HERE" onclick="return EJEJC_lc(this);" target="ej_ejc">Add to Cart — $150</a>
+<a class="btn btn-deploy ec_ejc_thkbx" href="https://www.fatfreecartpro.com/ecom/gb.php?&c=cart&ejc=2&cl=434879&i=1905676" onclick="return EJEJC_lc(this);" target="ej_ejc">Add to Cart — $150</a>
 
 <small class="copy-note">The shopping cart offers PayPal and Stripe. Bitcoin, Ethereum and other cryptocurrencies are available on request.</small>
--->
 
 <img class="about-hero" src="/assets/img/sigil-magick.jpg"
      alt="Magician overlooking the cyberpunk skyline of MoonCity"
