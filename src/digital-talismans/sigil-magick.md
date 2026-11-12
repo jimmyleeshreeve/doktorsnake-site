@@ -59,3 +59,11 @@ Spend a few quiet moments looking at the sigil. Close your eyes and let the shap
 > The theory is that an image can carry an intention past the part of the mind that wants to keep talking it over. I think of it as handing the intention to the chthonic part of the mind, where it can run in the background.
 >
 > The old language says it's working in the ether. I like both ways of putting it. Either way, I close the tin and get on with the day.
+
+<img class="about-hero" src="/assets/img/sigil-magick-array.jpeg"
+     alt="Sigils drawn by Doktor Snake"
+     loading="lazy">
+     
+     <img class="about-hero" src="/assets/img/sigil-magick-clipboard.jpeg"
+     alt="Sigils drawn by Doktor Snake on a clipboard"
+     loading="lazy">

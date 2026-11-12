@@ -9,6 +9,7 @@ image: "/assets/img/whiskers-moonlit-tarot.jpg"
 tags:
      - machinekind
      - dispatch
+     - keys-tarot
 ---
 
 # THE KEYS TO THE TAROT, PART ONE — MOON GLITCH
