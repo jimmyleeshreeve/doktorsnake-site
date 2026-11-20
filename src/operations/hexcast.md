@@ -58,6 +58,9 @@ you need to hex.
   Commission HexCast — $375 →
 </a>
     </p>
+    
+    <small class="copy-note">The shopping cart offers PayPal and Stripe. Bitcoin, Ethereum and other cryptocurrencies are available on request.</small>
+
 
   </div>
 
