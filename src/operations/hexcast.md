@@ -44,7 +44,7 @@ you need to hex.
     </p>
 
     <p class="text">
-      <strong>$375 · Target · Gone</strong>
+      <strong>~~$750~~ — Limited time $375</strong>
     </p>
 
     <p>
