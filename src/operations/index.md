@@ -215,6 +215,15 @@ who want something direct, specific and proven through long use.
 </p>
 
 <div class="card">
+  <p class="eyebrow">Deal With Enemies</p>
+  <h3>HexCast :: Albatross Edition</h3>
+  <p>
+    Get rid of troublemakers, wrongdoers, and those wishing you ill-will.
+  </p>
+  <p><a href="/operations/hexcast/">View Working →</a></p>
+</div>
+
+<div class="card">
   <p class="eyebrow">Breaking Dependencies</p>
   <h3>Addiction Annihilator</h3>
   <p>
