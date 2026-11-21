@@ -1,5 +1,5 @@
 ---
-title: "THE KEYS TO THE TAROT"
+title: "THE KEYS TO THE TAROT, PART FIVE — THE GIRL WHO WASN'T BORN YET"
 author: "Doktor Snake"
 date: 2026-11-14
 description: "She was carrying a battered laptop under one arm. In her other hand was a small electronic device with wires hanging from it."
@@ -12,9 +12,9 @@ tags:
      - keys-tarot
 ---
 
-# THE KEYS TO THE TAROT
+# THE KEYS TO THE TAROT, PART FIVE — THE GIRL WHO WASN'T BORN YET
 
-## Part Five — The Girl Who Wasn't Born Yet
+**She was carrying a battered laptop under one arm. In her other hand was a small electronic device with wires hanging from it.**
 
 <img class="about-hero" src="/assets/img/whiskers-moonlit-tarot.jpg" alt="Whiskers and his moonlit tarot" loading="lazy">
 
