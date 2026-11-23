@@ -4,6 +4,9 @@ module.exports = function (eleventyConfig) {
   // Copy entire assets folder (img, audio, etc.)
   eleventyConfig.addPassthroughCopy({ "src/assets": "assets" });
 
+  // Copy Netlify redirects to the output folder
+  eleventyConfig.addPassthroughCopy({ "src/_redirects": "_redirects" });
+
   // Copy EPUB and PDF book downloads
   eleventyConfig.addPassthroughCopy({
     "src/books/downloads": "books/downloads"
