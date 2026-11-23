@@ -44,7 +44,7 @@ you need to hex.
     </p>
 
     <p class="text">
-      <strong>~~$750~~ — Limited time $375</strong>
+      <strong>$550 USD</strong>
     </p>
 
     <p>
@@ -55,7 +55,7 @@ you need to hex.
       <a class="btn" href="https://www.fatfreecartpro.com/ecom/gb.php?&c=cart&ejc=2&cl=434879&i=1906012"
    target="_blank"
    rel="noopener">
-  Commission HexCast — $375 →
+  Commission HexCast — $550 →
 </a>
     </p>
     
