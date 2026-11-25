@@ -16,6 +16,23 @@ I'm Doktor Snake: writer, magician and explorer of consciousness. Here you'll fi
 
 <img class="about-hero" src="/assets/img/ds-logo.jpg"
      alt="Doktor Snake — Edge Cult">
+     
+     <div class="card">
+  <p class="eyebrow">NEW RELEASE · NEW YEAR 2027</p>
+
+  <h3>New Year 2027 :: The Crystalline Pinpoint</h3>
+
+  <p>
+    Two New Year workings, from a focused seasonal
+    operation to an extended engagement · From $375
+  </p>
+
+  <p>
+    <a class="btn" href="/operations/new-year-2027/">
+      Explore New Year 2027 →
+    </a>
+  </p>
+</div>
 
 <h2 id="work-with-me">Work with me</h2>
 

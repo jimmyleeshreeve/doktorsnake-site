@@ -69,3 +69,6 @@ The aim is to see what emerges—and consider it with an open mind.
 One target. One session. A written report and one follow-up question.
 
 <a class="btn btn-deploy ec_ejc_thkbx" href="https://www.fatfreecartpro.com/ecom/gb.php?&amp;c=cart&amp;ejc=2&amp;cl=434879&amp;i=1906159" onclick="if (typeof EJEJC_lc === 'function') return EJEJC_lc(this);" target="ej_ejc">Add to Cart — $150</a>
+
+<script type="text/javascript">function EJEJC_lc(th) { return false; }; </script>
+<script src="https://www.fatfreecartpro.com/ecom/box_fb_n.js" type="text/javascript"></script>
